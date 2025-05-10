@@ -1,0 +1,563 @@
+id,teacher_id__email,teacher_id__first_name,teacher_id__last_name,dept_id,staff_code,teacher_role,is_industry_professional,resignation_status
+3,shebazahamed.jp@rajalakshmi.edu.in,Mr.,Shebaz Ahmed J P,2,AE67,Assistant Professor,0,active
+4,muthusamy.n@rajalakshmi.edu.in,Mr.,N Muthusamy,2,AE05,Professor and Dean,0,active
+5,sureshchandrakhandai@rajalakshmi.edu.in,Mr.,Dr. Suresh Chandra Khandai,2,AE23,Professor and HOD,0,active
+6,balaji.rajendran@rajalakshmi.edu.in,Mr.,Balaji Rajendran,2,AE60,Assistant Professor-SS,0,active
+7,nithiyanantham.kk@rajalakshmi.edu.in,Mr.,Nithiyanantham K K,2,AE75,Associate Professor,0,active
+8,premanand.tp@rajalakshmi.edu.in,Mr.,Prem Anand T P,2,AE73,Assistant Professor,0,active
+9,surendrabogadi@rajalakshmi.edu.in,Dr.,Surendra Bogadi,2,AE49,Associate Professor,0,active
+10,kathiravan.b@rajalakshmi.edu.in,Mr.,B Kathiravan,2,AE78,Professor,0,active
+11,harish.s.aero@rajalakshmi.edu.in,Mr.,S Harish,2,AE79,Assistant Professor,0,active
+12,sornashanthi.d@rajalakshmi.edu.in,Mrs.,Sorna Shanthi D,3,CS66,Associate Professor,0,active
+55,manju.m@rajalakshmi.edu.in,Ms.,M.Manju,4,IT214,Assistant Professor,0,active
+56,anbalagan.r@rajalakshmi.edu.in,Mr.,R.Anbalagan,5,AU11,Assistant Professor SG,0,active
+57,magesh.mp@rajalakshmi.edu.in,Mr.,Magesh M P,4,AU35,Associate Professor,0,active
+58,gayathri.m@rajalakshmi.edu.in,Dr.,Gayathri Meignanam,4,AU37,Professor,0,active
+59,karthikeyan.r2@rajalakshmi.edu.in,Mr.,R.Karthikeyan,5,AU51,Assistant Professor,0,active
+62,mullaisudaroli.b@rajalakshmi.edu.in,Mrs.,B.Mullai Sudaroli,5,ME232,Associate Professor,0,active
+63,rajasekaran.a@rajalakshmi.edu.in,Dr.,Rajasekaran Annamalai,4,IT246,Professor,0,active
+65,zahirhussain.m@rajalakshmi.edu.in,Mr.,Zahir Hussain M,5,AU46,Assistant Professor SG,0,active
+64,pavan.p@rajalakshmi.edu.in,Mr.,Pavan.P,5,AU35,AP SS Coordin PG Studies,0,active
+66,edwinjoseph.r@rajalakshmi.edu.in,Mr.,R. Edwin Joseph,5,AU49,Assistant Professor,0,active
+67,raju.k@rajalakshmi.edu.in,Dr.,Raju K,4,IT250,Associate Professor,0,active
+68,karuppathal.e@rajalakshmi.edu.in,Ms.,Karuppathal E,6,BM60,Assistant Professor,0,active
+69,sudha.singaram@rajalakshmi.edu.in,Ms.,S. Sudha,6,BM22,Associate Professor,0,active
+70,sankar.k@rajalakshmi.edu.in,Mr.,Sankar K,6,BM71,Assistant Professor,0,active
+71,selvaraju.pn@rajalakshmi.edu.in,Dr.,Selvaraju P N,5,AU50,Associate Professor,0,active
+72,krishnakumar.s@rajalakshmi.edu.in,Mr.,Krishnakumar S,6,BM66,Assistant Professor,0,active
+73,padmasini.n@rajalakshmi.edu.in,Mrs.,Dr. N.Padmasini,6,BM35,Associate Professor,0,active
+75,premkumar.r@rajalakshmi.edu.in,Mr.,R.Premkumar,6,BM23,Professor,0,active
+74,rajkumar.s@rajalakshmi.edu.in,Mr.,Dr.S.Rajkumar,6,BM61,Professor and HOD,0,active
+76,malathy.em@rajalakshmi.edu.in,Dr.,Malathy E M,4,IT262,Professor,0,active
+77,subathra.y@rajalakshmi.edu.in,Mrs.,Subathra Y,6,BM70,Assistant Professor -SS,0,active
+78,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Mr.,Dr.Sapthagirivasan,6,BM65,Adjunct Faculty,0,active
+79,jeminaasnothsylvia.j@rajalakshmi.edu.in,Mrs.,Jemina Asnoth Sylvia J,6,BM78,Assistant professor-SG,0,active
+80,rubeshkumar.t@rajalakshmi.edu.in,Dr.,Rubesh Kumar T,6,BM74,Assistant Professor SG,0,active
+81,jobinchrist.mc@rajalakshmi.edu.in,Mr.,Dr.M.C.Jobin Christ,6,BM59,Professor,0,active
+82,kalpana.r@rajalakshmi.edu.in,Mrs.,Dr. R. Kalpana,6,BM28,Professor and Dean,0,active
+83,abiramy.s@rajalakshmi.edu.in,Mrs.,S.Abiramy,6,BM73,Assistant Professor,0,active
+84,gloryprecious.j@rajalakshmi.edu.in,Dr.,Glory Precious J,6,BM81,Assistant Professor,0,active
+85,revathy.p.bme@rajalakshmi.edu.in,Ms.,Revathy P,6,BM83,Assistant Professor,0,active
+86,selvakumar.ta@rajalakshmi.edu.in,Mr.,Dr. T. A. Selvakumar,7,BT119,Associate Professor,0,active
+90,srinivasan.t@rajalakshmi.edu.in,Mr.,Srinivasan T,4,IT287,Professor Of Practice,0,active
+91,senthilkumar.p@rajalakshmi.edu.in,Mr.,Senthilkumar P,6,BM79,Assistant Professor,0,active
+93,anitha.t@rajalakshmi.edu.in,Mrs.,Dr.T.Anitha,7,BT122,Associate Professor,0,active
+94,hemavathy.rv@rajalakshmi.edu.in,Mrs.,Dr R V Hemavathy,7,BT131,Associate Professor,0,active
+119,preethy.kr@rajalakshmi.edu.in,Dr.,Preethy K R,7,BT181,Assistant Professor -SS,0,active
+95,sridhar.d@rajalakshmi.edu.in,Mr.,Dr.D.Sridhar,7,BT30,Associate Professor,0,active
+89,shanthipriya.a@rajalakshmi.edu.in,Mrs.,Shanthipriya A,6,BM86,Assistant Professor -SS,0,active
+96,sankar.m@rajalakshmi.edu.in,Mr.,M Sankar,7,BT33,Professor and HOD,0,active
+97,thiruvengadam.s@rajalakshmi.edu.in,Dr.,S.Thiruvengadam,7,BT109,Professor,0,active
+98,sathya.k@rajalakshmi.edu.in,Mrs.,Dr. K. Sathya,7,BT124,Professor,0,active
+99,vijayageetha.b@rajalakshmi.edu.in,Mrs.,Dr.B.Vijaya Geetha,7,BT114,Associate Professor,0,active
+100,anila.r@rajalakshmi.edu.in,Mrs.,Dr.R.Anila,7,BT85,Associate Professor,0,active
+101,nithyakalyanikrishnan@rajalakshmi.edu.in,Mrs.,Nithyakalyani Krishnan,6,BM82,Assistant Professor,0,active
+102,haripriya.d@rajalakshmi.edu.in,Mrs.,Dr.D.Haripriya,7,BT123,Associate Professor,0,active
+103,johannarajkumar@rajalakshmi.edu.in,Mrs.,Dr.Johanna Rajkumar,7,BT01,Professor and Dean,0,active
+367,priyadarshini.sr@rajalakshmi.edu.in,Dr.,Priyadarshini S R,18,BT159,Assistant Professor,0,active
+104,arunkumar.s@rajalakshmi.edu.in,Mr.,Arun Kumar S,7,BT125,Assistant Professor -SS,0,active
+105,sujataroy@rajalakshmi.edu.in,Mrs.,Dr. Sujata Roy,7,BT118,Assistant professor-SG,0,active
+106,millicentmable.m@rajalakshmi.edu.in,Mrs.,Dr.M.Millicent Mabel,7,BT107,Associate Professor,0,active
+107,divyalakshmi.s@rajalakshmi.edu.in,Mrs.,Divya Lakshmi. S,7,BT170,Assistant Professor,0,active
+108,kavitha.k@rajalakshmi.edu.in,Ms.,Kavitha K,7,BT165,Assistant Professor,0,active
+109,preethi.b@rajalakshmi.edu.in,Mrs.,Preethi B,7,BT166,Assistant Professor,0,active
+110,prathisha.m@rajalakshmi.edu.in,Mrs.,Prathisha M,6,BM72,Assistant Professor,0,active
+111,premalatha.n@rajalakshmi.edu.in,Mrs.,N.Premalatha,7,BT169,Assistant Professor,0,active
+112,carlingeormalar.g@rajalakshmi.edu.in,Mrs.,Dr. G. Carlin Geor Malar,7,BT156,Assistant Professor,0,active
+113,sangeethagandhi.s@rajalakshmi.edu.in,Mrs.,Sangeetha Gandhi S,7,BT171,Assistant Professor,0,active
+114,saravanan.p@rajalakshmi.edu.in,Mr.,Dr. Saravanan Periasamy,7,BT153,Associate Professor,0,active
+115,poorani.tr@rajalakshmi.edu.in,Dr.,T R Poorani,7,BT176,Assistant Professor,0,active
+116,surya.s@rajalakshmi.edu.in,Mrs.,Muneeswari Alias Surya S,7,BT178,Assistant Professor,0,active
+117,pavithra.ks@rajalakshmi.edu.in,Mrs.,Pavithra K S,7,BT172,Assistant Professor,0,active
+118,ambigadevi.j@rajalakshmi.edu.in,Mrs.,Ambigadevi J,8,CL03,Assistant Professor,0,active
+87,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Mr.,Ramachandran.R,6,BM78,Associate Professor,0,active
+88,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Dr.,Vigneswaran Narayanamurthy,6,BM84,Associate Professor,0,active
+92,rajasekar.p@rajalakshmi.edu.in,Mr.,Dr. P. Rajasekar,7,BT103,Associate Professor,0,active
+131,sundararaman.tr@rajalakshmi.edu.in,Mr.,Dr.T.R.Sundararaman,8,BT115,Professor and HOD,0,active
+132,vincentjoseph.kl@rajalakshmi.edu.in,Mr.,Dr. Vincent Joseph Kl,8,CL14,Professor,0,active
+133,shanthi.m@rajalakshmi.edu.in,Dr.,Shanthi M,7,BT182,Assistant Professor,0,active
+134,vasumathi.v@rajalakshmi.edu.in,Mrs.,Dr V Vasumathi,9,CH02,Professor And Academic Head,0,active
+135,kalaiarasi.n@rajalakshmi.edu.in,Mrs.,N Kalaiarasi,8,CL11,Assistant Professor,0,active
+136,ramadevi.p@rajalakshmi.edu.in,Mrs.,P. Ramadevi,9,CH18,Professor,0,active
+138,edwardjeyakumar.j@rajalakshmi.edu.in,Dr.,J Edward Jeyakumar,9,CH61,Assistant Professor -SS,0,active
+137,jasminefrancis.s@rajalakshmi.edu.in,Mrs.,Dr. S. Jasmine,9,CH48,Assistant Professor SG,0,active
+139,arikrishnan.j@rajalakshmi.edu.in,Mr.,Dr Arikrishnan J,9,CH59,Assistant Professor,0,active
+140,maryrosana.nt@rajalakshmi.edu.in,Mrs.,Dr. Mary Rosana Nt,8,CL05,Associate Professor,0,active
+141,mangaleswari.s@rajalakshmi.edu.in,Ms.,Mangaleswari S,8,CL18,Assistant Professor -SS,0,active
+142,inbaraj.v@rajalakshmi.edu.in,Mr.,V.Inbaraj Vadivel,9,CH49,Assistant Professor-SS,0,active
+143,udayakumari.d@rajalakshmi.edu.in,Mrs.,Dr. D. Udhayakumari,9,CH53,Assistant Professor -SS,0,active
+144,Anithajegadeeshwari.l@rajalakshmi.edu.in,Mrs.,L Anitha Jegadeeshwari,8,CL10,Assistant Professor,0,active
+145,jayakumar.s@rajalakshmi.edu.in,Mr.,Dr.Jayakumar S,9,CH51,Professor,0,active
+146,saraswathi.k@rajalakshmi.edu.in,Ms.,Dr. Saraswathi Kothandan,9,CH58,Assistant Professor,0,active
+120,narasimhareddy.s@rajalakshmi.edu.in,Mr.,Dr. Seelam Narasimha Reddy,8,CL12,Assistant Professor SG,0,active
+121,saranya.sr@rajalakshmi.edu.in,Mrs.,S.R.Saranya Arunkumar,7,BT173,Assistant Professor,0,active
+122,sinduja.me@rajalakshmi.edu.in,Mrs.,Sinduja M E,7,BT180,Assistant Professor,0,active
+123,sivamani.s@rajalakshmi.edu.in,Mr.,Dr. S. Sivamani,8,CL15,Associate Professor,0,active
+124,arun.a@rajalakshmi.edu.in,Mr.,A. Arun,7,BT168,Assistant Professor,0,active
+125,abhilasha.krishnamurthy@rajalakshmi.edu.in,Ms.,Abhilasha Krishnamurthy,8,CL16,Assistant Professor,0,active
+126,shreenidhi.ks@rajalakshmi.edu.in,Ms.,Dr Shreenidhi K.S,7,BT158,Assistant Professor,0,active
+127,vimaladevi.m@rajalakshmi.edu.in,Dr.,Vimala Devi,7,BT179,Assistant Professor,0,active
+128,rekha.ravendran@rajalakshmi.edu.in,Mrs.,Dr Rekha Ravindran,7,BT177,Assistant professor-SG,0,active
+129,rameschandrapanda@rajalakshmi.edu.in,Mr.,Ramesh Chandra Panda,8,CL17,Professor,0,active
+130,vijayaraghavan.g@rajalakshmi.edu.in,Mr.,G Vijayaraghavan,8,CL02,Associate Professor,0,active
+174,gopinath.k@rajalakshmi.edu.in,Mr.,Gopinath.K,11,IT208,Assistant Professor SG,0,active
+186,preethi.e@rajalakshmi.edu.in,Ms.,Preethi E,12,CS290,Assistant Professor,0,active
+32,manoranjini.j@rajalakshmi.edu.in,Dr.,Manoranjini J,3,IT234,Associate Professor,0,active
+175,jayanthi.m@rajalakshmi.edu.in,Mrs.,Jayanthi M,11,CS299,Assistant Professor,0,active
+187,kumar@rajalakshmi.edu.in,Mr.,Dr. Kumar P,13,IT03,Director And HOD,0,active
+188,vinodkumar.s@rajalakshmi.edu.in,Mr.,Dr.S.Vinodhkumar,13,CS69,Professor,0,active
+162,umamaguesvari.m@rajalakshmi.edu.in,Mrs.,Dr.M.Uma Maguesvari,10,CV81,Professor,0,active
+382,madhurani.m@rajalakshmi.edu.in,Mrs.,M.Madhu Rani,20,IT173,Assistant professor-SG,0,active
+189,umamaheswararao.s@rajalakshmi.edu.in,Mr.,S Umamaheswararao,12,CS289,AOP And HOD,0,active
+191,muralibhaskaran.v@rajalakshmi.edu.in,Mr.,Dr V.Murali Bhaskaran,13,CS218,PROFESSOR AND DEAN (ACADEMICS),0,active
+192,jananee.v@rajalakshmi.edu.in,Mrs.,Jananee V,13,CS182,Assistant Professor SG,0,active
+193,devaki.k@rajalakshmi.edu.in,Mrs.,Dr. K Devaki,11,CS195,Professor and HOD,0,active
+194,preethi.j@rajalakshmi.edu.in,Mrs.,J Preethi,13,CS247,Assistant Professor,0,active
+195,jaeyalakshmi.m@rajalakshmi.edu.in,Ms.,Jaeyalakshmi M,13,CS203,Assistant Professor -SS,0,active
+237,ragu.g@rajalakshmi.edu.in,Mr.,Ragu G,13,CS317,Assistant Professor,0,active
+196,shanmugam.p@rajalakshmi.edu.in,Mr.,Dr.P.Shanmugam,13,CS251,Associate Professor,0,active
+197,ponmani.s@rajalakshmi.edu.in,Mrs.,S.Ponmani,13,CS171,Assistant Professor SG,0,active
+163,yugasini.s@rajalakshmi.edu.in,Mrs.,Yugasini S,10,CV70,Assistant Professor,0,active
+200,ananthasivaprakasam.s@rajalakshmi.edu.in,Mr.,Dr.S.Anantha Sivaprakasam,13,CS237,Professor,0,active
+201,dharanidevi.g@rajalakshmi.edu.in,Mrs.,Dharani Devi G,13,IT191,Associate Professor,0,active
+202,duraimurugan.n@rajalakshmi.edu.in,Mr.,Dr. N. Duraimurugan,13,CS208,Associate Professor,0,active
+203,akiladevi.r@rajalakshmi.edu.in,Mrs.,Akiladevi R,13,CS178,Assistant Professor-SS,0,active
+204,bhuvaneswaran@rajalakshmi.edu.in,Mr.,Bhuvaneswaran B,13,CS77,Assistant Professor SG,0,active
+392,sangeetha.tupili@rajalakshmi.edu.in,Mrs.,Tupili Sangeetha,20,CS259,Assistant Professor SG,0,active
+205,santhiya.m@rajalakshmi.edu.in,Mrs.,Santhiya M,13,CS226,Assistant Professor,0,active
+164,poornimathi.k@rajalakshmi.edu.in,Mrs.,K Poornimathi,11,IT116,Assistant Professor SG,0,active
+206,sasikala.gm@rajalakshmi.edu.in,Mrs.,G.M. Sasikala,13,CS274,Assistant Professor,0,active
+35,anitha.r@rajalakshmi.edu.in,Ms.,R.Anitha,4,IT215,Assistant Professor,0,active
+207,srinivasan.n@rajalakshmi.edu.in,Mr.,Srinivasan N,13,CS239,Professor,0,active
+208,senthilpandi.s@rajalakshmi.edu.in,Mr.,Senthil Pandi S,13,CS258,Associate Professor,0,active
+165,manikandan.thirumalaisamy@rajalakshmi.edu.in,Dr.,Manikandan Thirumalaisamy,11,CS316,Professor,0,active
+209,anandhi.s@rajalakshmi.edu.in,Mrs.,Anandhi S,13,CS269,Assistant Professor,0,active
+210,kumaragurubaran.t@rajalakshmi.edu.in,Mr.,Kumaragurubaran T,13,CS262,Assistant Professor SG,0,active
+211,anand.k@rajalakshmi.edu.in,Mr.,Dr.K.Anand,13,CS253,Professor,0,active
+396,kalaivani.j@rajalakshmi.edu.in,Ms.,Kalaivani J,20,IT221,Assistant Professor,0,active
+167,rajammal.k@rajalakshmi.edu.in,Mrs.,Rajammal K,11,CS327,Assistant Professor,0,active
+213,auxiliaosvinnancy.v@rajalakshmi.edu.in,Dr.,V Auxilia Osvin Nancy,13,CS302,Assistant Professor,0,active
+214,Rahulchiranjeevi.v@rajalakshmi.edu.in,Mr.,Rahul Chiranjeevi,13,CS268,Assistant Professor,0,active
+215,deepakkumar.k@rajalakshmi.edu.in,Mr.,Deepakkumar K,13,CS273,Assistant Professor,0,active
+216,karthick.v@rajalakshmi.edu.in,Mr.,V Karthick,13,CS281,Associate Professor,0,active
+168,manigandan.r@rajalakshmi.edu.in,Mr.,Manigandan Ramadoss,9,CH60,Associate Professor,0,active
+176,praveen.ds@rajalakshmi.edu.in,Mr.,D S Praveen,11,CS300,Assistant Professor,0,active
+177,shanmugapriya.prakasam@rajalakshmi.edu.in,Mrs.,Dr.Shanmugapriya Prakasam,11,CS278,Professor,0,active
+218,bhavani.m@rajalakshmi.edu.in,Mrs.,Bhavani M,13,CS224,Assistant Professor -SS,0,active
+41,sampathkumar.v@rajalakshmi.edu.in,Dr.,Sampath Kumar V,3,IT256,Director -Startup HQ,0,active
+178,gunasekar.s@rajalakshmi.edu.in,Dr.,Gunasekar S,12,CS307,Assistant professor-SG,0,active
+219,aswanalal@rajalakshmi.edu.in,Mrs.,Aswana Lal,13,CS308,Assistant Professor,0,active
+220,ariyamala.v@rajalakshmi.edu.in,Ms.,V.Ariyamala,13,CS282,Assistant Professor,0,active
+169,selvakumar.m@rajalakshmi.edu.in;,Mr.,Dr. M. Selvakumar,10,CV27,Professor and Dean,0,active
+170,tamilselvi.p@rajalakshmi.edu.in,Mrs.,Dr. P. Tamil Selvi,11,CS270,Professor,0,active
+221,shafiyabanu.m@rajalakshmi.edu.in,Ms.,Shafiya Banu M,13,IT218,Assistant Professor,0,active
+222,ananthajothi.k@rajalakshmi.edu.in,Mr.,Dr.K.Ananthajothi,13,CS255,Professor,0,active
+223,vinothini.s@rajalakshmi.edu.in,Mrs.,S.Vinothini,13,CS272,Assistant Professor,0,active
+179,revathy.p@rajalakshmi.edu.in,Mrs.,Revathy Padmanabhan,12,CS11,Professor,0,active
+180,bakiyalakshmis@rajalakshmi.edu.in,Mrs.,S.Bakiyalakshmi,11,CS250,Assistant Professor,0,active
+224,mahesmeena@rajalakshmi.edu.in,Mrs.,Mahesmeena,13,CS291,Assistant Professor,0,active
+225,akshaikhaanth.jm@rajalakshmi.edu.in,Mr.,Akshai Khaanth J M,13,CS312,Assistant Professor,0,active
+226,muthupandeeswari.r@rajalakshmi.edu.in,Mrs.,Muthu Pandeeswari R,13,CS297,Assistant Professor,0,active
+227,rakeshkumar.m@rajalakshmi.edu.in,Dr.,M.Rakesh Kumar,13,CS279,Assistant Professor Cum CSRC Coordinator,0,active
+228,sandhiyavani.s@rajalakshmi.edu.in,Mrs.,Sandhiya Vani S,13,CS310,Assistant Professor,0,active
+229,sathiyavathi.s@rajalakshmi.edu.in,Mrs.,Sathiyavathi S,13,CS238,Assistant Professor,0,active
+238,balasubramanian.v@rajalakshmi.edu.in,Dr.,Balasubramanian V,14,CS315,Professor,0,active
+171,kalpana.d@rajalakshmi.edu.in,Mrs.,Kalpana D,12,CS296,Assistant Professor,0,active
+230,sivagami.s@rajalakshmi.edu.in,Ms.,Sivagami S,13,CS309,Assistant Professor,0,active
+231,divya.m@rajalakshmi.edu.in,Ms.,Divya M,13,CS298,Assistant Professor,0,active
+232,saravanagokul.g@rajalakshmi.edu.in,Mr.,Saravana Gokul G,13,CS265,Assistant Professor,0,active
+234,adlinlayola.ja@rajalakshmi.edu.in,Mrs.,J.A.Adlin Layola,13,IT210,Assistant Professor,0,active
+233,senthilkumar.ss@rajalakshmi.edu.in,Mr.,Senthilkumar S S,13,CS318,Assistant Professor -SS,0,active
+235,bhuvaneswari.r@rajalakshmi.edu.in,Dr.,Bhuvaneswari R,13,CS321,Associate Professor,0,active
+172,janani.u@rajalakshmi.edu.in,Ms.,Janani U,11,CS323,Teaching Assistant,0,active
+243,dharshini.bs@rajalakshmi.edu.in,Ms.,Dharshini B S,13,CS322,Assistant Professor,0,active
+241,rupmala.r@rajalakshmi.edu.in,Ms.,R Rupmala,14,CS324,Teaching Assistant,0,active
+402,sureshkumar.k@rajalakshmi.edu.in,Mr.,Suresh Kumar K,20,IT251,Assistant Professor -SS,0,active
+236,deepa.b@rajalakshmi.edu.in,Mrs.,Deepa B,13,CS314,Assistant professor-SG,0,active
+173,vishnukumar.a@rajalakshmi.edu.in,Dr.,Vishnu Kumar A,11,CS287,Associate Professor,0,active
+181,maharasi.m@rajalakshmi.edu.in,Ms.,M. Maharasi,11,CS263,Assistant Professor SG,0,active
+240,parthasarathy.c@rajalakshmi.edu.in,Mr.,Dr Parthasarathy C,13,CS305,Professor,0,active
+239,srinivas.vadlamani@rajalakshmi.edu.in,Mr.,Srinivas Vadlamani,13,CS301,Assistant Professor POP,0,active
+591,hod.csecs@rajalakshmi.edu.in,HOD,CSE(CS),14,CS40,HOD,0,active
+378,usha.s@rajalakshmi.edu.in,Mrs.,Usha S,20,IT30,Assistant Professor SG,0,active
+13,pradesh.s@rajalakshmi.edu.in,Mr.,Pradesh S,2,AE76,Assistant Professor,0,active
+14,renukadevi.s@rajalakshmi.edu.in,Ms.,S Renuka Devi,3,IT216,Assistant Professor,0,active
+184,vijayakumar.r@rajalakshmi.edu.in,Mr.,Vijayakumar R,12,CS176,Assistant Professor-SS,0,active
+185,thirumalairajan.g@rajalakshmi.edu.in,Mr.,Thirumalairajan G,12,CS306,Assistant Professor,0,active
+183,madhavaperumal.r@rajalakshmi.edu.in,Mr.,R Madhava Perumal,10,CV72,Assistant Professor,0,active
+159,jeyaarthi.aj@rajalakshmi.edu.in,Mrs.,A.J.Jeya Arthi,10,CV39,Assistant Professor -SS,0,active
+147,geetha.s@rajalakshmi.edu.in,Mrs.,Dr. S. Geetha,10,CV30,Professor and HOD,0,active
+148,premkumar.s@rajalakshmi.edu.in,Dr.,S Premkumar,10,CV61,Assistant Professor-SS,0,active
+149,sureshbabu.k@rajalakshmi.edu.in,Mr.,Dr. K. Suresh Babu K,9,CH44,Assistant Professor-SS,0,active
+150,seethalakshmi.k@rajalakshmi.edu.in,Mrs.,Dr.K.Seethalakshmi,9,CH37,Assistant Professor-SS,0,active
+151,mohan.s@rajalakshmi.edu.in,Mr.,Dr Mohan S,9,CH50,Assistant professor-SG,0,active
+152,mahamoodulhasan.n@rajalakshmi.edu.in,Mr.,Mahamood Ul Hasan N,10,CV19,Assistant professor-SG,0,active
+153,anu.s@rajalakshmi.edu.in,Dr.,S. Anu,9,CH41,Assistant Professor SG,0,active
+155,muthulakshmi.s@rajalakshmi.edu.in,Mrs.,S. Muthu Lakshmi,10,CV29,Assistant Professor SG,0,active
+154,mohandoss.s@rajalakshmi.edu.in,Mr.,Dr.S.Mohandoss,9,CH22,Associate Professor,0,active
+156,nisha.rs@rajalakshmi.edu.in,Mrs.,Nisha R S,11,IT172,Assistant Professor SG,0,active
+157,manoharan.m@rajalakshmi.edu.in,Dr.,M.Manoharan,10,CV65,Assistant Professor,0,active
+158,eswarydevi.t@rajalakshmi.edu.in,Dr.,T Eswary Devi,10,CV083,Assistant professor-SG,0,active
+245,chettiyarvanivivekanand@rajalakshmi.edu.in,Dr.,Chettiyar Vani Vivekanand,13,CS319,Professor,0,active
+251,asha.a@rajalakshmi.edu.in,Mrs.,Dr. A. Asha,16,EC34,Professor,0,active
+252,sathish.m@rajalakshmi.edu.in,Mr.,Dr. Sathish M,16,EC114,Professor,0,active
+253,duraipandian.n@rajalakshmi.edu.in /dean.cs@rajalakshmi.edu.in,Dr.,Duraipandian N,13,CS326,Professor and Dean,0,active
+254,palanivelan.m@rajalakshmi.edu.in,Mr.,Dr M Palanivelan,16,EC31,Professor Director PG Stu,0,active
+255,sudha.k@rajalakshmi.edu.in,Mrs.,K.Sudha,16,EE55,Assistant Professor SG,0,active
+256,radhamani.v@rajalakshmi.edu.in,Mrs.,Radhamani .V,16,EC134,Assistant Professor SG,0,active
+257,suganthi.s@rajalakshmi.edu.in,Mrs.,Dr.S.Suganthi,16,EC104,Professor,0,active
+258,senthilkumar.k1@rajalakshmi.edu.in,Mr.,Senthilkumar K,13,CS332,Professor Of Practice,0,active
+272,gururaj.d@rajalakshmi.edu.in,Mr.,Gururaj D,16,EC143,Assistant Professor-SS,0,active
+259,selvakumar.vs@rajalakshmi.edu.in,Mr.,Dr.V.S.Selvakumar,16,EC67,Professor,0,active
+263,bharathy.r@rajalakshmi.edu.in,Mrs.,R Bharathy,16,EC147,Assistant Professor-SS,0,active
+260,thilakavathi.b@rajalakshmi.edu.in,Mrs.,B.Thilakavathi,16,EC04,Professor,0,active
+261,helanvidhya.t@rajalakshmi.edu.in,Mrs.,T. Helan Vidhya,16,EC171,Assistant Professor SG,0,active
+265,jananishree.u@rajalakshmi.edu.in,Mrs.,Jhanani Shree U,16,EC160,Assistant Professor-SS,0,active
+264,benazirbegam.r@rajalakshmi.edu.in,Mrs.,Benazir Begam R,16,EC162,Assistant Professor-SS,0,active
+266,bhagyalakshmi.l@rajalakshmi.edu.in,Mrs.,Dr.L.Bhagyalakshmi,16,EC173,Professor and HOD,0,active
+267,shaikthasleembanu@rajalakshmi.edu.in,Mrs.,Shaik Thasleem Bhanu,16,EC121,Assistant Professor SG,0,active
+268,kirubhakar.tt@rajalakshmi.edu.in,Mr.,Kirubhakar T T,13,CS334,Assistant Professor POP,0,active
+269,shanmugapriya.p@rajalakshmi.edu.in,Mrs.,Shanmuga Priya P,16,EC172,Assistant Professor-SS,0,active
+273,mariammal.t@rajalakshmi.edu.in,Mrs.,Dr.T.Mariammal,16,EE98,Professor,0,active
+271,saranya.g@rajalakshmi.edu.in,Dr.,Saranya G,16,EC190,Assistant Professor -SS,0,active
+274,saranya.j@rajalakshmi.edu.in,Mrs.,Dr. Saranya J,16,EC135,Associate Professor,0,active
+270,muralikrishna.k@rajalakshmi.edu.in,Mr.,Murali Krishna K,16,EC185,Assistant Professor,0,active
+275,sujatha.l@rajalakshmi.edu.in,Mrs.,L. Sujatha,16,EC106,Professor And Research,0,active
+276,anithamary.m@rajalakshmi.edu.in,Mrs.,Anitha Mary M,16,EC149,Assistant Professor-SS,0,active
+277,asokan.v@rajalakshmi.edu.in,Mr.,Asokan V,16,EC167,Assistant Professor-SS,0,active
+278,sathya.r@rajalakshmi.edu.in,Mrs.,Sathya.R,16,EC181,Assistant Professor-SS,0,active
+279,indhumathi.g@rajalakshmi.edu.in,Mrs.,Ms. Indhumathi G,16,EC197,Assistant Professor,0,active
+280,gayathri.r@rajalakshmi.edu.in,Mrs.,Dr.R.Gayathri,16,EC193,Professor,0,active
+281,sudharsan.s@rajalakshmi.edu.in,Mr.,S Sudharsan,16,EC192,Assistant Professor,0,active
+282,karthi.j@rajalakshmi.edu.in,Mr.,Karthi J,16,EC163,Assistant Professor-SS,0,active
+283,latha.m@rajalakshmi.edu.in,Ms.,M. Latha,16,EC204,Associate Professor,0,active
+284,sathiyavathi.sasikumar@rajalakshmi.edu.in,Dr.,Sathiyavathi S,16,EC215,Professor,0,active
+285,sowmiya.g@rajalakshmi.edu.in,Mrs.,Sowmiya G,16,EC206,Assistant Professor,0,active
+286,vinodhini.sv@rajalakshmi.edu.in,Ms.,Dr.S.V.Vinodhini,16,EC198,Assistant Professor,0,active
+287,ganesamoorthy.r@rajalakshmi.edu.in,Mr.,Ganesamoorthy R,16,EC205,Assistant Professor SG,0,active
+288,yogalakshmi.v@rajalakshmi.edu.in,Mrs.,Yogalakshmi.V,16,EC186,Assistant professor-SG,0,active
+289,senthilraja.b@rajalakshmi.edu.in,Mr.,Senthilraja B,16,EC210,Assistant Professor,0,active
+290,nirmala.d@rajalakshmi.edu.in,Mrs.,Nirmala D,16,EC212,Assistant Professor,0,active
+291,priyankadevi.s@rajalakshmi.edu.in,Ms.,S.Priyanka Devi,16,EC201,Assistant Professor,0,active
+292,sasirekha.d@rajalakshmi.edu.in,Mrs.,Sasirekha D,16,EC175,Assistant Professor SG,0,active
+315,balaji.sr@rajalakshmi.edu.in,Dr.,S R Balaji,16,EC214,Assistant professor-SG,0,active
+294,geethapriya.v@rajalakshmi.edu.in,Mrs.,Dr. V. Geetha Priya,15,EE03,Professor,0,active
+293,tamilarasi.m@rajalakshmi.edu.in,Mrs.,Tamilarasi M,16,EC177,Assistant Professor-SS,0,active
+295,uppuramachandraiah@rajalakshmi.edu.in,Dr.,Uppu Ramachandraiah,16,EC213,Professor,0,active
+296,brenda.m@rajalakshmi.edu.in,Ms.,M.Brenda,16,EC200,Assistant Professor,0,active
+246,subashrimeenakshi.g@rajalakshmi.edu.in,Mrs.,Subashri Meenakshi G,14,IT258,Assistant Professor,0,active
+247,manikandan.t@rajalakshmi.edu.in,Mr.,Dr. T. Manikandan,16,EC101,Professor,0,active
+248,subamalai.r@rajalakshmi.edu.in,Mrs.,Suba Malai Rajasekar,13,CS333,Assistant Professor,0,active
+249,chitra.s@rajalakshmi.edu.in,Mrs.,Dr.S.Chitra,16,EC47,Professor,0,active
+298,essakiraj.r@rajalakshmi.edu.in,Mr.,Dr.R. Essaki Raj,15,EE43,Professor,0,active
+299,jayanthi.d@rajalakshmi.edu.in,Dr.,Jayanthi D,16,EC211,Professor,0,active
+297,loganathan.g@rajalakshmi.edu.in,Mr.,G Loganathan,16,EC207,Assistant Professor,0,active
+300,padmavathi.r@rajalakshmi.edu.in,Mrs.,Padmavathi R,15,EE40,Assistant Professor SG,0,active
+319,sivaraman.pr@rajalakshmi.edu.in,Mr.,Dr. P. R. Sivaraman,15,EE82,Associate Professor,0,active
+320,ragupathy.p@rajalakshmi.edu.in,Mr.,Ragupathy P,15,EE90,Assistant Professor SG,0,active
+301,sushmasjagtap@rajalakshmi.edu.in,Mrs.,Sushma S Jagtap,16,EC179,Assistant Professor,0,active
+323,subbiah.m@rajalakshmi.edu.in,Mr.,Dr.M.Subbiah,15,EE50,Professor PG,0,active
+322,sowmiya.a@rajalakshmi.edu.in,Ms.,A Sowmiya,15,EE128,Assistant Professor,0,active
+324,sivakumar.p@rajalakshmi.edu.in,Mr.,Sivakumar P,15,EE112,Professor,0,active
+326,nazarali.a@rajalakshmi.edu.in,Mr.,A.Nazar Ali,15,EE125,Professor,0,active
+327,anitha.d@rajalakshmi.edu.in,Mrs.,Anitha.D,15,EE114,Assistant Professor-SS,0,active
+328,roncarter.sb@rajalakshmi.edu.in,Mr.,Ron Carter Sb,15,EE102,Assistant Professor-SS,0,active
+329,shyam.d@rajalakshmi.edu.in,Mr.,D Shyam,15,EE96,Assistant Professor SG,0,active
+331,amutha.c@rajalakshmi.edu.in,Mrs.,Amutha C,15,EE99,Assistant Professor SG,0,active
+330,jenysophia.s@rajalakshmi.edu.in,Ms.,Jeny Sophia S,15,EE117,Assistant Professor,0,active
+332,ramareddy.s@rajalakshmi.edu.in,Mr.,Dr. S.Rama Reddy,15,EE126,Professor and Dean,0,active
+333,aswini.a@rajalakshmi.edu.in,Mrs.,Aswini A,15,EE135,Assistant Professor,0,active
+334,umamaheswari.mg@rajalakshmi.edu.in,Mrs.,Dr.M.G.Umamaheswari,15,EE121,Professor,0,active
+335,srinivasan.c@rajalakshmi.edu.in,Mr.,Srinivasan C,15,EE136,Assistant professor-SG,0,active
+337,vinitha.jc@rajalakshmi.edu.in,Ms.,J C Vinitha,15,EE129,Assistant Professor SG,0,active
+338,dhandayuthapani.s@rajalakshmi.edu.in,Dr.,Dhandayuthapani S,15,EE138,Assistant Professor -SS,0,active
+339,brindhukumari.a@rajalakshmi.edu.in,Mrs.,Brindhu Kumari,15,EE139,Assistant Professor -SS,0,active
+302,indhubala.b@rajalakshmi.edu.in,Mrs.,Indhu Bala B,16,EC217,Assistant Professor,0,active
+303,devimaheswaran.v@rajalakshmi.edu.in,Mrs.,V Devi Maheswaran,15,EE48,Associate Professor,0,active
+304,kumaran.n@rajalakshmi.edu.in,Dr.,Kumaran N,16,EC209,Assistant professor-SG,0,active
+305,prabhu.ae@rajalakshmi.edu.in,Mr.,A.E. Prabhu,16,EC194,Assistant Professor,0,active
+307,jayasree.k@rajalakshmi.edu.in,Mrs.,Jayashree K,15,EE77,Assistant Professor SG,0,active
+306,santhanakrishnan.t@rajalakshmi.edu.in,Mr.,Santhanakrishnan T,15,EE23,Assistant Professor SG,0,active
+308,kavitha.j@rajalakshmi.edu.in,Mrs.,Dr. J. Kavitha,15,EE05,Professor,0,active
+309,antosheeba.j@rajalakshmi.edu.in,Mrs.,Anto Sheeba J,15,EE78,Assistant Professor SG,0,active
+250,ayyadurai.m@rajalakshmi.edu.in,Mr.,Ayyadurai M,13,CS313,Associate Professor,0,active
+310,alicehepzibah.a@rajalakshmi.edu.in,Mrs.,Dr.Alice Hepzibah.A,15,EE10,Professor,0,active
+312,selvaraj.a@rajalakshmi.edu.in,Mr.,Dr. A. Selvaraj,15,EE54,Professor,0,active
+321,saravanan.ts@rajalakshmi.edu.in,Mr.,T. S. Saravanan,15,EE57,Assistant Professor SG,0,active
+313,kalaivani.r@rajalakshmi.edu.in,Mrs.,Dr.R.Kalaivani,15,EE11,Professor,0,active
+314,thirusenthilkumaran.p@rajalakshmi.edu.in,Mr.,Dr. P. Thirusenthil Kumaran,15,EE59,Associate Professor,0,active
+316,rajalakshmi.a@rajalakshmi.edu.in,Mrs.,Dr A Rajalakshmi,15,EE56,Professor,0,active
+317,jeevani.r@rajalakshmi.edu.in,Dr.,R Jeevani,16,EC216,Assistant Professor -SS,0,active
+262,priya.b@rajalakshmi.edu.in,Mrs.,Dr B Priya,16,EC130,Professor,0,active
+318,sivagami.v@rajalakshmi.edu.in,Mrs.,V.Sivagami,15,EE108,Assistant Professor SG,0,active
+340,rohini.s@rajalakshmi.edu.in,Mrs.,Rohini S,17,EN68,Assistant Professor,0,active
+341,vijayalakshmi.km@rajalakshmi.edu.in,Ms.,K M Vijayalakshmi,15,EE132,Assistant Professor,0,active
+342,andria.babu@rajalakshmi.edu.in,Mrs.,Andria Babu,17,EN46,Assistant Professor-SS,0,active
+343,janet.g@rajalakshmi.edu.in,Mrs.,G.Janet,17,EN40,Assistant Professor-SS,0,active
+344,alamelu.g@rajalakshmi.edu.in,Mrs.,Alamelu G,17,EN36,AOP Academic Head,0,active
+345,renuga.bs@rajalakshmi.edu.in,Mrs.,Renuka B S,17,EN49,Assistant Professor-SS,0,active
+351,kandaswamy.kv@rajalakshmi.edu.in,Dr.,Kandaswamy K V,15,EE134,Associate Professor,0,active
+346,muthumanikandan.m@rajalakshmi.edu.in,Mr.,M. Muthumanikandan,17,EN62,Assistant Professor SG,0,active
+347,sangari.a@rajalakshmi.edu.in,Dr.,A.Sangari,15,EE52,Associate Professor,0,active
+348,raghavi.kk@rajalakshmi.edu.in,Ms.,Raghavi K K,17,EN69,Assistant Professor,0,active
+349,lakshmi.b@rajalakshmi.edu.in,Mrs.,Dr. B.Lakshmi,17,EN63,Associate Professor,0,active
+350,krishnan.s@rajalakshmi.edu.in,Mr.,Krishnan S,15,EE137,Assistant Professor -SS,0,active
+352,sharmila.b@rajalakshmi.edu.in,Mrs.,Sharmila B,17,EN71,Assistant Professor,0,active
+353,vijay.m@rajalakshmi.edu.in,Mr.,Vijay Muthuswamy,17,EN38,Assistant Professor SG,0,active
+354,manimegalai.d@rajalakshmi.edu.in,Ms.,D Manimegalai,15,EE130,Assistant Professor,0,active
+355,rajalakshmi.b@rajalakshmi.edu.in,Ms.,Rajalakshmi B,17,EN57,Assistant Professor-SS,0,active
+356,dinakaran.s@rajalakshmi.edu.in,Mr.,Dinakaran S,17,EN73,Assistant Professor,0,active
+357,malathy.g@rajalakshmi.edu.in,Ms.,Malathy G,17,EN81,Assistant Professor,0,active
+358,sridevi.m@rajalakshmi.edu.in,Mrs.,Dr Sridevi M,15,EE133,Professor,0,active
+359,srihari.g@rajalakshmi.edu.in,Dr.,Sri Hari. G,17,EN35,Assistant Professor SG,0,active
+360,shanmugapriya.k@rajalakshmi.edu.in,Mrs.,Shanmugapriya Kumaravelu,17,EN80,Assistant Professor,0,active
+361,gayathri.k.english@rajalakshmi.edu.in,Mrs.,Gayathri K,17,EN77,Assistant Professor,0,active
+362,rajasree.b@rajalakshmi.edu.in,Dr.,Rajasree Baskaran,17,EN75,Assistant Professor -SS,0,active
+363,jebarajkabriel@rajalakshmi.edu.in,Mr.,Jebaraj Kabriel,17,EN70,Assistant Professor,0,active
+364,hastin.fernandez@rajalakshmi.edu.in,Mr.,Hastin Fernandez,17,EN33,Assistant professor-SG,0,active
+365,sivamani.d@rajalakshmi.edu.in,Mrs.,Sivamani.D,15,EE60,Assistant Professor-SS,0,active
+366,sudhakar.v@rajalakshmi.edu.in,Mr.,Dr.V.Sudhakar,18,FT19,Professor,0,active
+369,niveadhitha.s@rajalakshmi.edu.in,Ms.,Dr. Niveadhitha S,18,FT09,Assistant Professor SG,0,active
+372,kulasticjassy.a@rajalakshmi.edu.in,Mrs.,Kulastic Jassy A,18,FT10,Assistant Professor,0,active
+371,angel.p@rajalakshmi.edu.in,Mrs.,Angel P,17,EN59,Assistant Professor,0,active
+373,chitradevi.p@rajalakshmi.edu.in,Mrs.,Chitra Devi P,17,EN78,Assistant Professor,0,active
+374,srimagal.a@rajalakshmi.edu.in,Mrs.,Ms.A.Srimagal,18,FT12,Assistant Professor,0,active
+370,aishwarya.m@rajalakshmi.edu.in,Mrs.,Aishwarya M,17,EN82,Assistant Professor,0,active
+375,malikunnisha.n@rajalakshmi.edu.in,Ms.,Malikunnisha Mohamed Noorullah,17,EN72,Assistant Professor,0,active
+376,bharathi.p@rajalakshmi.edu.in,Mrs.,Dr. P. Bharathi,18,FT16,Associate Professor,0,active
+377,agnesnirmala.j@rajalakshmi.edu.in,Ms.,Agnes Nirmala J,17,EN83,Associate Professor,0,active
+182,pradeepkumar.s@rajalakshmi.edu.in,Mr.,S Pradeep Kumar,12,CS331,Assistant Professor,0,active
+161,gouthampriya.m@rajalakshmi.edu.in,Mrs.,Goutham Priya M,10,CV35,Assistant professor-SG,0,active
+380,divyashree.js@rajalakshmi.edu.in,Ms.,Divyashree J S,18,FT26,Assistant Professor,0,active
+160,geetha.j@rajalakshmi.edu.in,Mrs.,Geetha Chandrasekran,9,CH52,Assistant Professor-SS,0,active
+383,Priya.vijay@rajalakshmi.edu.in,Mrs.,Priya Vijay,20,CS47,Professor,0,active
+33,akshaya.v@rajalakshmi.edu.in,Ms.,V Akshaya,4,IT212,Assistant Professor,0,active
+384,narayana.ke@rajalakshmi.edu.in,Mr.,Narayana K E,20,CS200,Assistant Professor SG,0,active
+385,manonmani.k@rajalakshmi.edu.in,Mrs.,Manonmani K,18,FT13,Assistant Professor,0,active
+386,anand.r@rajalakshmi.edu.in,Mr.,Anand R,18,FT23,Assistant Professor,0,active
+198,farjana.u@rajalakshmi.edu.in,Mrs.,Farjana U,13,IT194,Assistant Professor,0,active
+387,bhalashri.sethuraman@rajalakshmi.edu.in,Mrs.,Bhalashri Sethuraman,20,IT192,Assistant Professor,0,active
+199,jinusophia.j@rajalakshmi.edu.in,Mrs.,J.Jinu Sophia,13,CS221,Assistant Professor SG,0,active
+34,aloysieanisha.t@rajalakshmi.edu.in,Mrs.,Aloysie Anisha.T,4,IT209,Assistant Professor,0,active
+389,nithyabalasundari.s@rajalakshmi.edu.in,Mrs.,Nithya Bala Sundari S,18,FT25,Assistant Professor,0,active
+390,aruthradevi.g@rajalakshmi.edu.in,Mrs.,Aruthra Devi G,18,FT08,Assistant Professor,0,active
+391,neelaveni.p@rajalakshmi.edu.in,Mrs.,Dr.P.Neelaveni,20,IT200,Professor,0,active
+388,sandhiya.m@rajalakshmi.edu.in,Mrs.,M.Sandhiya,20,IT189,Assistant Professor,0,active
+393,leenajeniferl@rajalakshmi.edu.in,Mrs.,L.Leena Jenifer,20,IT203,Assistant Professor,0,active
+394,kalaivani.a@rajalakshmi.edu.in,Mrs.,Dr.A.Kalaivani,20,IT199,Professor,0,active
+395,subbiah.s@rajalakshmi.edu.in,Mr.,Dr.S.Subbiah,20,IT198,Professor,0,active
+166,ammaiappan.m@rajalakshmi.edu.in,Mr.,Ammaiappan.M,10,CV67,Assistant Professor-SS,0,active
+36,sreesubha.s@rajalakshmi.edu.in,Mrs.,Sree Subha S,4,IT227,Assistant professor-SG,0,active
+212,muneeshwari.p@rajalakshmi.edu.in,Ms.,Muneeshwari R,13,CS284,Professor,0,active
+37,kumaran.u@rajalakshmi.edu.in,Mr.,Kumaran U,4,IT232,Assistant Professor -SS,0,active
+38,vijay.k@rajalakshmi.edu.in,Mr.,Vijay K,4,CS175,Assistant Professor SG,0,active
+15,harikrishnan.r@rajalakshmi.edu.in,Mr.,Harikrishnan Ravichandran,2,IT213,Assistant Professor,0,active
+39,sangeetha.k@rajalakshmi.edu.in,Mrs.,Sangeetha K,4,IT195,Assistant Professor,0,active
+40,sowmia.kr@rajalakshmi.edu.in,Mrs.,Sowmia K R,4,IT178,Assistant Professor SG,0,active
+16,nirmalaanandhi.y@rajalakshmi.edu.in,Mrs.,Nirmala Anandhi Y,3,IT228,Assistant Professor -SS,0,active
+17,indirapriya.p@rajalakshmi.edu.in,Mrs.,Dr.P.Indira Priya,3,IT213,Professor,0,active
+217,sabitha.r@rajalakshmi.edu.in,Mrs.,Dr.R.Sabitha,13,CS256,Professor,0,active
+397,saviermutjabraj.a@rajalakshmi.edu.in,Mr.,Savier Mut Jabraj A,17,EN79,Assistant Professor,0,active
+398,babu.m@rajalakshmi.edu.in,Mr.,Dr.M.Babu,20,IT201,Professor,0,active
+18,selvarani.k@rajalakshmi.edu.in,Mrs.,Selvarani K,3,IT245,Assistant Professor,0,active
+42,gnanasekar.jm@rajalakshmi.edu.in,Dr.,Gnanasekar J M,3,IT239,Professor and HOD,0,active
+43,devendarrao.b@rajalakshmi.edu.in,Dr.,Devendar Rao.B,4,IT211,Assistant Professor,0,active
+44,ramasubramanian.g@rajalakshmi.edu.in,Mr.,Ramasubramanian G,4,IT226,Associate Professor,0,active
+19,nithiyaraj.m@rajalakshmi.edu.in,Dr.,Nithiyaraj M,2,AE81,Assistant Professor POP,0,active
+399,prasannakumari.v@rajalakshmi.edu.in,Mrs.,Dr.V.Prasannakumari,20,MC55,Professor,0,active
+400,muthukumar.b@rajalakshmi.edu.in,Mr.,Dr B Muthu Kumar,20,IT230,Professor,0,active
+45,karthikeyan.r3@rajalakshmi.edu.in,Dr.,Karthikeyan R,4,IT232,Professor And COE,0,active
+20,preejith.p@rajalakshmi.edu.in,Mr.,Preejith P,3,IT243,Assistant Professor POP,0,active
+46,saranya.s@rajalakshmi.edu.in,Ms.,Saranya S,4,CS266,Assistant Professor,0,active
+21,jayasriarchanadevi.p@rajalakshmi.edu.in,Mrs.,Jayasri Archana Devi P,3,IT224,Assistant professor-SG,0,active
+22,thiyagarajan.g@rajalakshmi.edu.in,Mr.,Thiyagarajan G,3,IT217,Assistant Professor,0,active
+401,padmini.s@rajalakshmi.edu.in,Mrs.,Padmini S,20,IT223,Assistant Professor,0,active
+47,balamurugan.mn@rajalakshmi.edu.in,Dr.,N M Balamurugan,4,IT236,Professor,0,active
+23,ponnila.p@rajalakshmi.edu.in,Ms.,Ponnila P,3,IT253,Assistant Professor -SS,0,active
+24,vasthaduvasukannah.dl@rajalakshmi.edu.in,Mr.,D.L. Vasthadu Vasu Kannah,2,AE72,Assistant Professor-SS,0,active
+48,raja.r@rajalakshmi.edu.in,Dr.,Raja Ramamoorthi,4,IT264,Assistant professor-SG,0,active
+403,pragadeeshm@rajalakshmi.edu.in,Mr.,Pragadeesh M,20,IT204,Assistant Professor,0,active
+49,mohanraj.k@rajalakshmi.edu.in,Mr.,Mohanraj K,5,AU20,Assistant Professor-SS,0,active
+404,arunajameela.ap@rajalakshmi.edu.in,Mrs.,A.P.Aruna Jameela,20,IT187,Assistant Professor,0,active
+50,jasminegabriel.j@rajalakshmi.edu.in,Mrs.,J Jasmine Gabriel,4,IT252,Assistant Professor,0,active
+25,saravanakumar.v@rajalakshmi.edu.in,Dr.,Saravana Kumar V,3,IT237,Professor,0,active
+26,sureshkumar.s@rajalakshmi.edu.in,Mr.,Suresh Kumar S,3,CS49,Professor,0,active
+27,mariyamonicacelestina.a@rajalakshmi.edu.in,Mrs.,Mariya Monica Celestina,3,IT255,Assistant Professor,0,active
+28,aswinjabamahir@rajalakshmi.edu.in,Mr.,Aswin Jeba Mahir A,3,IT265,Assistant Professor,0,active
+29,beulah.a@rajalakshmi.edu.in,Dr.,Beulah A,3,IT257,Associate Professor,0,active
+244,madhusudhan.s@rajalakshmi.edu.in,Dr.,Madhusudhanan S,13,CS320,Associate Professor,0,active
+405,premalatha.pn@rajalakshmi.edu.in,Mrs.,Premalatha Anand,20,IT259,Assistant Professor POP,0,active
+406,renuga.c@rajalakshmi.edu.in,Mrs.,C. Renuga,22,MA76,Assistant Professor SG,0,active
+51,sekar.k@rajalakshmi.edu.in,Mr.,Dr Sekar K,4,CS295,Professor and HOD,0,active
+52,soundarya.m@rajalakshmi.edu.in,Ms.,Soundarya M,4,IT261,Assistant Professor,0,active
+407,kalaivani.s@rajalakshmi.edu.in,Mrs.,Kalaivani S,20,IT231,Assistant Professor,0,active
+53,divya.s@rajalakshmi.edu.in,Mrs.,Divya S,4,IT225,Assistant Professor,0,active
+30,srinivasan.thiagarajan@rajalakshmi.edu.in,Mr.,Srinivasan Thaigarajan,3,IT254,Professor Of Practice,0,active
+54,priya.m@rajalakshmi.edu.in,Mrs.,Priya M,4,IT242,Assistant Professor,0,active
+379,vijayalakshmi.m@rajalakshmi.edu.in,Dr.,Vijayalakshmi M,17,EN76,Assistant Professor -SS,0,active
+409,rajalakshmy.d@rajalakshmi.edu.in,Mrs.,Ms. D. Rajalakshmy,22,MA72,Associate Professor,0,active
+408,shunmuganathan.kl@rajalakshmi.edu.in,Dr.,Shunmuganathan K L,20,CS325,Professor and Dean,0,active
+414,james.v@rajalakshmi.edu.in,Mr.,V James,22,MA21,Associate Professor,0,active
+415,janani.m@rajalakshmi.edu.in,Ms.,Janani M,20,MA103,Assistant Professor,0,active
+416,valarmathie.dinakaran@rajalakshmi.edu.in,Dr.,Valarmathie Dinakaran,20,IT240,Professor and HOD,0,active
+417,sathish.m1@rajalakshmi.edu.in,Mr.,Sathish M,20,IT263,Assistant Professor -SS,0,active
+418,venkatesan.j@rajalakshmi.edu.in,Mr.,Venkatesan J,22,MA87,Associate Professor,0,active
+419,julie.j@rajalakshmi.edu.in,Mrs.,J.Julie,22,MA114,Associate Professor,0,active
+420,siluvaidasan.r@rajalakshmi.edu.in,Mr.,Siluvai Dasan R,22,MA113,Assistant Professor-SS,0,active
+421,vimalan.m@rajalakshmi.edu.in,Mr.,Vimalan M,20,IT260,Assistant Professor -SS,0,active
+422,nathiya.r@rajalakshmi.edu.in,Mrs.,R Nathiya,22,MA100,Assistant professor-SG,0,active
+423,indumathik@rajalakshmi.edu.in,Mrs.,K Indumathi,20,IT205,Assistant Professor SG,0,active
+424,lakshmi.v@rajalakshmi.edu.in,Mrs.,Dr.V.Lakshmi,22,MA08,Professor And Academic Head,0,active
+425,bhavani.s@rajalakshmi.edu.in,Mrs.,Dr S.Bhavani,22,MA119,Assistant Professor-SS,0,active
+426,azhagarasu.a@rajalakshmi.edu.in,Mr.,A. Azhagarasu,22,MA111,Assistant Professor -SS,0,active
+428,bharathi.v@rajalakshmi.edu.in,Mr.,Dr.V.Bharathi,22,MA131,Assistant Professor SG,0,active
+429,priyanka.d@rajalakshmi.edu.in,Ms.,Priyanka D,20,IT249,Assistant Professor,0,active
+430,priyanair@rajalakshmi.edu.in,Mrs.,Dr. Priya Nair,22,MA125,Assistant Professor -SS,0,active
+431,rajkumar.v@rajalakshmi.edu.in,Mr.,Rajkumar V,22,MA112,Assistant Professor,0,active
+432,sathiragavan.m@rajalakshmi.edu.in,Mr.,Sathiragavan M,22,MA136,Assistant Professor,0,active
+433,vasanthi.s@rajalakshmi.edu.in,Mrs.,S.Vasanthi,22,MA104,Assistant professor-SG,0,active
+434,anbarasi.v@rajalakshmi.edu.in,Mrs.,Anbarasi.V,22,MA130,Assistant Professor,0,active
+435,rajaannam.k@rajalakshmi.edu.in,Ms.,K Rajaannam,22,MA132,Assistant Professor,0,active
+436,mageshwaran.k@rajalakshmi.edu.in,Mr.,Dr. K. Mageshwaran,22,MA121,Assistant Professor -SS,0,active
+437,sriram.s@rajalakshmi.edu.in,Mr.,Sriram Sastha,22,MA140,Professor,0,active
+438,prabhu.s.maths@rajalakshmi.edu.in,Mr.,Dr. S. Prabhu,22,MA123,Associate Professor,0,active
+439,thilagavathi.r@rajalakshmi.edu.in,Dr.,Thilagavathi R,22,MA141,Assistant Professor,0,active
+441,pomanaselvan.a@rajalakshmi.edu.in,Dr.,Ponmana Selvan Arumugam,22,MA134,Assistant Professor SG,0,active
+440,subha.m@rajalakshmi.edu.in,Mrs.,M. Subha,22,MA129,Assistant Professor SG,0,active
+442,maimoonnisa.s@rajalakshmi.edu.in,Ms.,Maimoonnisa S,22,MA138,Assistant Professor,0,active
+443,chitra.r@rajalakshmi.edu.in,Dr.,Chitra Rameshbabu,22,MA150,Assistant Professor,0,active
+444,santhiya.s@rajalakshmi.edu.in,Dr.,Santhiya S,22,MA143,Assistant Professor,0,active
+445,hemasurya.s@rajalakshmi.edu.in,Dr.,Hema Surya Subramanian,22,MA146,Assistant Professor,0,active
+447,shanthini.c@rajalakshmi.edu.in,Mrs.,C.Shanthini,22,MA118,Assistant Professor,0,active
+446,yuvashri.p@rajalakshmi.edu.in,Mrs.,Yuvashri P,22,MA145,Assistant Professor,0,active
+448,chalressagayaraj.ac@rajalakshmi.edu.in,Mr.,Charles Sagayaraj A C,22,MA135,Associate Professor,0,active
+449,vinodkumar.r@rajalakshmi.edu.in,Dr.,Vinod Kumar R,22,MA148,Assistant professor-SG,0,active
+410,nalini.s@rajalakshmi.edu.in,Mrs.,Dr. Nalini Subramanian,20,IT186,Associate Professor,0,active
+411,priya.l@rajalakshmi.edu.in,Mrs.,Priya L,20,IT118,Professor,0,active
+412,deivanai.k@rajalakshmi.edu.in,Ms.,Deivanai.K,20,CS277,Assistant Professor-SS,0,active
+413,bhuvaneshwari.m@rajalakshmi.edu.in,Ms.,Bhuvaneshwari Muthukumaran,20,IT259,Assistant Professor POP,0,active
+450,sunilkumar.vr@rajalakshmi.edu.in,Dr.,V. R. Sunil Kumar,22,MA103,Assistant Professor SG,0,active
+451,akshaya.a@rajalakshmi.edu.in,Dr.,Akshaya A,22,MA151,Assistant Professor,0,active
+452,ragothaman.cb@rajalakshmi.edu.in,Mr.,Dr.Cb.Ragothaman,21,MB19,Professor,0,active
+453,deborahsharon.s@rajalakshmi.edu.in,Mrs.,Deborah Sharon Stanley,21,MB49,Assistant professor-SG,0,active
+454,sivakumaran.v@rajalakshmi.edu.in,Mr.,V.Sivakumaran,22,MA127,Assistant Professor SG,0,active
+455,shakila.v@rajalakshmi.edu.in,Mrs.,V. Shakila,22,MA116,Assistant Professor-SS,0,active
+456,balavidhya.s@rajalakshmi.edu.in,Ms.,Balavidhya S,22,MA147,Assistant Professor -SS,0,active
+457,meenakumari.r@rajalakshmi.edu.in,Dr.,Meenakumari R,22,MA139,Assistant Professor -SS,0,active
+458,suresh.s@rajalakshmi.edu.in,Mr.,Dr.S.Suresh,21,MB42,Associate Professor,0,active
+459,sankararaman.g@rajalakshmi.edu.in,Mr.,Dr Sankararaman G,21,MB12,Professor,0,active
+460,valliammal.m@rajalakshmi.edu.in,Mrs.,Dr M Valliammal,21,MB74,Professor,0,active
+461,gurunathan.s@rajalakshmi.edu.in,Mr.,Gurunathan S,22,MB75,Assistant Professor,0,active
+462,devikomathy@rajalakshmi.edu.in,Mrs.,Devikomathy.A,21,MB72,Assistant Professor,0,active
+463,arulmozhi.s@rajalakshmi.edu.in,Mrs.,Arulmozhi Shanmugam,22,MA152,Assistant professor-SG,0,active
+464,kumar.k@rajalakshmi.edu.in,Mr.,K Kumar,21,MB62,Assistant Professor -SS,0,active
+465,vikram.st@rajalakshmi.edu.in,Dr.,Vikram S T,22,MA137,Assistant professor-SG,0,active
+466,ravichandran.t@rajalakshmi.edu.in,Mr.,Ravichandran T,21,MB86,Professor Of Practice,0,active
+467,silambarasi.s@rajalakshmi.edu.in,Mrs.,S.Silambarasi,21,MB77,Assistant Professor,0,active
+469,sajana.kp@rajalakshmi.edu.in,Mrs.,Sajana Kp,21,MB64,Assistant Professor -SS,0,active
+468,sudhan.sk@rajalakshmi.edu.in,Mr.,Sudhan Sk,21,MB84,Assistant Professor,0,active
+470,bharathi.d.maths@rajalakshmi.edu.in,Mrs.,Bharathi D,22,MA149,Assistant Professor,0,active
+471,ramanathan.kv@rajalakshmi.edu.in,Dr.,Ramanathan V K,21,MB89,Professor Of Practice,0,active
+381,manasa.k@rajalakshmi.edu.in,Ms.,Manasa K,17,EN84,Assistant Professor,0,active
+491,gopinath.s@rajalakshmi.edu.in,Dr.,Gopinath S,24,ME257,Associate Professor,0,active
+485,ramalakshmi.k.maths@rajalakshmi.edu.in,Dr.,Ramalakshmi K,22,MA144,Assistant Professor,0,active
+492,preetha.t@rajalakshmi.edu.in,Mrs.,Preetha T,21,MB81,Assistant Professor,0,active
+493,nareshbabu.g@rajalakshmi.edu.in,Mr.,Nareshbabu Gajendran,24,ME231,Assistant Professor,0,active
+494,vasudevan.c@rajalakshmi.edu.in,Mr.,Vasudevan Chandrasekaran,21,MB85,Professor Of Practice,0,active
+495,ramesh.s@rajalakshmi.edu.in,Mr.,Dr Ramesh Shanmugam,24,ME256,Assistant Professor -SS,0,active
+496,umamaheswari.m@rajalakshmi.edu.in,Mrs.,Uma Maheswari M,24,ME147,Assistant professor-SG,0,active
+497,nambiraj.m@rajalakshmi.edu.in,Mr.,Nambiraj M,24,ME258,Assistant Professor,0,active
+498,arumugam.p@rajalakshmi.edu.in,Mr.,P.Arumugam,23,ME171,Associate Professor,0,active
+499,rajkumar.a@rajalakshmi.edu.in,Mr.,Dr. A. Rajkumar,23,ME32,Professor,0,active
+500,shankar.e@rajalakshmi.edu.in,Mr.,Dr. E.Shankar,23,ME132,Associate Professor,0,active
+501,ramya.g@rajalakshmi.edu.in,Mrs.,Dr.G.Ramya,23,ME51,Associate Professor,0,active
+505,panneerselvan.s@rajalakshmi.edu.in,Mr.,S. Panneer Selvan,23,ME102,Associate Professor,0,active
+503,Loganathan.k@rajalakshmi.edu.in,Mr.,Loganathan.K,23,ME184,Assistant Professor-SS,0,active
+552,venkatamuthukumar.j@rajalakshmi.edu.in,Mr.,J.Venkatamuthukumar,26,PH53,Professor,0,active
+504,shanthi.r@rajalakshmi.edu.in,Mrs.,Shanthi R,23,ME40,Professor and HOD,0,active
+502,dineshkumar.pt@rajalakshmi.edu.in,Mr.,P T Dineshkumar,23,ME186,Assistant Professor,0,active
+506,venkateshwaran.n@rajalakshmi.edu.in,Mr.,Venkateshwaran N,23,ME31,Professor,0,active
+473,padmanaaban.p@rajalakshmi.edu.in,Mr.,Padmanaaban.P,21,MB71,Assistant Professor SG,0,active
+507,rajkumar.m@rajalakshmi.edu.in,Mr.,Rajkumar.M,23,ME212,Assistant Professor-SS,0,active
+508,sudharsan.nm@rajalakshmi.edu.in,Mr.,Natteri M Sudharsan,23,ME137,Professor,0,active
+509,principal@rajalakshmi.edu.in,Mr.,Dr. S. N. Murugesan,23,ME123,Principal and Professor,0,active
+511,paramasivam.a@rajalakshmi.edu.in,Mr.,Dr.A.Paramasivam,23,ME209,Associate Professor,0,active
+512,santhanakrishnan.m@rajalakshmi.edu.in,Mr.,Santhanakrishnan Mamallan,23,ME183,Assistant Professor-SS,0,active
+514,vigneswaran.k@rajalakshmi.edu.in,Dr.,K.Vigneshwaran,23,ME214,Assistant Professor -SS,0,active
+563,ramkumar.s@rajalakshmi.edu.in,Mr.,Ramkumar S,27,ME213,Assistant Professor,0,active
+553,senthilkumar.k@rajalakshmi.edu.in,Mr.,Senthilkumar K,26,PH42,Assistant Professor SG,0,active
+510,dhanaraj.r@rajalakshmi.edu.in,Mr.,R.Dhanaraj,23,ME220,Associate Professor,0,active
+513,vidhushini.p@rajalakshmi.edu.in,Mrs.,Vidhushini.P,23,ME195,Assistant Professor,0,active
+515,parthiban.m@rajalakshmi.edu.in,Mr.,Parthiban M,23,ME93,Selection Grade Lecturer,0,active
+516,sridharan.m@rajalakshmi.edu.in,Mr.,Sridharan M,24,ME197,Assistant Professor,0,active
+518,dhandapani.s@rajalakshmi.edu.in,Mr.,Dr.S.Dhandapani,23,ME199,Professor,0,active
+517,muthiah.ct@rajalakshmi.edu.in,Mr.,Ct.Muthiah,23,ME177,Associate Professor,0,active
+474,babitha.s@rajalakshmi.edu.in,Mrs.,Babitha Lucin Rani B,21,MB65,Assistant professor-SG,0,active
+476,sridhar.k@rajalakshmi.edu.in,Mr.,Sridhar Kalyanasundaram,21,MB87,Assistant Professor POP,0,active
+475,sindhu.al@rajalakshmi.edu.in,Dr.,Sindhu Al,21,MB89,Assistant Professor,0,active
+61,muralidharan.c@rajalakshmi.edu.in,Mr.,Muralidharan C,6,BM26,Assistant Professor SG,0,active
+519,ghadhatharan.v@rajalakshmi.edu.in,Mr.,Ghadhatharan.V,23,ME233,Asst Prof Product Associa,0,active
+520,rajeshkumar.b@rajalakshmi.edu.in,Dr.,Rajesh Kumar B,23,ME221,Assistant Professor SG,0,active
+477,balakarthikeyan.m@rajalakshmi.edu.in,Mr.,Dr.M.Balakarthikeyan,24,ME227,Associate Professor,0,active
+567,vimalanathan.p@rajalakshmi.edu.in,Mr.,P.Vimalanathan,27,ME236,Assistant Professor,0,active
+555,anumanthakannan.g@rajalakshmi.edu.in,Mr.,Anumantha Kannan G,26,PH31,Assistant Professor-SS,0,active
+573,rajapandi.r@rajalakshmi.edu.in,Mr.,Dr. R. Raja Pandi,27,ME237,Assistant Professor -SS,0,active
+554,manumohan@rajalakshmi.edu.in,Dr.,Manu Mohan,26,PH59,Assistant Professor,0,active
+521,chandrasekar.p@rajalakshmi.edu.in,Mr.,Dr. Chandrasekar P,23,ME147,Associate Professor,0,active
+478,immaculateamali.j@rajalakshmi.edu.in,Mrs.,Immaculate Amali J,21,MB83,Assistant Professor,0,active
+522,kumar.s@rajalakshmi.edu.in,Mr.,Dr.S.Kumar,23,ME210,Associate Professor,0,active
+479,santhanam.v@rajalakshmi.edu.in,Mr.,Santhanam V,24,ME35,Professor,0,active
+562,priyadharshini.r@rajalakshmi.edu.in,Ms.,Priyadharshini R,27,ME243,Assistant Professor,0,active
+556,mahesh.r@rajalakshmi.edu.in,Dr.,Mahesh R,26,PH61,Assistant Professor -SS,0,active
+570,venugopal.k@rajalakshmi.edu.in,Mr.,Venugopal K,27,ME244,Assistant Professor,0,active
+557,saravanan.r@rajalakshmi.edu.in,Mr.,R Saravanan,27,ME247,Assistant Professor,0,active
+523,muthaimanoj.p@rajalakshmi.edu.in,Mr.,Dr P. Muthaimanoj,23,ME238,Assistant Professor,0,active
+564,ganeshbabu.l@rajalakshmi.edu.in,Mr.,L Ganesh Babu,27,ME246,Assistant professor-SG,0,active
+558,eswaran.a@rajalakshmi.edu.in,Mr.,Eswaran A,27,ME185,Assistant Professor-SS,0,active
+559,saravanakumar.g@rajalakshmi.edu.in,Mr.,Dr. G. Saravana Kumar,26,PH51,Assistant Professor -SS,0,active
+572,senthilrajan.r@rajalakshmi.edu.in,Dr.,Senthilrajan S,27,ME248,Assistant Professor,0,active
+560,abrahamantony@rajalakshmi.edu.in,Mr.,Abraham Anthony D,23,ME201,Assistant Professor -SS,0,active
+524,arulmurugan.s@rajalakshmi.edu.in,Mr.,Dr.S.Arulmurugan,23,ME150,Assistant professor-SG,0,active
+480,chandramohan.p@rajalakshmi.edu.in,Mr.,Dr.P.Chandramohan,24,ME239,Professor,0,active
+525,vinothbabu.n@rajalakshmi.edu.in,Mr.,Vinoth Babu N,23,ME146,AOP Academic Head,0,active
+481,rekha.r@rajalakshmi.edu.in,Ms.,R Rekha,21,MB80,Assistant Professor,0,active
+482,vimalesh.a@rajalakshmi.edu.in,Mr.,Vimalesh. A,24,ME242,Assistant Professor,0,active
+483,prakash.e@rajalakshmi.edu.in,Mr.,Prakash E,24,ME235,Assistant Professor,0,active
+484,riteshbhat.rb@rajalakshmi.edu.in,Mr.,Ritesh Ramakrishna Bhat,24,ME251,Professor and HOD,0,active
+526,sekar.s@rajalakshmi.edu.in,Mr.,Dr. S. Sekar,23,ME226,Director Research Publica,0,active
+527,senthilmurugan.s@rajalakshmi.edu.in,Mr.,Dr. S Senthil Murugan,23,ME234,Assistant Professor SG,0,active
+486,srinivasan.sp@rajalakshmi.edu.in,Dr.,S. P. Srinivasan,23,ME11,Vice Principal,0,active
+487,anithaelavarasi.gn@rajalakshmi.edu.in,Mrs.,Dr.Gn.Anitha Elavarasi,21,MB75,Assistant Professor,0,active
+472,umaraman.m@rajalakshmi.edu.in,Mrs.,Dr.Uma Raman M,21,MB70,Professor and HOD,0,active
+488,nivethitha.sb@rajalakshmi.edu.in,Ms.,Nivethitha S B,24,ME228,Assistant Professor,0,active
+551,vasudevan.p@rajalakshmi.edu.in,Mr.,Dr.P Vasudevan,26,PH49,AOP Academic Head,0,active
+490,seema.balan@rajalakshmi.edu.in,Mrs.,Dr. Seema Balan,21,MB76,Assistant Professor,0,active
+489,shobana.d@rajalakshmi.edu.in,Ms.,Shobana D,24,ME255,Assistant Professor,0,active
+528,ragavendiran.r@rajalakshmi.edu.in,Mr.,Ragavendiran. R,23,ME241,Assistant Professor SG,0,active
+529,parthiban.n@rajalakshmi.edu.in,Mr.,Parthiban.N,23,ME223,Assistant Professor,0,active
+530,natarajan.s@rajalakshmi.edu.in,Mr.,M.S.Natarajan,23,ME215,Assistant Professor-SS,0,active
+531,aruna.r@rajalakshmi.edu.in,Mrs.,Aruna R,23,ME203,Assistant Professor -SS,0,active
+532,arunprakash.n@rajalakshmi.edu.in,Mr.,Arun Prakash N,23,ME157,Assistant Professor -SS,0,active
+533,devanathan.c@rajalakshmi.edu.in,Mr.,C. Devanathan,23,ME188,Assistant professor-SG,0,active
+534,renuka.r@rajalakshmi.edu.in,Ms.,Renuka R,25,PE04,Physical Director,0,active
+568,vijayanarasimhan.k@rajalakshmi.edu.in,Mr.,Vijayanarasimhan K,26,PH36,Assistant Professor-SS,0,active
+535,vijayaraghavan.m@rajalakshmi.edu.in,Mr.,Dr M Vijayaragavan,25,PE06,Physical Director,0,active
+536,hariram.s@rajalakshmi.edu.in,Mr.,Hariram S,23,ME163,Assistant Professor-SS,0,active
+537,anandraj.m@rajalakshmi.edu.in,Mr.,M.Anand Raj,26,PH09,Assistant Professor SG,0,active
+538,ramkumar.s.aiml@rajalakshmi.edu.in,Dr.,Ramkumar S,23,ME259,Associate Professor,0,active
+539,bhavani.r@rajalakshmi.edu.in,Dr.,R.Bhavani,26,PH38,Assistant Professor-SS,0,active
+540,venkataprasat.s@rajalakshmi.edu.in,Mr.,S Venkat Prasat,23,ME249,Professor,0,active
+541,sankarkumar.m@rajalakshmi.edu.in,Mr.,M Sankar Kumar,26,PH34,Assistant professor-SG,0,active
+542,ramesh.g@rajalakshmi.edu.in,Dr.,Ramesh G,23,ME260,Professor,0,active
+566,muthupradeepa.r@rajalakshmi.edu.in,Mrs.,Dr Muthupradeepa R,26,PH54,Assistant Professor,0,active
+544,tamizhselvan.ls@rajalakshmi.edu.in,Mr.,L S Tamizhselvan,23,ME245,Assistant Professor,0,active
+561,gobalakrishnan.s@rajalakshmi.edu.in,Mr.,Dr S Gobalakrishnan,26,PH55,Assistant professor-SG,0,active
+543,baskar.s@rajalakshmi.edu.in,Mr.,Dr S Baskar,23,ME253,Professor,0,active
+545,latha.b@rajalakshmi.edu.in,Mrs.,Dr.B.Latha,26,PH39,Assistant Professor SG,0,active
+571,ragavendran.v@rajalakshmi.edu.in,Mr.,Dr Ragavendran Venkatesan,26,PH57,Associate Professor,0,active
+546,Muralidharan.r@rajalakshmi.edu.in,Mr.,R Muralidharan,26,PH52,Assistant Professor,0,active
+547,kavitha.r@rajalakshmi.edu.in,Mrs.,Dr R Kavitha,26,PH32,Assistant Professor SG,0,active
+548,rubarani.p.gangadharan@rajalakshmi.edu.in,Mrs.,Dr.Rubarani P Gangadharan,26,PH25,Associate Professor,0,active
+569,ahilandeswari.g@rajalakshmi.edu.in,Dr.,G Ahilandeswari,26,PH60,Assistant professor-SG,0,active
+549,sankeeda.i@rajalakshmi.edu.in,Mrs.,Dr I Sankeeda,26,PH56,Assistant Professor,0,active
+550,pugazhvadivu.ks@rajalakshmi.edu.in,Dr.,Pugazhvadivu Ks,26,PH58,Associate Professor,0,active
