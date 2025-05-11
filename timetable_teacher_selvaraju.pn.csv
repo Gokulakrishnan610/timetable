@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,4,10:40 - 11:30,AT23111,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A311
+Monday,5,11:30 - 12:20,AT23712,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A208
+Monday,5,11:30 - 12:20,AT23712,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A310
+Monday,7,01:10 - 02:00,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A103
+Monday,7,01:10 - 02:00,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A305
+Tuesday,2,09:00 - 09:50,AT23433,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Tuesday,2,09:00 - 09:50,AT23433,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B119
+Tuesday,5,11:30 - 12:20,AT23111,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A203
+Tuesday,5,11:30 - 12:20,AT23712,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A211
+Tuesday,6,12:20 - 01:10,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A208
+Wednesday,2,09:00 - 09:50,AT23433,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Wednesday,2,09:00 - 09:50,AT23433,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B119
+Wednesday,5,11:30 - 12:20,AT23111,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A203
+Wednesday,5,11:30 - 12:20,AT23712,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A211
+Wednesday,6,12:20 - 01:10,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A208
+Thursday,2,09:00 - 09:50,AT23531,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B305
+Thursday,3,09:50 - 10:40,AT23433,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Thursday,4,10:40 - 11:30,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A202
+Thursday,4,10:40 - 11:30,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A311
+Thursday,5,11:30 - 12:20,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A105

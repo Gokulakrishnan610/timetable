@@ -1,0 +1,15 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B117
+Monday,3,09:50 - 10:40,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B204
+Monday,4,10:40 - 11:30,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B119
+Tuesday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B204
+Tuesday,5,11:30 - 12:20,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B120
+Tuesday,6,12:20 - 01:10,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B Third Floor
+Wednesday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B204
+Wednesday,5,11:30 - 12:20,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B120
+Wednesday,6,12:20 - 01:10,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B Third Floor
+Thursday,1,08:00 - 09:00,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B328
+Thursday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B206
+Thursday,4,10:40 - 11:30,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B119
+Thursday,5,11:30 - 12:20,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B Ground Floor
+Thursday,6,12:20 - 01:10,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B311

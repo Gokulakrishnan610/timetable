@@ -1,0 +1,8 @@
+id,dept_name,date_established,contact_info
+1,Computer Science,2000-01-01,"Mock University, Mock Address, City - 123456. Phone: +1-123-4567890. Email: cs@mock.edu"
+2,Electrical Engineering,2000-01-01,"Mock University, Mock Address, City - 123456. Phone: +1-123-4567890. Email: ee@mock.edu" 
+3,Mechanical Engineering,2000-01-01,"Mock University, Mock Address, City - 123456. Phone: +1-123-4567890. Email: me@mock.edu"
+4,Civil Engineering,2000-01-01,"Mock University, Mock Address, City - 123456. Phone: +1-123-4567890. Email: civil@mock.edu"
+5,Physics,2000-01-01,"Mock University, Mock Address, City - 123456. Phone: +1-123-4567890. Email: physics@mock.edu"
+6,Mathematics,2000-01-01,"Mock University, Mock Address, City - 123456. Phone: +1-123-4567890. Email: math@mock.edu"
+7,Administration,2000-01-01,"Mock University, Mock Address, City - 123456. Phone: +1-123-4567890. Email: admin@mock.edu" 

@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,1,08:00 - 09:00,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B118
+Monday,1,08:00 - 09:00,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B203
+Monday,2,09:00 - 09:50,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B206
+Monday,2,09:00 - 09:50,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B310
+Monday,6,12:20 - 01:10,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Tuesday,1,08:00 - 09:00,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B119
+Tuesday,1,08:00 - 09:00,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B327
+Tuesday,2,09:00 - 09:50,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B116
+Tuesday,4,10:40 - 11:30,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B116
+Tuesday,5,11:30 - 12:20,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B118
+Wednesday,1,08:00 - 09:00,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B119
+Wednesday,1,08:00 - 09:00,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B327
+Wednesday,2,09:00 - 09:50,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B116
+Wednesday,4,10:40 - 11:30,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B116
+Wednesday,5,11:30 - 12:20,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B118
+Thursday,2,09:00 - 09:50,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B310
+Thursday,2,09:00 - 09:50,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Thursday,3,09:50 - 10:40,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B205
+Thursday,5,11:30 - 12:20,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B310
+Thursday,6,12:20 - 01:10,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B328

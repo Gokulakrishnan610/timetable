@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,3,09:50 - 10:40,AT23631,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B Third Floor
+Monday,4,10:40 - 11:30,AT23431,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Monday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A204
+Monday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A303
+Monday,7,01:10 - 02:00,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B212
+Tuesday,1,08:00 - 09:00,AT23431,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B318
+Tuesday,1,08:00 - 09:00,AT23631,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B328
+Tuesday,3,09:50 - 10:40,AT23431,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B204
+Tuesday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A204
+Tuesday,7,01:10 - 02:00,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A203
+Wednesday,1,08:00 - 09:00,AT23431,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B318
+Wednesday,1,08:00 - 09:00,AT23631,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B328
+Wednesday,3,09:50 - 10:40,AT23431,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B204
+Wednesday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A204
+Wednesday,7,01:10 - 02:00,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A203
+Thursday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A103
+Thursday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A208
+Thursday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B218
+Thursday,7,01:10 - 02:00,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B211
+Thursday,7,01:10 - 02:00,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B212

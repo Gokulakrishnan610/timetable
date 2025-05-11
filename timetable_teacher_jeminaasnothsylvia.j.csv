@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,2,09:00 - 09:50,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Monday,2,09:00 - 09:50,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B327
+Monday,4,10:40 - 11:30,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Monday,4,10:40 - 11:30,BM23512,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,A202
+Monday,5,11:30 - 12:20,BM23313,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,A302
+Tuesday,1,08:00 - 09:00,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B310
+Tuesday,2,09:00 - 09:50,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B118
+Tuesday,6,12:20 - 01:10,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B118
+Tuesday,6,12:20 - 01:10,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B311
+Tuesday,6,12:20 - 01:10,BM23512,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,A210
+Wednesday,1,08:00 - 09:00,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B310
+Wednesday,2,09:00 - 09:50,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B118
+Wednesday,6,12:20 - 01:10,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B118
+Wednesday,6,12:20 - 01:10,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B311
+Wednesday,6,12:20 - 01:10,BM23512,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,A210
+Thursday,1,08:00 - 09:00,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B203
+Thursday,4,10:40 - 11:30,BM23313,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B212
+Thursday,5,11:30 - 12:20,BM23313,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,A311
+Thursday,6,12:20 - 01:10,BM23512,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B213
+Thursday,7,01:10 - 02:00,BM23313,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B218

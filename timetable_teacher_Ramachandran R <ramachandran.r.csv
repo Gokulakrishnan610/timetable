@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,2,09:00 - 09:50,BM23231,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,B117
+Monday,4,10:40 - 11:30,BM23231,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,B311
+Monday,5,11:30 - 12:20,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,A305
+Monday,5,11:30 - 12:20,BM23412,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,A105
+Monday,7,01:10 - 02:00,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,B218
+Tuesday,2,09:00 - 09:50,BM23231,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,B117
+Tuesday,4,10:40 - 11:30,BM23231,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,B311
+Tuesday,5,11:30 - 12:20,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,A105
+Tuesday,5,11:30 - 12:20,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,A305
+Tuesday,7,01:10 - 02:00,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,B218
+Wednesday,2,09:00 - 09:50,BM23231,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,B117
+Wednesday,4,10:40 - 11:30,BM23231,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,B311
+Wednesday,5,11:30 - 12:20,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,A105
+Wednesday,5,11:30 - 12:20,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,A305
+Wednesday,7,01:10 - 02:00,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,B218
+Thursday,4,10:40 - 11:30,BM23231,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,B202
+Thursday,6,12:20 - 01:10,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,A109
+Thursday,6,12:20 - 01:10,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,A110
+Thursday,6,12:20 - 01:10,BM23411,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,A203
+Thursday,6,12:20 - 01:10,BM23412,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Biomedical Engineering,A205

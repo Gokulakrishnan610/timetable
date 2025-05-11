@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,1,08:00 - 09:00,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B206
+Monday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Monday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B118
+Monday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B119
+Monday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B206
+Tuesday,3,09:50 - 10:40,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B116
+Tuesday,3,09:50 - 10:40,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B120
+Tuesday,4,10:40 - 11:30,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B327
+Tuesday,5,11:30 - 12:20,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B204
+Tuesday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B120
+Wednesday,3,09:50 - 10:40,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B116
+Wednesday,3,09:50 - 10:40,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B120
+Wednesday,4,10:40 - 11:30,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B327
+Wednesday,5,11:30 - 12:20,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B204
+Wednesday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B120
+Thursday,2,09:00 - 09:50,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B116
+Thursday,2,09:00 - 09:50,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B204
+Thursday,5,11:30 - 12:20,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B117
+Thursday,5,11:30 - 12:20,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B305
+Thursday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B117

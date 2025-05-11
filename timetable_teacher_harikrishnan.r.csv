@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,1,08:00 - 09:00,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B117
+Monday,3,09:50 - 10:40,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Monday,4,10:40 - 11:30,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Monday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B117
+Monday,6,12:20 - 01:10,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Tuesday,3,09:50 - 10:40,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Tuesday,4,10:40 - 11:30,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B305
+Tuesday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Tuesday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B328
+Tuesday,6,12:20 - 01:10,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Wednesday,3,09:50 - 10:40,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Wednesday,4,10:40 - 11:30,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B305
+Wednesday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Wednesday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B328
+Wednesday,6,12:20 - 01:10,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Thursday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B First Floor
+Thursday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B Third Floor
+Thursday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Thursday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Thursday,6,12:20 - 01:10,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B327

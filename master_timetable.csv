@@ -1,0 +1,873 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,1,08:00 - 09:00,AE23623,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B First Floor
+Monday,1,08:00 - 09:00,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B117
+Monday,1,08:00 - 09:00,AE23333,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B310
+Monday,1,08:00 - 09:00,AE23321,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,B311
+Monday,1,08:00 - 09:00,AT23521,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B119
+Monday,1,08:00 - 09:00,AT23333,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B205
+Monday,1,08:00 - 09:00,AT23332,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B120
+Monday,1,08:00 - 09:00,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B206
+Monday,1,08:00 - 09:00,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B118
+Monday,1,08:00 - 09:00,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B203
+Monday,1,08:00 - 09:00,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B328
+Monday,1,08:00 - 09:00,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B202
+Monday,1,08:00 - 09:00,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Monday,1,08:00 - 09:00,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B116
+Monday,1,08:00 - 09:00,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B305
+Monday,1,08:00 - 09:00,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B327
+Monday,1,08:00 - 09:00,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Monday,1,08:00 - 09:00,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B204
+Monday,1,08:00 - 09:00,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B318
+Monday,1,08:00 - 09:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B Third Floor
+Monday,2,09:00 - 09:50,AE23521,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B202
+Monday,2,09:00 - 09:50,AE23632,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B118
+Monday,2,09:00 - 09:50,AE23333,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B120
+Monday,2,09:00 - 09:50,AE23431,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B First Floor
+Monday,2,09:00 - 09:50,AE23431,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Monday,2,09:00 - 09:50,AE23321,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Monday,2,09:00 - 09:50,AT23431,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B205
+Monday,2,09:00 - 09:50,AT23621,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B328
+Monday,2,09:00 - 09:50,AT23331,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B204
+Monday,2,09:00 - 09:50,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B206
+Monday,2,09:00 - 09:50,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B310
+Monday,2,09:00 - 09:50,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Monday,2,09:00 - 09:50,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B327
+Monday,2,09:00 - 09:50,BM23331,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B311
+Monday,2,09:00 - 09:50,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Monday,2,09:00 - 09:50,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B305
+Monday,2,09:00 - 09:50,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B116
+Monday,2,09:00 - 09:50,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Monday,2,09:00 - 09:50,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B119
+Monday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B117
+Monday,3,09:50 - 10:40,AE23621,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B205
+Monday,3,09:50 - 10:40,AE23431,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Monday,3,09:50 - 10:40,AE23432,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B206
+Monday,3,09:50 - 10:40,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Monday,3,09:50 - 10:40,AE23623,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Monday,3,09:50 - 10:40,AE23731,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B328
+Monday,3,09:50 - 10:40,AT23631,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B Third Floor
+Monday,3,09:50 - 10:40,AT23521,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B305
+Monday,3,09:50 - 10:40,AT23333,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Monday,3,09:50 - 10:40,AT23333,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B203
+Monday,3,09:50 - 10:40,BM23431,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,B311
+Monday,3,09:50 - 10:40,BM23531,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,B120
+Monday,3,09:50 - 10:40,BM23322,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,B118
+Monday,3,09:50 - 10:40,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B202
+Monday,3,09:50 - 10:40,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B310
+Monday,3,09:50 - 10:40,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B116
+Monday,3,09:50 - 10:40,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B117
+Monday,3,09:50 - 10:40,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B327
+Monday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B Second Floor
+Monday,3,09:50 - 10:40,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B204
+Monday,4,10:40 - 11:30,AE23331,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B118
+Monday,4,10:40 - 11:30,AE23632,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B120
+Monday,4,10:40 - 11:30,AE23211,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A308
+Monday,4,10:40 - 11:30,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,B218
+Monday,4,10:40 - 11:30,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A304
+Monday,4,10:40 - 11:30,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B210
+Monday,4,10:40 - 11:30,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B212
+Monday,4,10:40 - 11:30,AE23432,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B310
+Monday,4,10:40 - 11:30,AE23431,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Monday,4,10:40 - 11:30,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Monday,4,10:40 - 11:30,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Monday,4,10:40 - 11:30,AE23333,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B First Floor
+Monday,4,10:40 - 11:30,AE23333,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Monday,4,10:40 - 11:30,AE23821,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B206
+Monday,4,10:40 - 11:30,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B106
+Monday,4,10:40 - 11:30,AT23111,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,B107
+Monday,4,10:40 - 11:30,AT23511,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A205
+Monday,4,10:40 - 11:30,AT23511,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A309
+Monday,4,10:40 - 11:30,AT23431,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Monday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A204
+Monday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A303
+Monday,4,10:40 - 11:30,AT23111,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A311
+Monday,4,10:40 - 11:30,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B211
+Monday,4,10:40 - 11:30,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B213
+Monday,4,10:40 - 11:30,AT23332,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B202
+Monday,4,10:40 - 11:30,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A103
+Monday,4,10:40 - 11:30,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A105
+Monday,4,10:40 - 11:30,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A109
+Monday,4,10:40 - 11:30,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A110
+Monday,4,10:40 - 11:30,BM23312,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,A310
+Monday,4,10:40 - 11:30,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Monday,4,10:40 - 11:30,BM23512,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,A202
+Monday,4,10:40 - 11:30,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A203
+Monday,4,10:40 - 11:30,BM23412,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A305
+Monday,4,10:40 - 11:30,BM23312,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A102
+Monday,4,10:40 - 11:30,BM23312,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A104
+Monday,4,10:40 - 11:30,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A108
+Monday,4,10:40 - 11:30,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A208
+Monday,4,10:40 - 11:30,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A302
+Monday,4,10:40 - 11:30,BM23331,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B116
+Monday,4,10:40 - 11:30,BM23331,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,B205
+Monday,4,10:40 - 11:30,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B328
+Monday,4,10:40 - 11:30,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B117
+Monday,4,10:40 - 11:30,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A209
+Monday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B204
+Monday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B305
+Monday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B311
+Monday,4,10:40 - 11:30,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B203
+Monday,4,10:40 - 11:30,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B119
+Monday,5,11:30 - 12:20,AE23211,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A308
+Monday,5,11:30 - 12:20,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A105
+Monday,5,11:30 - 12:20,AE23821,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,B118
+Monday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A102
+Monday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A303
+Monday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A304
+Monday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A305
+Monday,5,11:30 - 12:20,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B Third Floor
+Monday,5,11:30 - 12:20,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Monday,5,11:30 - 12:20,AE23333,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B202
+Monday,5,11:30 - 12:20,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B107
+Monday,5,11:30 - 12:20,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B218
+Monday,5,11:30 - 12:20,AE23623,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Monday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B117
+Monday,5,11:30 - 12:20,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A204
+Monday,5,11:30 - 12:20,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Monday,5,11:30 - 12:20,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,A108
+Monday,5,11:30 - 12:20,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,A311
+Monday,5,11:30 - 12:20,AE23521,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B204
+Monday,5,11:30 - 12:20,AT23712,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A208
+Monday,5,11:30 - 12:20,AT23712,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A310
+Monday,5,11:30 - 12:20,AT23432,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Monday,5,11:30 - 12:20,AT23333,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B116
+Monday,5,11:30 - 12:20,AT23333,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B318
+Monday,5,11:30 - 12:20,BM23431,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,B310
+Monday,5,11:30 - 12:20,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A209
+Monday,5,11:30 - 12:20,BM23313,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,A302
+Monday,5,11:30 - 12:20,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A110
+Monday,5,11:30 - 12:20,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,B213
+Monday,5,11:30 - 12:20,BM23311,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A210
+Monday,5,11:30 - 12:20,BM23411,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A104
+Monday,5,11:30 - 12:20,BM23411,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A109
+Monday,5,11:30 - 12:20,BM23331,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,B206
+Monday,5,11:30 - 12:20,BM23322,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,B First Floor
+Monday,5,11:30 - 12:20,BM23322,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,B311
+Monday,5,11:30 - 12:20,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A103
+Monday,5,11:30 - 12:20,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A205
+Monday,5,11:30 - 12:20,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B120
+Monday,5,11:30 - 12:20,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B305
+Monday,5,11:30 - 12:20,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A202
+Monday,5,11:30 - 12:20,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A203
+Monday,5,11:30 - 12:20,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B Ground Floor
+Monday,5,11:30 - 12:20,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B119
+Monday,5,11:30 - 12:20,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B205
+Monday,5,11:30 - 12:20,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B328
+Monday,6,12:20 - 01:10,AE23332,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Monday,6,12:20 - 01:10,AE23611,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Monday,6,12:20 - 01:10,AE23612,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A305
+Monday,6,12:20 - 01:10,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A109
+Monday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A103
+Monday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A110
+Monday,6,12:20 - 01:10,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B310
+Monday,6,12:20 - 01:10,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Monday,6,12:20 - 01:10,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A104
+Monday,6,12:20 - 01:10,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A202
+Monday,6,12:20 - 01:10,AE23511,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,B218
+Monday,6,12:20 - 01:10,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B212
+Monday,6,12:20 - 01:10,AT23111,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A208
+Monday,6,12:20 - 01:10,AT23521,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B328
+Monday,6,12:20 - 01:10,AT23532,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B318
+Monday,6,12:20 - 01:10,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,A204
+Monday,6,12:20 - 01:10,AT23321,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B116
+Monday,6,12:20 - 01:10,AT23333,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B117
+Monday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Monday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B118
+Monday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B119
+Monday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B206
+Monday,6,12:20 - 01:10,BM23321,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Monday,6,12:20 - 01:10,BM23422,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B205
+Monday,6,12:20 - 01:10,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A108
+Monday,6,12:20 - 01:10,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A303
+Monday,6,12:20 - 01:10,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A304
+Monday,6,12:20 - 01:10,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Monday,6,12:20 - 01:10,BM23322,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,B204
+Monday,6,12:20 - 01:10,BM23611,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,A102
+Monday,6,12:20 - 01:10,BM23611,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,A210
+Monday,6,12:20 - 01:10,BM23611,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,A309
+Monday,6,12:20 - 01:10,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,B106
+Monday,6,12:20 - 01:10,BM23511,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A205
+Monday,6,12:20 - 01:10,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A203
+Monday,6,12:20 - 01:10,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A209
+Monday,6,12:20 - 01:10,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B305
+Monday,6,12:20 - 01:10,BM23322,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,B First Floor
+Monday,6,12:20 - 01:10,BM23322,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,B202
+Monday,6,12:20 - 01:10,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A311
+Monday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B311
+Monday,6,12:20 - 01:10,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A308
+Monday,6,12:20 - 01:10,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B120
+Monday,7,01:10 - 02:00,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,B213
+Monday,7,01:10 - 02:00,AE23511,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A210
+Monday,7,01:10 - 02:00,AE23611,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Monday,7,01:10 - 02:00,AT23111,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A303
+Monday,7,01:10 - 02:00,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B212
+Monday,7,01:10 - 02:00,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A103
+Monday,7,01:10 - 02:00,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A305
+Monday,7,01:10 - 02:00,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A311
+Monday,7,01:10 - 02:00,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A208
+Monday,7,01:10 - 02:00,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,B210
+Monday,7,01:10 - 02:00,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A202
+Monday,7,01:10 - 02:00,BM23412,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,B107
+Monday,7,01:10 - 02:00,BM23511,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,B211
+Monday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A110
+Monday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A209
+Monday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A309
+Monday,7,01:10 - 02:00,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A203
+Monday,7,01:10 - 02:00,BM23412,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,B106
+Monday,7,01:10 - 02:00,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,B218
+Monday,7,01:10 - 02:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B Second Floor
+Monday,8,02:00 - 02:50,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B206
+Tuesday,1,08:00 - 09:00,AE23432,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B305
+Tuesday,1,08:00 - 09:00,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B Second Floor
+Tuesday,1,08:00 - 09:00,AE23321,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B118
+Tuesday,1,08:00 - 09:00,AE23321,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B204
+Tuesday,1,08:00 - 09:00,AT23431,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B318
+Tuesday,1,08:00 - 09:00,AT23631,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B328
+Tuesday,1,08:00 - 09:00,AT23721,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B120
+Tuesday,1,08:00 - 09:00,AT23431,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B Third Floor
+Tuesday,1,08:00 - 09:00,AT23621,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B117
+Tuesday,1,08:00 - 09:00,AT23522,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B203
+Tuesday,1,08:00 - 09:00,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B119
+Tuesday,1,08:00 - 09:00,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B327
+Tuesday,1,08:00 - 09:00,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B310
+Tuesday,1,08:00 - 09:00,BM23531,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,B205
+Tuesday,1,08:00 - 09:00,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Tuesday,1,08:00 - 09:00,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B116
+Tuesday,1,08:00 - 09:00,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B206
+Tuesday,1,08:00 - 09:00,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B202
+Tuesday,1,08:00 - 09:00,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B First Floor
+Tuesday,1,08:00 - 09:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B311
+Tuesday,2,09:00 - 09:50,AE23333,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Tuesday,2,09:00 - 09:50,AE23631,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B328
+Tuesday,2,09:00 - 09:50,AE23821,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Tuesday,2,09:00 - 09:50,AT23433,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Tuesday,2,09:00 - 09:50,AT23433,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B119
+Tuesday,2,09:00 - 09:50,AT23332,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B327
+Tuesday,2,09:00 - 09:50,AT23521,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,B120
+Tuesday,2,09:00 - 09:50,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B116
+Tuesday,2,09:00 - 09:50,BM23322,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,B202
+Tuesday,2,09:00 - 09:50,BM23532,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,B205
+Tuesday,2,09:00 - 09:50,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B118
+Tuesday,2,09:00 - 09:50,BM23321,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Tuesday,2,09:00 - 09:50,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B117
+Tuesday,2,09:00 - 09:50,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B311
+Tuesday,2,09:00 - 09:50,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Tuesday,2,09:00 - 09:50,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B203
+Tuesday,2,09:00 - 09:50,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B206
+Tuesday,2,09:00 - 09:50,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B310
+Tuesday,2,09:00 - 09:50,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B305
+Tuesday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B204
+Tuesday,3,09:50 - 10:40,AE23331,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Tuesday,3,09:50 - 10:40,AE23531,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Tuesday,3,09:50 - 10:40,AE23431,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Tuesday,3,09:50 - 10:40,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Tuesday,3,09:50 - 10:40,AE23623,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Tuesday,3,09:50 - 10:40,AE23623,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B206
+Tuesday,3,09:50 - 10:40,AE23731,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B328
+Tuesday,3,09:50 - 10:40,AT23431,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B204
+Tuesday,3,09:50 - 10:40,AT23521,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B202
+Tuesday,3,09:50 - 10:40,AT23521,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B310
+Tuesday,3,09:50 - 10:40,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Tuesday,3,09:50 - 10:40,AT23432,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B205
+Tuesday,3,09:50 - 10:40,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B116
+Tuesday,3,09:50 - 10:40,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B120
+Tuesday,3,09:50 - 10:40,BM23322,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,B311
+Tuesday,3,09:50 - 10:40,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B118
+Tuesday,3,09:50 - 10:40,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B117
+Tuesday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B Third Floor
+Tuesday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B305
+Tuesday,3,09:50 - 10:40,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B First Floor
+Tuesday,4,10:40 - 11:30,AE23521,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B202
+Tuesday,4,10:40 - 11:30,AE23631,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B310
+Tuesday,4,10:40 - 11:30,AE23211,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A210
+Tuesday,4,10:40 - 11:30,AE23211,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A308
+Tuesday,4,10:40 - 11:30,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A103
+Tuesday,4,10:40 - 11:30,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A105
+Tuesday,4,10:40 - 11:30,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A310
+Tuesday,4,10:40 - 11:30,AE23332,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Tuesday,4,10:40 - 11:30,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,A110
+Tuesday,4,10:40 - 11:30,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B305
+Tuesday,4,10:40 - 11:30,AE23433,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Tuesday,4,10:40 - 11:30,AE23611,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A109
+Tuesday,4,10:40 - 11:30,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,A102
+Tuesday,4,10:40 - 11:30,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B106
+Tuesday,4,10:40 - 11:30,AT23334,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,B203
+Tuesday,4,10:40 - 11:30,AT23511,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A309
+Tuesday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A204
+Tuesday,4,10:40 - 11:30,AT23721,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B206
+Tuesday,4,10:40 - 11:30,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B211
+Tuesday,4,10:40 - 11:30,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Tuesday,4,10:40 - 11:30,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B311
+Tuesday,4,10:40 - 11:30,AT23411,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A209
+Tuesday,4,10:40 - 11:30,AT23521,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Tuesday,4,10:40 - 11:30,AT23712,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A108
+Tuesday,4,10:40 - 11:30,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B327
+Tuesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A205
+Tuesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A303
+Tuesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A304
+Tuesday,4,10:40 - 11:30,BM23431,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,B205
+Tuesday,4,10:40 - 11:30,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,B213
+Tuesday,4,10:40 - 11:30,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B116
+Tuesday,4,10:40 - 11:30,BM23532,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,B120
+Tuesday,4,10:40 - 11:30,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A203
+Tuesday,4,10:40 - 11:30,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,B212
+Tuesday,4,10:40 - 11:30,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,B218
+Tuesday,4,10:40 - 11:30,BM23412,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,B210
+Tuesday,4,10:40 - 11:30,BM23312,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A104
+Tuesday,4,10:40 - 11:30,BM23312,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A305
+Tuesday,4,10:40 - 11:30,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A208
+Tuesday,4,10:40 - 11:30,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A302
+Tuesday,4,10:40 - 11:30,BM23421,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,B204
+Tuesday,4,10:40 - 11:30,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B118
+Tuesday,4,10:40 - 11:30,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,A202
+Tuesday,4,10:40 - 11:30,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,A211
+Tuesday,4,10:40 - 11:30,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Tuesday,4,10:40 - 11:30,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A311
+Tuesday,4,10:40 - 11:30,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,B107
+Tuesday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B Third Floor
+Tuesday,4,10:40 - 11:30,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B328
+Tuesday,4,10:40 - 11:30,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B117
+Tuesday,5,11:30 - 12:20,AE23332,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Tuesday,5,11:30 - 12:20,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A210
+Tuesday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A102
+Tuesday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A303
+Tuesday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A304
+Tuesday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A305
+Tuesday,5,11:30 - 12:20,AE23432,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Tuesday,5,11:30 - 12:20,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B Third Floor
+Tuesday,5,11:30 - 12:20,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B305
+Tuesday,5,11:30 - 12:20,AE23333,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B202
+Tuesday,5,11:30 - 12:20,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,A302
+Tuesday,5,11:30 - 12:20,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,A309
+Tuesday,5,11:30 - 12:20,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B107
+Tuesday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Tuesday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B328
+Tuesday,5,11:30 - 12:20,AE23333,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B310
+Tuesday,5,11:30 - 12:20,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,A108
+Tuesday,5,11:30 - 12:20,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,A311
+Tuesday,5,11:30 - 12:20,AT23111,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A104
+Tuesday,5,11:30 - 12:20,AT23511,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A308
+Tuesday,5,11:30 - 12:20,AT23111,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A203
+Tuesday,5,11:30 - 12:20,AT23712,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A211
+Tuesday,5,11:30 - 12:20,AT23432,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B205
+Tuesday,5,11:30 - 12:20,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B204
+Tuesday,5,11:30 - 12:20,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A109
+Tuesday,5,11:30 - 12:20,BM23431,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,B First Floor
+Tuesday,5,11:30 - 12:20,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A310
+Tuesday,5,11:30 - 12:20,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B118
+Tuesday,5,11:30 - 12:20,BM23611,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,A110
+Tuesday,5,11:30 - 12:20,BM23611,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,A209
+Tuesday,5,11:30 - 12:20,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,B213
+Tuesday,5,11:30 - 12:20,BM23511,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A204
+Tuesday,5,11:30 - 12:20,BM23511,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,B218
+Tuesday,5,11:30 - 12:20,BM23411,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,B106
+Tuesday,5,11:30 - 12:20,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B117
+Tuesday,5,11:30 - 12:20,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B327
+Tuesday,5,11:30 - 12:20,BM23322,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,B206
+Tuesday,5,11:30 - 12:20,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A103
+Tuesday,5,11:30 - 12:20,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A205
+Tuesday,5,11:30 - 12:20,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B203
+Tuesday,5,11:30 - 12:20,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Tuesday,5,11:30 - 12:20,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Tuesday,5,11:30 - 12:20,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A105
+Tuesday,5,11:30 - 12:20,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A202
+Tuesday,5,11:30 - 12:20,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A208
+Tuesday,5,11:30 - 12:20,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B311
+Tuesday,5,11:30 - 12:20,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B120
+Tuesday,6,12:20 - 01:10,AE23331,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Tuesday,6,12:20 - 01:10,AE23631,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B206
+Tuesday,6,12:20 - 01:10,AE23611,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Tuesday,6,12:20 - 01:10,AE23612,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A305
+Tuesday,6,12:20 - 01:10,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A205
+Tuesday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A102
+Tuesday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A110
+Tuesday,6,12:20 - 01:10,AE23721,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B117
+Tuesday,6,12:20 - 01:10,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Tuesday,6,12:20 - 01:10,AE23433,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Second Floor
+Tuesday,6,12:20 - 01:10,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A309
+Tuesday,6,12:20 - 01:10,AE23333,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B202
+Tuesday,6,12:20 - 01:10,AE23511,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,B218
+Tuesday,6,12:20 - 01:10,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B212
+Tuesday,6,12:20 - 01:10,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A208
+Tuesday,6,12:20 - 01:10,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,A108
+Tuesday,6,12:20 - 01:10,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,A204
+Tuesday,6,12:20 - 01:10,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B106
+Tuesday,6,12:20 - 01:10,AT23432,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B203
+Tuesday,6,12:20 - 01:10,AT23432,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B205
+Tuesday,6,12:20 - 01:10,AT23713,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A104
+Tuesday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B120
+Tuesday,6,12:20 - 01:10,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A202
+Tuesday,6,12:20 - 01:10,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B118
+Tuesday,6,12:20 - 01:10,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B311
+Tuesday,6,12:20 - 01:10,BM23512,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,A210
+Tuesday,6,12:20 - 01:10,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A103
+Tuesday,6,12:20 - 01:10,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A203
+Tuesday,6,12:20 - 01:10,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A209
+Tuesday,6,12:20 - 01:10,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,A308
+Tuesday,6,12:20 - 01:10,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A311
+Tuesday,6,12:20 - 01:10,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B First Floor
+Tuesday,6,12:20 - 01:10,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Tuesday,6,12:20 - 01:10,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B318
+Tuesday,6,12:20 - 01:10,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B328
+Tuesday,6,12:20 - 01:10,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B305
+Tuesday,6,12:20 - 01:10,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B119
+Tuesday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B204
+Tuesday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B310
+Tuesday,6,12:20 - 01:10,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B Third Floor
+Tuesday,7,01:10 - 02:00,AE23511,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B210
+Tuesday,7,01:10 - 02:00,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B218
+Tuesday,7,01:10 - 02:00,AE23511,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A210
+Tuesday,7,01:10 - 02:00,AE23611,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A103
+Tuesday,7,01:10 - 02:00,AE23611,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Tuesday,7,01:10 - 02:00,AT23111,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A303
+Tuesday,7,01:10 - 02:00,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A203
+Tuesday,7,01:10 - 02:00,AT23713,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A202
+Tuesday,7,01:10 - 02:00,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B107
+Tuesday,7,01:10 - 02:00,BM23311,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A311
+Tuesday,7,01:10 - 02:00,BM23511,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,B211
+Tuesday,7,01:10 - 02:00,BM23411,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A108
+Tuesday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A302
+Tuesday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A304
+Tuesday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A305
+Tuesday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A308
+Tuesday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,B213
+Tuesday,7,01:10 - 02:00,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,B212
+Tuesday,7,01:10 - 02:00,BM23412,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,B106
+Tuesday,7,01:10 - 02:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B Second Floor
+Tuesday,8,02:00 - 02:50,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B206
+Wednesday,1,08:00 - 09:00,AE23432,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B305
+Wednesday,1,08:00 - 09:00,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B Second Floor
+Wednesday,1,08:00 - 09:00,AE23321,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B118
+Wednesday,1,08:00 - 09:00,AE23321,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B204
+Wednesday,1,08:00 - 09:00,AT23431,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B318
+Wednesday,1,08:00 - 09:00,AT23631,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B328
+Wednesday,1,08:00 - 09:00,AT23721,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B120
+Wednesday,1,08:00 - 09:00,AT23431,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B Third Floor
+Wednesday,1,08:00 - 09:00,AT23621,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B117
+Wednesday,1,08:00 - 09:00,AT23522,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B203
+Wednesday,1,08:00 - 09:00,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B119
+Wednesday,1,08:00 - 09:00,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B327
+Wednesday,1,08:00 - 09:00,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B310
+Wednesday,1,08:00 - 09:00,BM23531,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,B205
+Wednesday,1,08:00 - 09:00,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Wednesday,1,08:00 - 09:00,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B116
+Wednesday,1,08:00 - 09:00,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B206
+Wednesday,1,08:00 - 09:00,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B202
+Wednesday,1,08:00 - 09:00,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B First Floor
+Wednesday,1,08:00 - 09:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B311
+Wednesday,2,09:00 - 09:50,AE23333,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Wednesday,2,09:00 - 09:50,AE23631,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B328
+Wednesday,2,09:00 - 09:50,AE23821,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Wednesday,2,09:00 - 09:50,AT23433,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Wednesday,2,09:00 - 09:50,AT23433,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B119
+Wednesday,2,09:00 - 09:50,AT23332,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B327
+Wednesday,2,09:00 - 09:50,AT23521,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,B120
+Wednesday,2,09:00 - 09:50,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B116
+Wednesday,2,09:00 - 09:50,BM23322,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,B202
+Wednesday,2,09:00 - 09:50,BM23532,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,B205
+Wednesday,2,09:00 - 09:50,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B118
+Wednesday,2,09:00 - 09:50,BM23321,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Wednesday,2,09:00 - 09:50,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B117
+Wednesday,2,09:00 - 09:50,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B311
+Wednesday,2,09:00 - 09:50,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Wednesday,2,09:00 - 09:50,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B203
+Wednesday,2,09:00 - 09:50,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B206
+Wednesday,2,09:00 - 09:50,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B310
+Wednesday,2,09:00 - 09:50,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B305
+Wednesday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B204
+Wednesday,3,09:50 - 10:40,AE23331,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Wednesday,3,09:50 - 10:40,AE23531,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Wednesday,3,09:50 - 10:40,AE23431,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Wednesday,3,09:50 - 10:40,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Wednesday,3,09:50 - 10:40,AE23623,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Wednesday,3,09:50 - 10:40,AE23623,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B206
+Wednesday,3,09:50 - 10:40,AE23731,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B328
+Wednesday,3,09:50 - 10:40,AT23431,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B204
+Wednesday,3,09:50 - 10:40,AT23521,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B202
+Wednesday,3,09:50 - 10:40,AT23521,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B310
+Wednesday,3,09:50 - 10:40,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Wednesday,3,09:50 - 10:40,AT23432,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B205
+Wednesday,3,09:50 - 10:40,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B116
+Wednesday,3,09:50 - 10:40,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B120
+Wednesday,3,09:50 - 10:40,BM23322,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,B311
+Wednesday,3,09:50 - 10:40,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B118
+Wednesday,3,09:50 - 10:40,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B117
+Wednesday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B Third Floor
+Wednesday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B305
+Wednesday,3,09:50 - 10:40,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B First Floor
+Wednesday,4,10:40 - 11:30,AE23521,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B202
+Wednesday,4,10:40 - 11:30,AE23631,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B310
+Wednesday,4,10:40 - 11:30,AE23211,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A210
+Wednesday,4,10:40 - 11:30,AE23211,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A308
+Wednesday,4,10:40 - 11:30,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A103
+Wednesday,4,10:40 - 11:30,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A105
+Wednesday,4,10:40 - 11:30,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A310
+Wednesday,4,10:40 - 11:30,AE23332,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Wednesday,4,10:40 - 11:30,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,A110
+Wednesday,4,10:40 - 11:30,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B305
+Wednesday,4,10:40 - 11:30,AE23433,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Wednesday,4,10:40 - 11:30,AE23611,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A109
+Wednesday,4,10:40 - 11:30,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,A102
+Wednesday,4,10:40 - 11:30,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B106
+Wednesday,4,10:40 - 11:30,AT23334,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,B203
+Wednesday,4,10:40 - 11:30,AT23511,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A309
+Wednesday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A204
+Wednesday,4,10:40 - 11:30,AT23721,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B206
+Wednesday,4,10:40 - 11:30,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B211
+Wednesday,4,10:40 - 11:30,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Wednesday,4,10:40 - 11:30,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B311
+Wednesday,4,10:40 - 11:30,AT23411,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A209
+Wednesday,4,10:40 - 11:30,AT23521,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Wednesday,4,10:40 - 11:30,AT23712,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A108
+Wednesday,4,10:40 - 11:30,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B327
+Wednesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A205
+Wednesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A303
+Wednesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A304
+Wednesday,4,10:40 - 11:30,BM23431,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,B205
+Wednesday,4,10:40 - 11:30,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,B213
+Wednesday,4,10:40 - 11:30,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B116
+Wednesday,4,10:40 - 11:30,BM23532,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,B120
+Wednesday,4,10:40 - 11:30,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A203
+Wednesday,4,10:40 - 11:30,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,B212
+Wednesday,4,10:40 - 11:30,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,B218
+Wednesday,4,10:40 - 11:30,BM23412,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,B210
+Wednesday,4,10:40 - 11:30,BM23312,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A104
+Wednesday,4,10:40 - 11:30,BM23312,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A305
+Wednesday,4,10:40 - 11:30,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A208
+Wednesday,4,10:40 - 11:30,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A302
+Wednesday,4,10:40 - 11:30,BM23421,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,B204
+Wednesday,4,10:40 - 11:30,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B118
+Wednesday,4,10:40 - 11:30,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,A202
+Wednesday,4,10:40 - 11:30,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,A211
+Wednesday,4,10:40 - 11:30,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Wednesday,4,10:40 - 11:30,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A311
+Wednesday,4,10:40 - 11:30,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,B107
+Wednesday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B Third Floor
+Wednesday,4,10:40 - 11:30,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B328
+Wednesday,4,10:40 - 11:30,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B117
+Wednesday,5,11:30 - 12:20,AE23332,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Wednesday,5,11:30 - 12:20,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A210
+Wednesday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A102
+Wednesday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A303
+Wednesday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A304
+Wednesday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A305
+Wednesday,5,11:30 - 12:20,AE23432,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Wednesday,5,11:30 - 12:20,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B Third Floor
+Wednesday,5,11:30 - 12:20,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B305
+Wednesday,5,11:30 - 12:20,AE23333,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B202
+Wednesday,5,11:30 - 12:20,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,A302
+Wednesday,5,11:30 - 12:20,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,A309
+Wednesday,5,11:30 - 12:20,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B107
+Wednesday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Wednesday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B328
+Wednesday,5,11:30 - 12:20,AE23333,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B310
+Wednesday,5,11:30 - 12:20,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,A108
+Wednesday,5,11:30 - 12:20,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,A311
+Wednesday,5,11:30 - 12:20,AT23111,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A104
+Wednesday,5,11:30 - 12:20,AT23511,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A308
+Wednesday,5,11:30 - 12:20,AT23111,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A203
+Wednesday,5,11:30 - 12:20,AT23712,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A211
+Wednesday,5,11:30 - 12:20,AT23432,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B205
+Wednesday,5,11:30 - 12:20,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B204
+Wednesday,5,11:30 - 12:20,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A109
+Wednesday,5,11:30 - 12:20,BM23431,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,B First Floor
+Wednesday,5,11:30 - 12:20,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A310
+Wednesday,5,11:30 - 12:20,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B118
+Wednesday,5,11:30 - 12:20,BM23611,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,A110
+Wednesday,5,11:30 - 12:20,BM23611,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,A209
+Wednesday,5,11:30 - 12:20,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,B213
+Wednesday,5,11:30 - 12:20,BM23511,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A204
+Wednesday,5,11:30 - 12:20,BM23511,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,B218
+Wednesday,5,11:30 - 12:20,BM23411,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,B106
+Wednesday,5,11:30 - 12:20,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B117
+Wednesday,5,11:30 - 12:20,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B327
+Wednesday,5,11:30 - 12:20,BM23322,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,B206
+Wednesday,5,11:30 - 12:20,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A103
+Wednesday,5,11:30 - 12:20,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A205
+Wednesday,5,11:30 - 12:20,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B203
+Wednesday,5,11:30 - 12:20,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Wednesday,5,11:30 - 12:20,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Wednesday,5,11:30 - 12:20,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A105
+Wednesday,5,11:30 - 12:20,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A202
+Wednesday,5,11:30 - 12:20,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A208
+Wednesday,5,11:30 - 12:20,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B311
+Wednesday,5,11:30 - 12:20,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B120
+Wednesday,6,12:20 - 01:10,AE23331,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Wednesday,6,12:20 - 01:10,AE23631,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B206
+Wednesday,6,12:20 - 01:10,AE23611,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Wednesday,6,12:20 - 01:10,AE23612,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A305
+Wednesday,6,12:20 - 01:10,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A205
+Wednesday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A102
+Wednesday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A110
+Wednesday,6,12:20 - 01:10,AE23721,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B117
+Wednesday,6,12:20 - 01:10,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Wednesday,6,12:20 - 01:10,AE23433,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Second Floor
+Wednesday,6,12:20 - 01:10,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A309
+Wednesday,6,12:20 - 01:10,AE23333,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B202
+Wednesday,6,12:20 - 01:10,AE23511,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,B218
+Wednesday,6,12:20 - 01:10,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B212
+Wednesday,6,12:20 - 01:10,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A208
+Wednesday,6,12:20 - 01:10,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,A108
+Wednesday,6,12:20 - 01:10,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,A204
+Wednesday,6,12:20 - 01:10,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B106
+Wednesday,6,12:20 - 01:10,AT23432,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B203
+Wednesday,6,12:20 - 01:10,AT23432,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B205
+Wednesday,6,12:20 - 01:10,AT23713,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A104
+Wednesday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B120
+Wednesday,6,12:20 - 01:10,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A202
+Wednesday,6,12:20 - 01:10,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B118
+Wednesday,6,12:20 - 01:10,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B311
+Wednesday,6,12:20 - 01:10,BM23512,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,A210
+Wednesday,6,12:20 - 01:10,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A103
+Wednesday,6,12:20 - 01:10,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A203
+Wednesday,6,12:20 - 01:10,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A209
+Wednesday,6,12:20 - 01:10,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,A308
+Wednesday,6,12:20 - 01:10,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A311
+Wednesday,6,12:20 - 01:10,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B First Floor
+Wednesday,6,12:20 - 01:10,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Wednesday,6,12:20 - 01:10,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B318
+Wednesday,6,12:20 - 01:10,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B328
+Wednesday,6,12:20 - 01:10,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B305
+Wednesday,6,12:20 - 01:10,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B119
+Wednesday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B204
+Wednesday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B310
+Wednesday,6,12:20 - 01:10,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B Third Floor
+Wednesday,7,01:10 - 02:00,AE23511,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B210
+Wednesday,7,01:10 - 02:00,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B218
+Wednesday,7,01:10 - 02:00,AE23511,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A210
+Wednesday,7,01:10 - 02:00,AE23611,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A103
+Wednesday,7,01:10 - 02:00,AE23611,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Wednesday,7,01:10 - 02:00,AT23111,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A303
+Wednesday,7,01:10 - 02:00,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A203
+Wednesday,7,01:10 - 02:00,AT23713,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A202
+Wednesday,7,01:10 - 02:00,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B107
+Wednesday,7,01:10 - 02:00,BM23311,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A311
+Wednesday,7,01:10 - 02:00,BM23511,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,B211
+Wednesday,7,01:10 - 02:00,BM23411,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A108
+Wednesday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A302
+Wednesday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A304
+Wednesday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A305
+Wednesday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A308
+Wednesday,7,01:10 - 02:00,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,B213
+Wednesday,7,01:10 - 02:00,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,B212
+Wednesday,7,01:10 - 02:00,BM23412,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,B106
+Wednesday,7,01:10 - 02:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B Second Floor
+Wednesday,8,02:00 - 02:50,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B206
+Thursday,1,08:00 - 09:00,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B311
+Thursday,1,08:00 - 09:00,AE23721,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Thursday,1,08:00 - 09:00,AE23321,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,B204
+Thursday,1,08:00 - 09:00,AE23632,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Thursday,1,08:00 - 09:00,AT23334,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,B206
+Thursday,1,08:00 - 09:00,AT23721,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B118
+Thursday,1,08:00 - 09:00,AT23721,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B120
+Thursday,1,08:00 - 09:00,AT23333,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Thursday,1,08:00 - 09:00,BM23521,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Thursday,1,08:00 - 09:00,BM23231,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B203
+Thursday,1,08:00 - 09:00,BM23321,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Thursday,1,08:00 - 09:00,BM23332,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B318
+Thursday,1,08:00 - 09:00,BM23331,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,B205
+Thursday,1,08:00 - 09:00,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B116
+Thursday,1,08:00 - 09:00,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B117
+Thursday,1,08:00 - 09:00,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B310
+Thursday,1,08:00 - 09:00,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B305
+Thursday,1,08:00 - 09:00,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B202
+Thursday,1,08:00 - 09:00,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B327
+Thursday,1,08:00 - 09:00,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B328
+Thursday,2,09:00 - 09:50,AE23621,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B202
+Thursday,2,09:00 - 09:50,AE23332,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,B117
+Thursday,2,09:00 - 09:50,AE23531,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B First Floor
+Thursday,2,09:00 - 09:50,AE23531,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Thursday,2,09:00 - 09:50,AE23731,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Thursday,2,09:00 - 09:50,AE23521,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B Second Floor
+Thursday,2,09:00 - 09:50,AE23521,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Thursday,2,09:00 - 09:50,AT23531,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B305
+Thursday,2,09:00 - 09:50,AT23432,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B119
+Thursday,2,09:00 - 09:50,AT23722,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B Third Floor
+Thursday,2,09:00 - 09:50,AT23333,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B120
+Thursday,2,09:00 - 09:50,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B116
+Thursday,2,09:00 - 09:50,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B204
+Thursday,2,09:00 - 09:50,BM23422,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B118
+Thursday,2,09:00 - 09:50,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B310
+Thursday,2,09:00 - 09:50,BM23422,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Thursday,2,09:00 - 09:50,BM23531,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,B205
+Thursday,2,09:00 - 09:50,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B328
+Thursday,2,09:00 - 09:50,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B311
+Thursday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B206
+Thursday,3,09:50 - 10:40,AE23631,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B305
+Thursday,3,09:50 - 10:40,AE23431,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Thursday,3,09:50 - 10:40,AE23432,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B117
+Thursday,3,09:50 - 10:40,AE23321,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Thursday,3,09:50 - 10:40,AE23622,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B328
+Thursday,3,09:50 - 10:40,AE23623,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Thursday,3,09:50 - 10:40,AT23433,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Thursday,3,09:50 - 10:40,AT23633,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B202
+Thursday,3,09:50 - 10:40,AT23431,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B Third Floor
+Thursday,3,09:50 - 10:40,AT23333,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B118
+Thursday,3,09:50 - 10:40,BM23521,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B204
+Thursday,3,09:50 - 10:40,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B205
+Thursday,3,09:50 - 10:40,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Thursday,3,09:50 - 10:40,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B203
+Thursday,3,09:50 - 10:40,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B327
+Thursday,3,09:50 - 10:40,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B206
+Thursday,3,09:50 - 10:40,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B318
+Thursday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B120
+Thursday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B311
+Thursday,3,09:50 - 10:40,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B310
+Thursday,4,10:40 - 11:30,AE23331,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B First Floor
+Thursday,4,10:40 - 11:30,AE23332,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Thursday,4,10:40 - 11:30,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Thursday,4,10:40 - 11:30,AE23721,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Thursday,4,10:40 - 11:30,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,A210
+Thursday,4,10:40 - 11:30,AE23211,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B210
+Thursday,4,10:40 - 11:30,AE23721,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Thursday,4,10:40 - 11:30,AE23511,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Thursday,4,10:40 - 11:30,AE23511,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,B107
+Thursday,4,10:40 - 11:30,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,A204
+Thursday,4,10:40 - 11:30,AT23511,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A309
+Thursday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A103
+Thursday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,A208
+Thursday,4,10:40 - 11:30,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B218
+Thursday,4,10:40 - 11:30,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A202
+Thursday,4,10:40 - 11:30,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A311
+Thursday,4,10:40 - 11:30,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,B213
+Thursday,4,10:40 - 11:30,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A310
+Thursday,4,10:40 - 11:30,AT23432,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B205
+Thursday,4,10:40 - 11:30,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A304
+Thursday,4,10:40 - 11:30,BM23422,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Thursday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A203
+Thursday,4,10:40 - 11:30,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A305
+Thursday,4,10:40 - 11:30,BM23312,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,A108
+Thursday,4,10:40 - 11:30,BM23322,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,B117
+Thursday,4,10:40 - 11:30,BM23532,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,B328
+Thursday,4,10:40 - 11:30,BM23611,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,B211
+Thursday,4,10:40 - 11:30,BM23313,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B212
+Thursday,4,10:40 - 11:30,BM23311,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,B106
+Thursday,4,10:40 - 11:30,BM23412,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A102
+Thursday,4,10:40 - 11:30,BM23511,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A110
+Thursday,4,10:40 - 11:30,BM23511,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A308
+Thursday,4,10:40 - 11:30,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A109
+Thursday,4,10:40 - 11:30,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A302
+Thursday,4,10:40 - 11:30,BM23321,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B202
+Thursday,4,10:40 - 11:30,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A105
+Thursday,4,10:40 - 11:30,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A209
+Thursday,4,10:40 - 11:30,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B204
+Thursday,4,10:40 - 11:30,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B327
+Thursday,4,10:40 - 11:30,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B206
+Thursday,4,10:40 - 11:30,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B118
+Thursday,4,10:40 - 11:30,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B311
+Thursday,4,10:40 - 11:30,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Thursday,4,10:40 - 11:30,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A104
+Thursday,4,10:40 - 11:30,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A205
+Thursday,4,10:40 - 11:30,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A303
+Thursday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B120
+Thursday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B305
+Thursday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B310
+Thursday,4,10:40 - 11:30,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B119
+Thursday,5,11:30 - 12:20,AE23632,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B202
+Thursday,5,11:30 - 12:20,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A208
+Thursday,5,11:30 - 12:20,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,B210
+Thursday,5,11:30 - 12:20,AE23511,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A103
+Thursday,5,11:30 - 12:20,AE23531,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B206
+Thursday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A109
+Thursday,5,11:30 - 12:20,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,B107
+Thursday,5,11:30 - 12:20,AE23721,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Thursday,5,11:30 - 12:20,AE23623,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B Second Floor
+Thursday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B First Floor
+Thursday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B Third Floor
+Thursday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Thursday,5,11:30 - 12:20,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Thursday,5,11:30 - 12:20,AE23821,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B204
+Thursday,5,11:30 - 12:20,AE23821,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Thursday,5,11:30 - 12:20,AE23511,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,A209
+Thursday,5,11:30 - 12:20,AT23111,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A309
+Thursday,5,11:30 - 12:20,AT23331,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,B328
+Thursday,5,11:30 - 12:20,AT23713,selvaraju.pn@rajalakshmi.edu.in,Automobile Engineering,A105
+Thursday,5,11:30 - 12:20,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A104
+Thursday,5,11:30 - 12:20,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A110
+Thursday,5,11:30 - 12:20,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A202
+Thursday,5,11:30 - 12:20,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B106
+Thursday,5,11:30 - 12:20,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A204
+Thursday,5,11:30 - 12:20,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A308
+Thursday,5,11:30 - 12:20,AT23412,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A203
+Thursday,5,11:30 - 12:20,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B117
+Thursday,5,11:30 - 12:20,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B305
+Thursday,5,11:30 - 12:20,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A205
+Thursday,5,11:30 - 12:20,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A303
+Thursday,5,11:30 - 12:20,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A305
+Thursday,5,11:30 - 12:20,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B310
+Thursday,5,11:30 - 12:20,BM23313,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,A311
+Thursday,5,11:30 - 12:20,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A210
+Thursday,5,11:30 - 12:20,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A304
+Thursday,5,11:30 - 12:20,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,B211
+Thursday,5,11:30 - 12:20,BM23411,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A302
+Thursday,5,11:30 - 12:20,BM23313,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,A102
+Thursday,5,11:30 - 12:20,BM23321,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B327
+Thursday,5,11:30 - 12:20,BM23331,sankar.k@rajalakshmi.edu.in,Biomedical Engineering,B118
+Thursday,5,11:30 - 12:20,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A211
+Thursday,5,11:30 - 12:20,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,A310
+Thursday,5,11:30 - 12:20,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,B218
+Thursday,5,11:30 - 12:20,BM23431,rajkumar.s@rajalakshmi.edu.in,Biomedical Engineering,B205
+Thursday,5,11:30 - 12:20,BM23531,kalpana.r@rajalakshmi.edu.in,Biomedical Engineering,B120
+Thursday,5,11:30 - 12:20,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,A108
+Thursday,5,11:30 - 12:20,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B311
+Thursday,5,11:30 - 12:20,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B Ground Floor
+Thursday,6,12:20 - 01:10,AE23632,harish.s.aero@rajalakshmi.edu.in,Aeronautical Engineering,B Second Floor
+Thursday,6,12:20 - 01:10,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A203
+Thursday,6,12:20 - 01:10,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,A309
+Thursday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A205
+Thursday,6,12:20 - 01:10,AE23531,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Thursday,6,12:20 - 01:10,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Thursday,6,12:20 - 01:10,AE23612,nithiyanantham.kk@rajalakshmi.edu.in,Aeronautical Engineering,A302
+Thursday,6,12:20 - 01:10,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Thursday,6,12:20 - 01:10,AE23621,surendrabogadi@rajalakshmi.edu.in,Aeronautical Engineering,B116
+Thursday,6,12:20 - 01:10,AE23622,kathiravan.b@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Thursday,6,12:20 - 01:10,AE23623,sureshchandrakhandai@rajalakshmi.edu.in,Aeronautical Engineering,B Third Floor
+Thursday,6,12:20 - 01:10,AE23622,harikrishnan.r@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Thursday,6,12:20 - 01:10,AE23433,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Thursday,6,12:20 - 01:10,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A105
+Thursday,6,12:20 - 01:10,AE23513,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,A308
+Thursday,6,12:20 - 01:10,AE23513,pradesh.s@rajalakshmi.edu.in,Aeronautical Engineering,A310
+Thursday,6,12:20 - 01:10,AE23611,nithiyaraj.m@rajalakshmi.edu.in,Aeronautical Engineering,B218
+Thursday,6,12:20 - 01:10,AT23432,anbalagan.r@rajalakshmi.edu.in,Automobile Engineering,B206
+Thursday,6,12:20 - 01:10,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,A102
+Thursday,6,12:20 - 01:10,AT23522,pavan.p@rajalakshmi.edu.in,Automobile Engineering,B118
+Thursday,6,12:20 - 01:10,AT23521,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,B204
+Thursday,6,12:20 - 01:10,BM23332,rubeshkumar.t@rajalakshmi.edu.in,Biomedical Engineering,B117
+Thursday,6,12:20 - 01:10,BM23511,revathy.p.bme@rajalakshmi.edu.in,Biomedical Engineering,A103
+Thursday,6,12:20 - 01:10,BM23421,padmasini.n@rajalakshmi.edu.in,Biomedical Engineering,B328
+Thursday,6,12:20 - 01:10,BM23312,shanthipriya.a@rajalakshmi.edu.in,Biomedical Engineering,A208
+Thursday,6,12:20 - 01:10,BM23512,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B213
+Thursday,6,12:20 - 01:10,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A303
+Thursday,6,12:20 - 01:10,BM23311,vigneswaran.narayanamurthy@rajalakshmi.edu.in,Biomedical Engineering,A311
+Thursday,6,12:20 - 01:10,BM23411,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A108
+Thursday,6,12:20 - 01:10,BM23411,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,A304
+Thursday,6,12:20 - 01:10,BM23531,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,Biomedical Engineering,B First Floor
+Thursday,6,12:20 - 01:10,BM23421,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,B205
+Thursday,6,12:20 - 01:10,BM23421,abiramy.s@rajalakshmi.edu.in,Biomedical Engineering,B305
+Thursday,6,12:20 - 01:10,BM23612,premkumar.r@rajalakshmi.edu.in,Biomedical Engineering,A209
+Thursday,6,12:20 - 01:10,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,A202
+Thursday,6,12:20 - 01:10,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,A210
+Thursday,6,12:20 - 01:10,BM23532,senthilkumar.p@rajalakshmi.edu.in,Biomedical Engineering,B120
+Thursday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B202
+Thursday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B310
+Thursday,6,12:20 - 01:10,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B311
+Thursday,7,01:10 - 02:00,AE23611,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A209
+Thursday,7,01:10 - 02:00,AE23612,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Thursday,7,01:10 - 02:00,AE23612,shebazahamed.jp@rajalakshmi.edu.in,Aeronautical Engineering,A302
+Thursday,7,01:10 - 02:00,AE23513,muthusamy.n@rajalakshmi.edu.in,Aeronautical Engineering,B213
+Thursday,7,01:10 - 02:00,AE23411,vasthaduvasukannah.dl@rajalakshmi.edu.in,Aeronautical Engineering,B210
+Thursday,7,01:10 - 02:00,AT23511,mullaisudaroli.b@rajalakshmi.edu.in,Automobile Engineering,A203
+Thursday,7,01:10 - 02:00,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B211
+Thursday,7,01:10 - 02:00,AT23511,zahirhussain.m@rajalakshmi.edu.in,Automobile Engineering,B212
+Thursday,7,01:10 - 02:00,AT23711,edwinjoseph.r@rajalakshmi.edu.in,Automobile Engineering,A311
+Thursday,7,01:10 - 02:00,BM23313,jeminaasnothsylvia.j@rajalakshmi.edu.in,Biomedical Engineering,B218
+Thursday,7,01:10 - 02:00,BM23412,krishnakumar.s@rajalakshmi.edu.in,Biomedical Engineering,A202
+Thursday,7,01:10 - 02:00,BM23612,karuppathal.e@rajalakshmi.edu.in,Biomedical Engineering,A210
+Thursday,7,01:10 - 02:00,BM23411,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A303
+Thursday,7,01:10 - 02:00,BM23412,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A204
+Thursday,7,01:10 - 02:00,BM23412,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A208
+Thursday,7,01:10 - 02:00,BM23412,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A304
+Thursday,7,01:10 - 02:00,BM23412,subathra.y@rajalakshmi.edu.in,Biomedical Engineering,A308
+Thursday,7,01:10 - 02:00,BM23611,gloryprecious.j@rajalakshmi.edu.in,Biomedical Engineering,B107
+Thursday,7,01:10 - 02:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B116
+Thursday,8,02:00 - 02:50,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B205

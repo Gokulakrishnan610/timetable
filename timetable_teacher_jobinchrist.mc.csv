@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,1,08:00 - 09:00,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B204
+Monday,1,08:00 - 09:00,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B318
+Monday,2,09:00 - 09:50,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Monday,3,09:50 - 10:40,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B117
+Monday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B311
+Tuesday,1,08:00 - 09:00,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B202
+Tuesday,3,09:50 - 10:40,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B118
+Tuesday,5,11:30 - 12:20,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Tuesday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B204
+Tuesday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B310
+Wednesday,1,08:00 - 09:00,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B202
+Wednesday,3,09:50 - 10:40,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B118
+Wednesday,5,11:30 - 12:20,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Wednesday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B204
+Wednesday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B310
+Thursday,1,08:00 - 09:00,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B305
+Thursday,3,09:50 - 10:40,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B206
+Thursday,4,10:40 - 11:30,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Thursday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B202
+Thursday,6,12:20 - 01:10,BM23521,jobinchrist.mc@rajalakshmi.edu.in,Biomedical Engineering,B310

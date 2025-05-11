@@ -1,0 +1,32 @@
+S.NO,REGULATION,Year,SEMESTER,DEPARTMENT,Course Code,Course Title,L,T,P,C,"As per Regulation
+L/T/P",Category,Venue,Faculty
+1,2023,1,1,Computer Science,CS101,Introduction to Programming,2,0,2,3,4,Theory,A101,John Doe
+2,2023,1,2,Computer Science,CS102,Data Structures,3,0,2,4,5,LOT,B101,Jane Smith
+3,2023,2,3,Computer Science,CS201,Algorithms,3,0,0,3,3,Theory,A102,Bob Johnson
+4,2023,2,4,Computer Science,CS202,Database Systems,3,0,2,4,5,LOT,B102,John Doe
+5,2023,3,5,Computer Science,CS301,Web Development,2,0,2,3,4,LOT,B103,Jane Smith
+6,2023,3,6,Computer Science,CS302,Mobile App Development,2,0,4,4,6,LOT,B101,Bob Johnson
+7,2023,4,7,Computer Science,CS401,Artificial Intelligence,3,0,0,3,3,Theory,A103,John Doe
+8,2023,4,8,Computer Science,CS402,Project Work,0,0,12,6,12,Laboratory,B102,Jane Smith
+9,2023,1,1,Electrical Engineering,EE101,Basic Electrical Engineering,2,0,2,3,4,LOT,B201,Alice Williams
+10,2023,1,2,Electrical Engineering,EE102,Digital Electronics,3,0,2,4,5,LOT,B202,Michael Brown
+11,2023,2,3,Electrical Engineering,EE201,Circuit Theory,3,0,0,3,3,Theory,A104,Susan Miller
+12,2023,2,4,Electrical Engineering,EE202,Control Systems,3,0,2,4,5,LOT,B203,Alice Williams
+13,2023,3,5,Electrical Engineering,EE301,Power Systems,2,0,2,3,4,LOT,B201,Michael Brown
+14,2023,3,6,Electrical Engineering,EE302,Electrical Machines,3,0,2,4,5,LOT,B202,Susan Miller
+15,2023,4,7,Electrical Engineering,EE401,Power Electronics,3,0,0,3,3,Theory,A105,Alice Williams
+16,2023,4,8,Electrical Engineering,EE402,Project Work,0,0,12,6,12,Laboratory,B203,Michael Brown
+17,2023,1,1,Mechanical Engineering,ME101,Engineering Mechanics,2,0,2,3,4,LOT,C101,David Davis
+18,2023,1,2,Mechanical Engineering,ME102,Thermodynamics,3,0,2,4,5,LOT,C102,Linda Wilson
+19,2023,2,3,Mechanical Engineering,ME201,Fluid Mechanics,3,0,0,3,3,Theory,A201,James Taylor
+20,2023,2,4,Mechanical Engineering,ME202,Machine Design,3,0,2,4,5,LOT,C101,David Davis
+21,2023,1,1,Civil Engineering,CE101,Surveying,2,0,2,3,4,LOT,C201,Mary Anderson
+22,2023,1,2,Civil Engineering,CE102,Structural Analysis,3,0,2,4,5,LOT,C202,Robert Thomas
+23,2023,1,1,Physics,PH101,Mechanics,3,0,0,3,3,Theory,A202,Richard White
+24,2023,1,2,Physics,PH102,Electromagnetism,3,0,2,4,5,LOT,D101,Jennifer Harris
+25,2023,1,1,Mathematics,MA101,Calculus,3,0,0,3,3,Theory,A101,Sarah Thompson
+26,2023,1,2,Mathematics,MA102,Linear Algebra,3,0,0,3,3,Theory,A102,Joseph Garcia
+27,2023,1,1,Computer Science,CS103,Python Programming Lab,0,0,4,2,4,Laboratory,B103,Bob Johnson
+28,2023,2,3,Computer Science,MA201,Probability and Statistics,3,0,0,3,3,Theory,A103,Elizabeth Martinez
+29,2023,1,1,Electrical Engineering,PH201,Physics for Engineers,2,0,2,3,4,LOT,D102,Charles Martin
+30,2023,1,2,Computer Science,MA103,Discrete Mathematics,3,0,0,3,3,Theory,A104,Joseph Garcia 

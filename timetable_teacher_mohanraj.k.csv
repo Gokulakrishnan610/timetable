@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,1,08:00 - 09:00,AT23333,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B205
+Monday,2,09:00 - 09:50,AT23331,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B204
+Monday,3,09:50 - 10:40,AT23333,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Monday,5,11:30 - 12:20,AT23333,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B116
+Monday,5,11:30 - 12:20,AT23333,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B318
+Tuesday,3,09:50 - 10:40,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Tuesday,4,10:40 - 11:30,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Tuesday,4,10:40 - 11:30,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B311
+Tuesday,4,10:40 - 11:30,AT23411,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A209
+Tuesday,6,12:20 - 01:10,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B106
+Wednesday,3,09:50 - 10:40,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Wednesday,4,10:40 - 11:30,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B First Floor
+Wednesday,4,10:40 - 11:30,AT23334,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B311
+Wednesday,4,10:40 - 11:30,AT23411,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A209
+Wednesday,6,12:20 - 01:10,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B106
+Thursday,4,10:40 - 11:30,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A310
+Thursday,5,11:30 - 12:20,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A104
+Thursday,5,11:30 - 12:20,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A110
+Thursday,5,11:30 - 12:20,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,A202
+Thursday,5,11:30 - 12:20,AT23412,mohanraj.k@rajalakshmi.edu.in,Automobile Engineering,B106

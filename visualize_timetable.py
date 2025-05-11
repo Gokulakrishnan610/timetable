@@ -11,121 +11,187 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import numpy as np
 import os
-from collections import defaultdict
+from collections import defaultdict, Counter
 import seaborn as sns
 
 def load_timetable(file_path='master_timetable.csv'):
-    """Load the timetable data from CSV file"""
+    """Load timetable from CSV file"""
     if not os.path.exists(file_path):
-        print(f"Error: Timetable file '{file_path}' not found.")
-        print("Please run the timetable_generator.py script first.")
-        return None
-        
+        raise FileNotFoundError(f"Timetable file not found: {file_path}")
+    
     return pd.read_csv(file_path)
 
-def create_heatmap(timetable_df):
-    """Create a heatmap showing class density by day and time slot"""
+def create_heatmap(timetable_df=None, save_path='timetable_heatmap.png'):
+    """Create a heatmap visualization of the timetable"""
     if timetable_df is None:
-        return
-        
-    # Count classes per day and slot
-    day_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
+        timetable_df = load_timetable()
+    
+    # Create a pivot table for the heatmap
     heatmap_data = pd.pivot_table(
         timetable_df, 
         values='Course', 
-        index='Day', 
-        columns='Slot',
+        index='Slot', 
+        columns='Day',
         aggfunc='count', 
         fill_value=0
     )
     
-    # Reorder days
-    heatmap_data = heatmap_data.reindex(day_order)
+    # Sort slots correctly
+    if 'Slot' in timetable_df.columns:
+        slots = sorted(timetable_df['Slot'].unique())
+        heatmap_data = heatmap_data.reindex(slots)
     
-    # Create heatmap
+    # Plot the heatmap
     plt.figure(figsize=(12, 8))
-    ax = sns.heatmap(
+    sns.heatmap(
         heatmap_data, 
-        cmap="YlGnBu",
         annot=True, 
-        fmt="d", 
-        linewidths=.5, 
+        cmap='YlGnBu', 
+        linewidths=0.5, 
+        fmt='.0f',
         cbar_kws={'label': 'Number of Classes'}
     )
-    ax.set_title('Class Density by Day and Time Slot', fontsize=16)
-    ax.set_xlabel('Time Slot')
-    ax.set_ylabel('Day')
-    
+    plt.title('Timetable Class Density', fontsize=16)
     plt.tight_layout()
-    plt.savefig('timetable_heatmap.png', dpi=300, bbox_inches='tight')
-    print("Saved heatmap visualization to 'timetable_heatmap.png'")
+    plt.savefig(save_path, dpi=300)
     plt.close()
 
-def create_teacher_load_chart(timetable_df, max_teachers=20):
-    """Create a bar chart showing teaching load by teacher"""
+def create_teacher_load_chart(timetable_df=None, save_path='teacher_load.png', top_n=15):
+    """Create a chart showing teacher load"""
     if timetable_df is None:
-        return
-        
-    # Count classes per teacher
-    teacher_loads = timetable_df['Teacher'].value_counts().reset_index()
-    teacher_loads.columns = ['Teacher', 'Classes']
-    teacher_loads = teacher_loads.head(max_teachers)  # Limit to top teachers
+        timetable_df = load_timetable()
     
-    # Create bar chart
+    # Count classes per teacher
+    teacher_load = timetable_df['Teacher'].value_counts().reset_index()
+    teacher_load.columns = ['Teacher', 'Classes']
+    
+    # Sort and take top N
+    teacher_load = teacher_load.sort_values('Classes', ascending=False).head(top_n)
+    
+    # Plot
     plt.figure(figsize=(14, 8))
     bars = plt.bar(
-        [t.split('@')[0] for t in teacher_loads['Teacher']], 
-        teacher_loads['Classes'],
+        teacher_load['Teacher'].str.split('.').str[0], 
+        teacher_load['Classes'], 
         color='skyblue'
     )
     
-    # Add count labels above bars
+    # Add values on top of bars
     for bar in bars:
         height = bar.get_height()
         plt.text(
-            bar.get_x() + bar.get_width()/2.,
-            height + 0.1,
-            str(int(height)),
+            bar.get_x() + bar.get_width()/2., 
+            height + 0.1, 
+            f'{height:.0f}', 
             ha='center', 
             va='bottom'
         )
     
-    plt.title('Teaching Load by Teacher (Top 20)', fontsize=16)
+    plt.title(f'Teaching Load by Teacher (Top {top_n})', fontsize=16)
     plt.xlabel('Teacher')
     plt.ylabel('Number of Classes')
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
-    
-    plt.savefig('teacher_load.png', dpi=300, bbox_inches='tight')
-    print("Saved teacher load chart to 'teacher_load.png'")
+    plt.savefig(save_path, dpi=300)
     plt.close()
 
-def create_department_load_chart(timetable_df):
-    """Create a bar chart showing teaching load by department"""
-    if timetable_df is None or 'Department' not in timetable_df.columns:
-        print("Department information not available in timetable data")
-        return
-        
-    # Count classes per department
-    dept_loads = timetable_df.groupby('Department').size().reset_index()
-    dept_loads.columns = ['Department', 'Classes']
-    dept_loads = dept_loads.sort_values('Classes', ascending=False)
+def create_room_usage_chart(timetable_df=None, save_path='room_usage.png', top_n=15):
+    """Create a chart showing room usage"""
+    if timetable_df is None:
+        timetable_df = load_timetable()
     
-    # Create bar chart
+    # Count classes per room
+    room_usage = timetable_df['Room'].value_counts().reset_index()
+    room_usage.columns = ['Room', 'Classes']
+    
+    # Sort and take top N
+    room_usage = room_usage.sort_values('Classes', ascending=False).head(top_n)
+    
+    # Plot
     plt.figure(figsize=(14, 8))
-    bars = plt.bar(
-        dept_loads['Department'],
-        dept_loads['Classes'],
-        color='lightgreen'
-    )
+    bars = plt.bar(room_usage['Room'], room_usage['Classes'], color='lightgreen')
     
-    # Add count labels above bars
+    # Add values on top of bars
     for bar in bars:
         height = bar.get_height()
         plt.text(
-            bar.get_x() + bar.get_width()/2.,
-            height + 0.1,
-            str(int(height)),
+            bar.get_x() + bar.get_width()/2., 
+            height + 0.1, 
+            f'{height:.0f}', 
+            ha='center', 
+            va='bottom'
+        )
+    
+    plt.title(f'Room Usage (Top {top_n})', fontsize=16)
+    plt.xlabel('Room')
+    plt.ylabel('Number of Classes')
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    plt.savefig(save_path, dpi=300)
+    plt.close()
+
+def create_course_distribution(timetable_df=None, save_path='course_distribution.png', top_n=15):
+    """Create a chart showing course distribution"""
+    if timetable_df is None:
+        timetable_df = load_timetable()
+    
+    # Count classes per course
+    course_dist = timetable_df['Course'].value_counts().reset_index()
+    course_dist.columns = ['Course', 'Classes']
+    
+    # Sort and take top N
+    course_dist = course_dist.sort_values('Classes', ascending=False).head(top_n)
+    
+    # Plot
+    plt.figure(figsize=(14, 8))
+    bars = plt.bar(course_dist['Course'], course_dist['Classes'], color='salmon')
+    
+    # Add values on top of bars
+    for bar in bars:
+        height = bar.get_height()
+        plt.text(
+            bar.get_x() + bar.get_width()/2., 
+            height + 0.1, 
+            f'{height:.0f}', 
+            ha='center', 
+            va='bottom'
+        )
+    
+    plt.title(f'Classes per Course (Top {top_n})', fontsize=16)
+    plt.xlabel('Course')
+    plt.ylabel('Number of Classes')
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    plt.savefig(save_path, dpi=300)
+    plt.close()
+
+def create_department_load(timetable_df=None, save_path='department_load.png'):
+    """Create a chart showing department teaching load"""
+    if timetable_df is None:
+        timetable_df = load_timetable()
+    
+    # Extract department from course code (assuming format like 'CS101')
+    if 'Department' not in timetable_df.columns:
+        timetable_df['Department'] = timetable_df['Course'].str.extract(r'([A-Z]+)').fillna('Unknown')
+    
+    # Count classes per department
+    dept_load = timetable_df['Department'].value_counts().reset_index()
+    dept_load.columns = ['Department', 'Classes']
+    
+    # Sort
+    dept_load = dept_load.sort_values('Classes', ascending=False)
+    
+    # Plot
+    plt.figure(figsize=(14, 8))
+    bars = plt.bar(dept_load['Department'], dept_load['Classes'], color='mediumpurple')
+    
+    # Add values on top of bars
+    for bar in bars:
+        height = bar.get_height()
+        plt.text(
+            bar.get_x() + bar.get_width()/2., 
+            height + 0.1, 
+            f'{height:.0f}', 
             ha='center', 
             va='bottom'
         )
@@ -135,275 +201,270 @@ def create_department_load_chart(timetable_df):
     plt.ylabel('Number of Classes')
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
-    
-    plt.savefig('department_load.png', dpi=300, bbox_inches='tight')
-    print("Saved department load chart to 'department_load.png'")
+    plt.savefig(save_path, dpi=300)
     plt.close()
 
-def create_room_usage_chart(timetable_df, max_rooms=20):
-    """Create a bar chart showing room usage"""
+def create_teacher_schedule(teacher_name, timetable_df=None, save_path=None):
+    """Create a visualization of a teacher's schedule"""
     if timetable_df is None:
+        timetable_df = load_timetable()
+    
+    # Filter for the specific teacher
+    teacher_data = timetable_df[timetable_df['Teacher'] == teacher_name]
+    
+    if teacher_data.empty:
+        print(f"No schedule found for teacher: {teacher_name}")
         return
-        
-    # Count classes per room
-    room_usage = timetable_df['Room'].value_counts().reset_index()
-    room_usage.columns = ['Room', 'Classes']
-    room_usage = room_usage.head(max_rooms)  # Limit to top rooms
     
-    # Create bar chart
-    plt.figure(figsize=(14, 8))
-    bars = plt.bar(
-        room_usage['Room'], 
-        room_usage['Classes'],
-        color='lightgreen'
-    )
+    # Create a matrix for the schedule
+    days = sorted(timetable_df['Day'].unique())
+    slots = sorted(timetable_df['Slot'].unique())
     
-    # Add count labels above bars
-    for bar in bars:
-        height = bar.get_height()
-        plt.text(
-            bar.get_x() + bar.get_width()/2.,
-            height + 0.1,
-            str(int(height)),
-            ha='center', 
-            va='bottom'
-        )
+    schedule_matrix = pd.DataFrame(index=slots, columns=days)
     
-    plt.title('Room Usage (Top 20)', fontsize=16)
-    plt.xlabel('Room')
-    plt.ylabel('Number of Classes')
-    plt.xticks(rotation=45, ha='right')
-    plt.tight_layout()
+    # Fill in the schedule
+    for _, row in teacher_data.iterrows():
+        day = row['Day']
+        slot = row['Slot']
+        schedule_matrix.loc[slot, day] = f"{row['Course']}\n{row['Room']}"
     
-    plt.savefig('room_usage.png', dpi=300, bbox_inches='tight')
-    print("Saved room usage chart to 'room_usage.png'")
-    plt.close()
-
-def create_course_distribution_chart(timetable_df, max_courses=20):
-    """Create a bar chart showing course distribution"""
-    if timetable_df is None:
-        return
-        
-    # Count occurrences per course
-    course_dist = timetable_df['Course'].value_counts().reset_index()
-    course_dist.columns = ['Course', 'Classes']
-    course_dist = course_dist.head(max_courses)  # Limit to top courses
-    
-    # Create bar chart
-    plt.figure(figsize=(14, 8))
-    bars = plt.bar(
-        course_dist['Course'], 
-        course_dist['Classes'],
-        color='salmon'
-    )
-    
-    # Add count labels above bars
-    for bar in bars:
-        height = bar.get_height()
-        plt.text(
-            bar.get_x() + bar.get_width()/2.,
-            height + 0.1,
-            str(int(height)),
-            ha='center', 
-            va='bottom'
-        )
-    
-    plt.title('Course Distribution (Top 20)', fontsize=16)
-    plt.xlabel('Course')
-    plt.ylabel('Number of Classes')
-    plt.xticks(rotation=90)
-    plt.tight_layout()
-    
-    plt.savefig('course_distribution.png', dpi=300, bbox_inches='tight')
-    print("Saved course distribution chart to 'course_distribution.png'")
-    plt.close()
-
-def create_teacher_timetable_grid(timetable_df, teacher_email, output_file=None):
-    """Create a grid showing the timetable for a specific teacher"""
-    if timetable_df is None:
-        return
-        
-    # Filter data for the specified teacher
-    teacher_df = timetable_df[timetable_df['Teacher'] == teacher_email]
-    
-    if teacher_df.empty:
-        print(f"No schedule found for teacher: {teacher_email}")
-        return
-        
-    # Create a grid for the teacher's schedule
-    days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
-    slots = range(1, 14)  # Slots 1-13
-    
-    # Create a 2D grid (rows: days, columns: slots)
-    grid_data = np.empty((len(days), len(slots)), dtype=object)
-    grid_data[:] = ''
-    
-    # Fill the grid with course and room information
-    for _, row in teacher_df.iterrows():
-        day_idx = days.index(row['Day'])
-        slot_idx = row['Slot'] - 1  # Adjust for 0-indexing
-        grid_data[day_idx, slot_idx] = f"{row['Course']}\n{row['Room']}"
-    
-    # Create figure and axis
-    fig, ax = plt.subplots(figsize=(16, 8))
+    # Plot
+    plt.figure(figsize=(12, 8))
+    ax = plt.gca()
     ax.set_axis_off()
     
-    # Create the table
-    teacher_name = teacher_email.split('@')[0]
-    
-    # Add department info if available
-    dept_info = ""
-    if 'Department' in teacher_df.columns and not teacher_df['Department'].empty:
-        dept_info = f" ({teacher_df['Department'].iloc[0]})"
-    
-    table = ax.table(
-        cellText=grid_data,
-        rowLabels=days,
-        colLabels=[f"Slot {i}" for i in slots],
+    # Create table
+    table = plt.table(
+        cellText=schedule_matrix.fillna('').values,
+        rowLabels=schedule_matrix.index,
+        colLabels=schedule_matrix.columns,
         cellLoc='center',
         loc='center',
-        bbox=[0, 0, 1, 1]
+        cellColours=[[
+            'lightgreen' if pd.notna(schedule_matrix.iloc[i, j]) else 'white'
+            for j in range(len(schedule_matrix.columns))
+        ] for i in range(len(schedule_matrix.index))]
     )
     
     # Style the table
     table.auto_set_font_size(False)
-    table.set_fontsize(9)
-    table.scale(1, 1.5)
+    table.set_fontsize(10)
+    table.scale(1.2, 1.5)
     
-    # Color cells with classes
-    for i in range(len(days)):
-        for j in range(len(slots)):
-            cell = table[(i+1, j)]
-            if grid_data[i, j]:
-                cell.set_facecolor('lightblue')
-                cell.set_text_props(weight='bold')
-            
-    plt.title(f"Schedule for {teacher_name}{dept_info}", fontsize=16)
+    # Set title
+    plt.title(f"Schedule for {teacher_name}", fontsize=16, pad=20)
     plt.tight_layout()
     
-    # Save or show the figure
-    if output_file:
-        plt.savefig(output_file, dpi=300, bbox_inches='tight')
-        print(f"Saved teacher schedule to '{output_file}'")
-    else:
-        output_file = f"schedule_{teacher_name}.png"
-        plt.savefig(output_file, dpi=300, bbox_inches='tight')
-        print(f"Saved teacher schedule to '{output_file}'")
+    if save_path is None:
+        save_path = f"schedule_{teacher_name.replace(' ', '_').replace('<', '').replace('>', '')}.png"
     
+    plt.savefig(save_path, dpi=300, bbox_inches='tight')
     plt.close()
 
-def create_department_timetable_grid(timetable_df, department_name, output_file=None):
-    """Create a grid showing the aggregated timetable for a department"""
-    if timetable_df is None or 'Department' not in timetable_df.columns:
-        print("Department information not available in timetable data")
-        return
-        
-    # Filter data for the specified department
-    dept_df = timetable_df[timetable_df['Department'] == department_name]
-    
-    if dept_df.empty:
-        print(f"No schedule found for department: {department_name}")
-        return
-        
-    # Create a grid for the department's schedule
-    days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
-    slots = range(1, 14)  # Slots 1-13
-    
-    # Create a figure large enough for all days and slots
-    plt.figure(figsize=(18, 10))
-    
-    # We'll use a table-based approach for the visualization
-    cell_data = []
-    for day in days:
-        row_data = []
-        for slot in slots:
-            # Get all classes for this day and slot
-            day_slot_classes = dept_df[(dept_df['Day'] == day) & (dept_df['Slot'] == slot)]
-            
-            if day_slot_classes.empty:
-                row_data.append('')
-            else:
-                # Format class info
-                class_text = '\n'.join([
-                    f"{row['Course']} ({row['Teacher'].split('@')[0]})" 
-                    for _, row in day_slot_classes.iterrows()
-                ])
-                row_data.append(class_text)
-        cell_data.append(row_data)
-    
-    # Create the table
-    ax = plt.gca()
-    ax.axis('off')
-    table = ax.table(
-        cellText=cell_data,
-        rowLabels=days,
-        colLabels=[f"Slot {i}" for i in slots],
-        cellLoc='center',
-        loc='center',
-        bbox=[0, 0, 1, 1]
-    )
-    
-    # Style the table
-    table.auto_set_font_size(False)
-    table.set_fontsize(8)
-    table.scale(1, 1.8)
-    
-    # Color cells with classes
-    for i in range(len(days)):
-        for j in range(len(slots)):
-            cell = table[(i+1, j)]
-            if cell_data[i][j]:
-                cell.set_facecolor('#e6f2ff')  # Light blue
-                cell.set_text_props(weight='bold')
-    
-    # Create a clean version of department name for filename
-    safe_dept_name = ''.join(c if c.isalnum() else '_' for c in department_name)
-    
-    plt.title(f"Schedule for {department_name} Department", fontsize=16)
-    plt.tight_layout()
-    
-    # Save the visualization
-    if output_file:
-        plt.savefig(output_file, dpi=300, bbox_inches='tight')
-        print(f"Saved department schedule to '{output_file}'")
-    else:
-        output_file = f"schedule_dept_{safe_dept_name}.png"
-        plt.savefig(output_file, dpi=300, bbox_inches='tight')
-        print(f"Saved department schedule to '{output_file}'")
-    
-    plt.close()
-
-def create_charts():
-    """Create all visualizations"""
-    timetable_df = load_timetable()
+def create_department_schedule(department, timetable_df=None, save_path=None):
+    """Create a visualization of a department's schedule"""
     if timetable_df is None:
+        timetable_df = load_timetable()
+    
+    # Extract department from course code if not already present
+    if 'Department' not in timetable_df.columns:
+        timetable_df['Department'] = timetable_df['Course'].str.extract(r'([A-Z]+)').fillna('Unknown')
+    
+    # Filter for the specific department
+    dept_data = timetable_df[timetable_df['Department'] == department]
+    
+    if dept_data.empty:
+        print(f"No schedule found for department: {department}")
         return
     
-    print(f"Loaded timetable with {len(timetable_df)} classes")
+    # Create a heatmap for the department
+    dept_pivot = pd.pivot_table(
+        dept_data, 
+        values='Course', 
+        index='Slot', 
+        columns='Day',
+        aggfunc='count', 
+        fill_value=0
+    )
     
-    # Create visualizations
-    create_heatmap(timetable_df)
-    create_teacher_load_chart(timetable_df)
-    create_room_usage_chart(timetable_df)
-    create_course_distribution_chart(timetable_df)
+    # Sort slots correctly
+    slots = sorted(timetable_df['Slot'].unique())
+    dept_pivot = dept_pivot.reindex(slots)
     
-    # Create department load chart if department info is available
-    if 'Department' in timetable_df.columns:
-        create_department_load_chart(timetable_df)
+    # Plot
+    plt.figure(figsize=(12, 8))
+    sns.heatmap(
+        dept_pivot, 
+        annot=True, 
+        cmap='YlGnBu', 
+        linewidths=0.5, 
+        fmt='.0f',
+        cbar_kws={'label': 'Number of Classes'}
+    )
+    plt.title(f'Class Schedule for {department} Department', fontsize=16)
+    plt.tight_layout()
+    
+    if save_path is None:
+        save_path = f"schedule_dept_{department}.png"
+    
+    plt.savefig(save_path, dpi=300)
+    plt.close()
+
+def create_teacher_expertise_chart(expertise_data=None, save_path='teacher_expertise.png'):
+    """Create a chart showing the distribution of teacher expertise across subject areas
+    
+    Args:
+        expertise_data: A dictionary mapping subject areas to number of teachers
+        save_path: Path to save the visualization
+    """
+    if expertise_data is None:
+        # If no data provided, we can't generate the chart
+        print("No expertise data provided, skipping expertise chart")
+        return
+    
+    # Convert to DataFrame for plotting
+    expertise_df = pd.DataFrame({
+        'Subject': list(expertise_data.keys()),
+        'Teachers': list(expertise_data.values())
+    })
+    
+    # Sort by number of teachers
+    expertise_df = expertise_df.sort_values('Teachers', ascending=False)
+    
+    # Plot
+    plt.figure(figsize=(14, 8))
+    bars = plt.bar(expertise_df['Subject'], expertise_df['Teachers'], color='goldenrod')
+    
+    # Add values on top of bars
+    for bar in bars:
+        height = bar.get_height()
+        plt.text(
+            bar.get_x() + bar.get_width()/2., 
+            height + 0.1, 
+            f'{height:.0f}', 
+            ha='center', 
+            va='bottom'
+        )
+    
+    plt.title('Teacher Expertise by Subject Area', fontsize=16)
+    plt.xlabel('Subject Area')
+    plt.ylabel('Number of Teachers')
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    plt.savefig(save_path, dpi=300)
+    plt.close()
+    
+    print(f"Teacher expertise chart saved to {save_path}")
+
+def create_subject_area_heatmap(course_assignments=None, save_path='subject_expertise_heatmap.png'):
+    """Create a heatmap showing which departments have expertise in which subject areas
+    
+    Args:
+        course_assignments: Dictionary mapping departments to subject area counts
+        save_path: Path to save the visualization
+    """
+    if course_assignments is None:
+        print("No course assignment data provided, skipping subject area heatmap")
+        return
+    
+    # Convert dictionary to DataFrame
+    departments = sorted(course_assignments.keys())
+    subject_areas = sorted(set([area for dept_data in course_assignments.values() 
+                             for area in dept_data.keys()]))
+    
+    data = []
+    for dept in departments:
+        row = []
+        for subject in subject_areas:
+            row.append(course_assignments[dept].get(subject, 0))
+        data.append(row)
+    
+    heatmap_df = pd.DataFrame(data, index=departments, columns=subject_areas)
+    
+    # Create heatmap
+    plt.figure(figsize=(16, 10))
+    sns.heatmap(
+        heatmap_df, 
+        annot=True, 
+        cmap='YlOrRd', 
+        linewidths=0.5, 
+        fmt='.0f',
+        cbar_kws={'label': 'Number of Courses'}
+    )
+    plt.title('Subject Area Expertise by Department', fontsize=16)
+    plt.tight_layout()
+    plt.savefig(save_path, dpi=300)
+    plt.close()
+    
+    print(f"Subject expertise heatmap saved to {save_path}")
+
+def visualize_timetable(timetable=None):
+    """Create visualizations for a timetable
+    
+    Args:
+        timetable: Direct timetable data (not yet supported)
+    """
+    try:
+        if timetable is not None:
+            print("Using saved CSV file for visualization (direct timetable parameter not yet supported)")
         
-        # Create visualizations for top departments
-        top_departments = timetable_df['Department'].value_counts().head(5).index.tolist()
-        for dept in top_departments:
-            if dept:  # Skip empty department names
-                create_department_timetable_grid(timetable_df, dept)
-    
-    # Create timetable grids for a few teachers
-    # Get the top 5 teachers by number of classes
-    top_teachers = timetable_df['Teacher'].value_counts().head(5).index.tolist()
-    for teacher in top_teachers:
-        create_teacher_timetable_grid(timetable_df, teacher)
-    
-    print("All visualizations completed successfully.")
+        # Load from CSV
+        timetable_df = load_timetable()
+        
+        print("Creating timetable heatmap...")
+        create_heatmap(timetable_df)
+        
+        print("Creating teacher load chart...")
+        create_teacher_load_chart(timetable_df)
+        
+        print("Creating room usage chart...")
+        create_room_usage_chart(timetable_df)
+        
+        print("Creating course distribution chart...")
+        create_course_distribution(timetable_df)
+        
+        print("Creating department load chart...")
+        create_department_load(timetable_df)
+        
+        # Create teacher schedules
+        print("Creating teacher schedules...")
+        teachers = timetable_df['Teacher'].unique()
+        for teacher in teachers[:20]:  # Limit to first 20 teachers to avoid too many files
+            teacher_name = teacher.split('@')[0]
+            save_path = f"schedule_{teacher}.png"
+            create_teacher_schedule(teacher, timetable_df, save_path)
+        
+        # Create department schedules
+        print("Creating department schedules...")
+        if 'Department' in timetable_df.columns:
+            departments = timetable_df['Department'].unique()
+            for dept in departments:
+                save_path = f"schedule_dept_{dept.replace(' ', '_')}.png"
+                create_department_schedule(dept, timetable_df, save_path)
+        
+        # If we have a timetable generator instance, we can create expertise visualizations
+        if os.path.exists('teacher_expertise_data.csv'):
+            try:
+                expertise_df = pd.read_csv('teacher_expertise_data.csv')
+                
+                # Create expertise count dictionary
+                expertise_counts = expertise_df['SubjectArea'].value_counts().to_dict()
+                create_teacher_expertise_chart(expertise_counts)
+                
+                # Create department-subject heatmap
+                dept_subject_counts = defaultdict(lambda: defaultdict(int))
+                for _, row in expertise_df.iterrows():
+                    dept_subject_counts[row['Department']][row['SubjectArea']] += 1
+                
+                create_subject_area_heatmap(dict(dept_subject_counts))
+            except Exception as e:
+                print(f"Error creating expertise visualizations: {e}")
+        
+        print("All visualizations created!")
+        
+    except Exception as e:
+        print(f"Error in visualization: {e}")
+        raise
 
 if __name__ == "__main__":
-    create_charts() 
+    visualize_timetable() 

@@ -1,0 +1,421 @@
+TeacherID,TeacherName,Department,SubjectArea
+gayathri.k.english@rajalakshmi.edu.in,gayathri.k.english,English,HS
+dinakaran.s@rajalakshmi.edu.in,dinakaran.s,English,HS
+dinakaran.s@rajalakshmi.edu.in,dinakaran.s,English,MC
+rajaannam.k@rajalakshmi.edu.in,rajaannam.k,Mathematics,MA
+ramalakshmi.k.maths@rajalakshmi.edu.in,ramalakshmi.k.maths,Mathematics,MA
+saravanakumar.g@rajalakshmi.edu.in,saravanakumar.g,Physics,PH
+ahilandeswari.g@rajalakshmi.edu.in,ahilandeswari.g,Physics,PH
+harish.s.aero@rajalakshmi.edu.in,harish.s.aero,Aeronautical Engineering,AE
+harish.s.aero@rajalakshmi.edu.in,harish.s.aero,Aeronautical Engineering,GE
+shebazahamed.jp@rajalakshmi.edu.in,shebazahamed.jp,Aeronautical Engineering,AE
+shebazahamed.jp@rajalakshmi.edu.in,shebazahamed.jp,Aeronautical Engineering,GE
+muthusamy.n@rajalakshmi.edu.in,muthusamy.n,Aeronautical Engineering,AE
+muthusamy.n@rajalakshmi.edu.in,muthusamy.n,Aeronautical Engineering,GE
+sureshbabu.k@rajalakshmi.edu.in,sureshbabu.k,Chemistry,MC
+saraswathi.k@rajalakshmi.edu.in,saraswathi.k,Chemistry,MC
+balaji.rajendran@rajalakshmi.edu.in,balaji.rajendran,Aeronautical Engineering,AE
+balaji.rajendran@rajalakshmi.edu.in,balaji.rajendran,Aeronautical Engineering,GE
+nithiyanantham.kk@rajalakshmi.edu.in,nithiyanantham.kk,Aeronautical Engineering,AE
+nithiyanantham.kk@rajalakshmi.edu.in,nithiyanantham.kk,Aeronautical Engineering,GE
+renuga.bs@rajalakshmi.edu.in,renuga.bs,English,HS
+renuga.bs@rajalakshmi.edu.in,renuga.bs,English,GE
+sunilkumar.vr@rajalakshmi.edu.in,sunilkumar.vr,Mathematics,MA
+venkatesan.j@rajalakshmi.edu.in,venkatesan.j,Mathematics,MA
+edwardjeyakumar.j@rajalakshmi.edu.in,edwardjeyakumar.j,Chemistry,FT
+edwardjeyakumar.j@rajalakshmi.edu.in,edwardjeyakumar.j,Chemistry,CY
+inbaraj.v@rajalakshmi.edu.in,inbaraj.v,Chemistry,CY
+inbaraj.v@rajalakshmi.edu.in,inbaraj.v,Chemistry,MC
+surendrabogadi@rajalakshmi.edu.in,surendrabogadi,Aeronautical Engineering,AE
+surendrabogadi@rajalakshmi.edu.in,surendrabogadi,Aeronautical Engineering,GE
+kathiravan.b@rajalakshmi.edu.in,kathiravan.b,Aeronautical Engineering,AE
+kathiravan.b@rajalakshmi.edu.in,kathiravan.b,Aeronautical Engineering,GE
+sureshchandrakhandai@rajalakshmi.edu.in,sureshchandrakhandai,Aeronautical Engineering,AE
+sureshchandrakhandai@rajalakshmi.edu.in,sureshchandrakhandai,Aeronautical Engineering,CS
+sureshchandrakhandai@rajalakshmi.edu.in,sureshchandrakhandai,Aeronautical Engineering,GE
+harikrishnan.r@rajalakshmi.edu.in,harikrishnan.r,Aeronautical Engineering,AE
+harikrishnan.r@rajalakshmi.edu.in,harikrishnan.r,Aeronautical Engineering,GE
+premanand.tp@rajalakshmi.edu.in,premanand.tp,Aeronautical Engineering,AE
+premanand.tp@rajalakshmi.edu.in,premanand.tp,Aeronautical Engineering,GE
+rajasree.b@rajalakshmi.edu.in,rajasree.b,English,HS
+rajasree.b@rajalakshmi.edu.in,rajasree.b,English,MC
+shanmugapriya.k@rajalakshmi.edu.in,shanmugapriya.k,English,HS
+shanmugapriya.k@rajalakshmi.edu.in,shanmugapriya.k,English,MC
+gurunathan.s@rajalakshmi.edu.in,gurunathan.s,Mathematics,MA
+anbarasi.v@rajalakshmi.edu.in,anbarasi.v,Mathematics,MA
+pradesh.s@rajalakshmi.edu.in,pradesh.s,Aeronautical Engineering,AE
+nithiyaraj.m@rajalakshmi.edu.in,nithiyaraj.m,Aeronautical Engineering,AE
+nithiyaraj.m@rajalakshmi.edu.in,nithiyaraj.m,Aeronautical Engineering,CS
+nithiyaraj.m@rajalakshmi.edu.in,nithiyaraj.m,Aeronautical Engineering,GE
+pomanaselvan.a@rajalakshmi.edu.in,pomanaselvan.a,Mathematics,MA
+maimoonnisa.s@rajalakshmi.edu.in,maimoonnisa.s,Mathematics,MA
+vasthaduvasukannah.dl@rajalakshmi.edu.in,vasthaduvasukannah.dl,Aeronautical Engineering,AE
+vasthaduvasukannah.dl@rajalakshmi.edu.in,vasthaduvasukannah.dl,Aeronautical Engineering,GE
+janet.g@rajalakshmi.edu.in,janet.g,English,HS
+vijayalakshmi.m@rajalakshmi.edu.in,vijayalakshmi.m,English,HS
+vijayalakshmi.m@rajalakshmi.edu.in,vijayalakshmi.m,English,MC
+bhavani.s@rajalakshmi.edu.in,bhavani.s,Mathematics,MA
+subha.m@rajalakshmi.edu.in,subha.m,Mathematics,MA
+sharmila.b@rajalakshmi.edu.in,sharmila.b,English,HS
+sharmila.b@rajalakshmi.edu.in,sharmila.b,English,GE
+muthumanikandan.m@rajalakshmi.edu.in,muthumanikandan.m,English,HS
+muthumanikandan.m@rajalakshmi.edu.in,muthumanikandan.m,English,MC
+muthumanikandan.m@rajalakshmi.edu.in,muthumanikandan.m,English,GE
+gobalakrishnan.s@rajalakshmi.edu.in,gobalakrishnan.s,Physics,PH
+manumohan@rajalakshmi.edu.in,manumohan,Physics,PH
+vikram.st@rajalakshmi.edu.in,vikram.st,Mathematics,MA
+balavidhya.s@rajalakshmi.edu.in,balavidhya.s,Mathematics,MA
+ghadhatharan.v@rajalakshmi.edu.in,ghadhatharan.v,Mechanical Engineering,ME
+ghadhatharan.v@rajalakshmi.edu.in,ghadhatharan.v,Mechanical Engineering,GE
+venkateshwaran.n@rajalakshmi.edu.in,venkateshwaran.n,Mechanical Engineering,ME
+venkateshwaran.n@rajalakshmi.edu.in,venkateshwaran.n,Mechanical Engineering,GE
+chitradevi.p@rajalakshmi.edu.in,chitradevi.p,English,HS
+lakshmi.b@rajalakshmi.edu.in,lakshmi.b,English,HS
+vidhushini.p@rajalakshmi.edu.in,vidhushini.p,Mechanical Engineering,GE
+parthiban.m@rajalakshmi.edu.in,parthiban.m,Mechanical Engineering,MC
+parthiban.m@rajalakshmi.edu.in,parthiban.m,Mechanical Engineering,GE
+meenakumari.r@rajalakshmi.edu.in,meenakumari.r,Mathematics,MA
+santhiya.s@rajalakshmi.edu.in,santhiya.s,Mathematics,MA
+arikrishnan.j@rajalakshmi.edu.in,arikrishnan.j,Chemistry,CY
+arikrishnan.j@rajalakshmi.edu.in,arikrishnan.j,Chemistry,MC
+anu.s@rajalakshmi.edu.in,anu.s,Chemistry,CY
+anu.s@rajalakshmi.edu.in,anu.s,Chemistry,MC
+hemasurya.s@rajalakshmi.edu.in,hemasurya.s,Mathematics,MA
+chitra.r@rajalakshmi.edu.in,chitra.r,Mathematics,MA
+andria.babu@rajalakshmi.edu.in,andria.babu,English,HS
+andria.babu@rajalakshmi.edu.in,andria.babu,English,MC
+rajalakshmy.d@rajalakshmi.edu.in,rajalakshmy.d,Mathematics,MA
+Muralidharan.r@rajalakshmi.edu.in,Muralidharan.r,Physics,PH
+abrahamantony@rajalakshmi.edu.in,abrahamantony,Mechanical Engineering,ME
+abrahamantony@rajalakshmi.edu.in,abrahamantony,Mechanical Engineering,MC
+prabhu.s.maths@rajalakshmi.edu.in,prabhu.s.maths,Mathematics,MA
+dineshkumar.pt@rajalakshmi.edu.in,dineshkumar.pt,Mechanical Engineering,ME
+dineshkumar.pt@rajalakshmi.edu.in,dineshkumar.pt,Mechanical Engineering,GE
+arunprakash.n@rajalakshmi.edu.in,arunprakash.n,Mechanical Engineering,ME
+arunprakash.n@rajalakshmi.edu.in,arunprakash.n,Mechanical Engineering,GE
+rohini.s@rajalakshmi.edu.in,rohini.s,English,HS
+shankar.e@rajalakshmi.edu.in,shankar.e,Mechanical Engineering,ME
+shankar.e@rajalakshmi.edu.in,shankar.e,Mechanical Engineering,GE
+dhandapani.s@rajalakshmi.edu.in,dhandapani.s,Mechanical Engineering,ME
+dhandapani.s@rajalakshmi.edu.in,dhandapani.s,Mechanical Engineering,GE
+jayakumar.s@rajalakshmi.edu.in,jayakumar.s,Chemistry,FT
+jayakumar.s@rajalakshmi.edu.in,jayakumar.s,Chemistry,CY
+jayakumar.s@rajalakshmi.edu.in,jayakumar.s,Chemistry,MC
+udayakumari.d@rajalakshmi.edu.in,udayakumari.d,Chemistry,MC
+sivakumaran.v@rajalakshmi.edu.in,sivakumaran.v,Mathematics,MA
+aishwarya.m@rajalakshmi.edu.in,aishwarya.m,English,HS
+manasa.k@rajalakshmi.edu.in,manasa.k,English,HS
+arulmozhi.s@rajalakshmi.edu.in,arulmozhi.s,Mathematics,MA
+mullaisudaroli.b@rajalakshmi.edu.in,mullaisudaroli.b,Automobile Engineering,AT
+mullaisudaroli.b@rajalakshmi.edu.in,mullaisudaroli.b,Automobile Engineering,MA
+mullaisudaroli.b@rajalakshmi.edu.in,mullaisudaroli.b,Automobile Engineering,GE
+zahirhussain.m@rajalakshmi.edu.in,zahirhussain.m,Automobile Engineering,AT
+zahirhussain.m@rajalakshmi.edu.in,zahirhussain.m,Automobile Engineering,GE
+selvaraju.pn@rajalakshmi.edu.in,selvaraju.pn,Automobile Engineering,AT
+selvaraju.pn@rajalakshmi.edu.in,selvaraju.pn,Automobile Engineering,GE
+anbalagan.r@rajalakshmi.edu.in,anbalagan.r,Automobile Engineering,AT
+anbalagan.r@rajalakshmi.edu.in,anbalagan.r,Automobile Engineering,MA
+anbalagan.r@rajalakshmi.edu.in,anbalagan.r,Automobile Engineering,GE
+edwinjoseph.r@rajalakshmi.edu.in,edwinjoseph.r,Automobile Engineering,AT
+edwinjoseph.r@rajalakshmi.edu.in,edwinjoseph.r,Automobile Engineering,GE
+vijayanarasimhan.k@rajalakshmi.edu.in,vijayanarasimhan.k,Physics,PH
+manigandan.r@rajalakshmi.edu.in,manigandan.r,Chemistry,CY
+manigandan.r@rajalakshmi.edu.in,manigandan.r,Chemistry,MC
+azhagarasu.a@rajalakshmi.edu.in,azhagarasu.a,Mathematics,MA
+julie.j@rajalakshmi.edu.in,julie.j,Mathematics,MA
+vasumathi.v@rajalakshmi.edu.in,vasumathi.v,Chemistry,CY
+srihari.g@rajalakshmi.edu.in,srihari.g,English,HS
+rajalakshmi.b@rajalakshmi.edu.in,rajalakshmi.b,English,HS
+mohanraj.k@rajalakshmi.edu.in,mohanraj.k,Automobile Engineering,CS
+mohanraj.k@rajalakshmi.edu.in,mohanraj.k,Automobile Engineering,AT
+pavan.p@rajalakshmi.edu.in,pavan.p,Automobile Engineering,CS
+pavan.p@rajalakshmi.edu.in,pavan.p,Automobile Engineering,AT
+pavan.p@rajalakshmi.edu.in,pavan.p,Automobile Engineering,GE
+karthikeyan.r2@rajalakshmi.edu.in,karthikeyan.r2,Automobile Engineering,AT
+sathiragavan.m@rajalakshmi.edu.in,sathiragavan.m,Mathematics,MA
+venkataprasat.s@rajalakshmi.edu.in,venkataprasat.s,Mechanical Engineering,ME
+venkataprasat.s@rajalakshmi.edu.in,venkataprasat.s,Mechanical Engineering,GE
+rubeshkumar.t@rajalakshmi.edu.in,rubeshkumar.t,Biomedical Engineering,BM
+rubeshkumar.t@rajalakshmi.edu.in,rubeshkumar.t,Biomedical Engineering,GE
+sudha.singaram@rajalakshmi.edu.in,sudha.singaram,Biomedical Engineering,BM
+sudha.singaram@rajalakshmi.edu.in,sudha.singaram,Biomedical Engineering,GE
+seethalakshmi.k@rajalakshmi.edu.in,seethalakshmi.k,Chemistry,CY
+yuvashri.p@rajalakshmi.edu.in,yuvashri.p,Mathematics,MA
+tamizhselvan.ls@rajalakshmi.edu.in,tamizhselvan.ls,Mechanical Engineering,ME
+tamizhselvan.ls@rajalakshmi.edu.in,tamizhselvan.ls,Mechanical Engineering,GE
+ramya.g@rajalakshmi.edu.in,ramya.g,Mechanical Engineering,ME
+ramya.g@rajalakshmi.edu.in,ramya.g,Mechanical Engineering,GE
+revathy.p.bme@rajalakshmi.edu.in,revathy.p.bme,Biomedical Engineering,BM
+revathy.p.bme@rajalakshmi.edu.in,revathy.p.bme,Biomedical Engineering,GE
+padmasini.n@rajalakshmi.edu.in,padmasini.n,Biomedical Engineering,BM
+padmasini.n@rajalakshmi.edu.in,padmasini.n,Biomedical Engineering,GE
+sankarkumar.m@rajalakshmi.edu.in,sankarkumar.m,Physics,PH
+mahesh.r@rajalakshmi.edu.in,mahesh.r,Physics,PH
+shanthipriya.a@rajalakshmi.edu.in,shanthipriya.a,Biomedical Engineering,BM
+jeminaasnothsylvia.j@rajalakshmi.edu.in,jeminaasnothsylvia.j,Biomedical Engineering,BM
+vigneswaran.narayanamurthy@rajalakshmi.edu.in,vigneswaran.narayanamurthy,Biomedical Engineering,BM
+krishnakumar.s@rajalakshmi.edu.in,krishnakumar.s,Biomedical Engineering,BM
+sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,sapthagirishsrinivas.c.2014.mech,Biomedical Engineering,BM
+abiramy.s@rajalakshmi.edu.in,abiramy.s,Biomedical Engineering,BM
+abiramy.s@rajalakshmi.edu.in,abiramy.s,Biomedical Engineering,GE
+sankar.k@rajalakshmi.edu.in,sankar.k,Biomedical Engineering,BM
+premkumar.r@rajalakshmi.edu.in,premkumar.r,Biomedical Engineering,BM
+karuppathal.e@rajalakshmi.edu.in,karuppathal.e,Biomedical Engineering,BM
+karuppathal.e@rajalakshmi.edu.in,karuppathal.e,Biomedical Engineering,MC
+subathra.y@rajalakshmi.edu.in,subathra.y,Biomedical Engineering,BM
+subathra.y@rajalakshmi.edu.in,subathra.y,Biomedical Engineering,GE
+rajkumar.s@rajalakshmi.edu.in,rajkumar.s,Biomedical Engineering,BM
+rajkumar.s@rajalakshmi.edu.in,rajkumar.s,Biomedical Engineering,MC
+mageshwaran.k@rajalakshmi.edu.in,mageshwaran.k,Mathematics,MA
+kalpana.r@rajalakshmi.edu.in,kalpana.r,Biomedical Engineering,BM
+senthilkumar.p@rajalakshmi.edu.in,senthilkumar.p,Biomedical Engineering,BM
+jobinchrist.mc@rajalakshmi.edu.in,jobinchrist.mc,Biomedical Engineering,BM
+gloryprecious.j@rajalakshmi.edu.in,gloryprecious.j,Biomedical Engineering,BM
+Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,Ramachandran R <ramachandran.r,Biomedical Engineering,BM
+prathisha.m@rajalakshmi.edu.in,prathisha.m,Biomedical Engineering,BM
+nithyakalyanikrishnan@rajalakshmi.edu.in,nithyakalyanikrishnan,Biomedical Engineering,BM
+muralidharan.c@rajalakshmi.edu.in,muralidharan.c,Biomedical Engineering,BM
+malikunnisha.n@rajalakshmi.edu.in,malikunnisha.n,English,HS
+malikunnisha.n@rajalakshmi.edu.in,malikunnisha.n,English,MC
+malathy.g@rajalakshmi.edu.in,malathy.g,English,HS
+malathy.g@rajalakshmi.edu.in,malathy.g,English,MC
+geetha.j@rajalakshmi.edu.in,geetha.j,Chemistry,CY
+geetha.j@rajalakshmi.edu.in,geetha.j,Chemistry,MC
+rajkumar.m@rajalakshmi.edu.in,rajkumar.m,Mechanical Engineering,ME
+rajkumar.m@rajalakshmi.edu.in,rajkumar.m,Mechanical Engineering,GE
+arulmurugan.s@rajalakshmi.edu.in,arulmurugan.s,Mechanical Engineering,ME
+arulmurugan.s@rajalakshmi.edu.in,arulmurugan.s,Mechanical Engineering,GE
+arumugam.p@rajalakshmi.edu.in,arumugam.p,Mechanical Engineering,ME
+arumugam.p@rajalakshmi.edu.in,arumugam.p,Mechanical Engineering,GE
+sujataroy@rajalakshmi.edu.in,sujataroy,Biotechnology,BT
+sangeethagandhi.s@rajalakshmi.edu.in,sangeethagandhi.s,Biotechnology,BT
+sangeethagandhi.s@rajalakshmi.edu.in,sangeethagandhi.s,Biotechnology,CR
+mohan.s@rajalakshmi.edu.in,mohan.s,Chemistry,CY
+mohan.s@rajalakshmi.edu.in,mohan.s,Chemistry,MC
+ramadevi.p@rajalakshmi.edu.in,ramadevi.p,Chemistry,MC
+saravanan.p@rajalakshmi.edu.in,saravanan.p,Biotechnology,GE
+premalatha.n@rajalakshmi.edu.in,premalatha.n,Biotechnology,BT
+premalatha.n@rajalakshmi.edu.in,premalatha.n,Biotechnology,GE
+siluvaidasan.r@rajalakshmi.edu.in,siluvaidasan.r,Mathematics,MA
+bhavani.r@rajalakshmi.edu.in,bhavani.r,Physics,PH
+anila.r@rajalakshmi.edu.in,anila.r,Biotechnology,BT
+shanthi.m@rajalakshmi.edu.in,shanthi.m,Biotechnology,BT
+agnesnirmala.j@rajalakshmi.edu.in,agnesnirmala.j,English,HS
+agnesnirmala.j@rajalakshmi.edu.in,agnesnirmala.j,English,MC
+angel.p@rajalakshmi.edu.in,angel.p,English,HS
+angel.p@rajalakshmi.edu.in,angel.p,English,MC
+sinduja.me@rajalakshmi.edu.in,sinduja.me,Biotechnology,BT
+sinduja.me@rajalakshmi.edu.in,sinduja.me,Biotechnology,GE
+kavitha.k@rajalakshmi.edu.in,kavitha.k,Biotechnology,BT
+kavitha.k@rajalakshmi.edu.in,kavitha.k,Biotechnology,GE
+arunkumar.s@rajalakshmi.edu.in,arunkumar.s,Biotechnology,BT
+poorani.tr@rajalakshmi.edu.in,poorani.tr,Biotechnology,BT
+sankar.m@rajalakshmi.edu.in,sankar.m,Biotechnology,BT
+rajasekar.p@rajalakshmi.edu.in,rajasekar.p,Biotechnology,BT
+shreenidhi.ks@rajalakshmi.edu.in,shreenidhi.ks,Biotechnology,BT
+selvakumar.ta@rajalakshmi.edu.in,selvakumar.ta,Biotechnology,BT
+hemavathy.rv@rajalakshmi.edu.in,hemavathy.rv,Biotechnology,BT
+rekha.ravendran@rajalakshmi.edu.in,rekha.ravendran,Biotechnology,BT
+vimaladevi.m@rajalakshmi.edu.in,vimaladevi.m,Biotechnology,BT
+carlingeormalar.g@rajalakshmi.edu.in,carlingeormalar.g,Biotechnology,BT
+sathya.k@rajalakshmi.edu.in,sathya.k,Biotechnology,BT
+sridhar.d@rajalakshmi.edu.in,sridhar.d,Biotechnology,BT
+saranya.sr@rajalakshmi.edu.in,saranya.sr,Biotechnology,BT
+arun.a@rajalakshmi.edu.in,arun.a,Biotechnology,BT
+pavithra.ks@rajalakshmi.edu.in,pavithra.ks,Biotechnology,BT
+thiruvengadam.s@rajalakshmi.edu.in,thiruvengadam.s,Biotechnology,BT
+kalaivani.j@rajalakshmi.edu.in,kalaivani.j,Information Technology,CS
+bhalashri.sethuraman@rajalakshmi.edu.in,bhalashri.sethuraman,Information Technology,CS
+bhalashri.sethuraman@rajalakshmi.edu.in,bhalashri.sethuraman,Information Technology,IT
+anitha.t@rajalakshmi.edu.in,anitha.t,Biotechnology,BT
+millicentmable.m@rajalakshmi.edu.in,millicentmable.m,Biotechnology,BT
+surya.s@rajalakshmi.edu.in,surya.s,Biotechnology,BT
+preethy.kr@rajalakshmi.edu.in,preethy.kr,Biotechnology,BT
+johannarajkumar@rajalakshmi.edu.in,johannarajkumar,Biotechnology,BT
+haripriya.d@rajalakshmi.edu.in,haripriya.d,Biotechnology,BT
+preethi.b@rajalakshmi.edu.in,preethi.b,Biotechnology,BT
+vijayageetha.b@rajalakshmi.edu.in,vijayageetha.b,Biotechnology,CR
+ragavendiran.r@rajalakshmi.edu.in,ragavendiran.r,Mechanical Engineering,GE
+natarajan.s@rajalakshmi.edu.in,natarajan.s,Mechanical Engineering,FT
+natarajan.s@rajalakshmi.edu.in,natarajan.s,Mechanical Engineering,ME
+natarajan.s@rajalakshmi.edu.in,natarajan.s,Mechanical Engineering,CS
+natarajan.s@rajalakshmi.edu.in,natarajan.s,Mechanical Engineering,GE
+mohandoss.s@rajalakshmi.edu.in,mohandoss.s,Chemistry,CY
+mohandoss.s@rajalakshmi.edu.in,mohandoss.s,Chemistry,MC
+rameschandrapanda@rajalakshmi.edu.in,rameschandrapanda,Chemical Engineering,CH
+rameschandrapanda@rajalakshmi.edu.in,rameschandrapanda,Chemical Engineering,GE
+Anithajegadeeshwari.l@rajalakshmi.edu.in,Anithajegadeeshwari.l,Chemical Engineering,CH
+Anithajegadeeshwari.l@rajalakshmi.edu.in,Anithajegadeeshwari.l,Chemical Engineering,GE
+priyanair@rajalakshmi.edu.in,priyanair,Mathematics,MA
+premkumar.s@rajalakshmi.edu.in,premkumar.s,Civil Engineering,CE
+premkumar.s@rajalakshmi.edu.in,premkumar.s,Civil Engineering,GE
+gouthampriya.m@rajalakshmi.edu.in,gouthampriya.m,Civil Engineering,CE
+gouthampriya.m@rajalakshmi.edu.in,gouthampriya.m,Civil Engineering,GE
+vincentjoseph.kl@rajalakshmi.edu.in,vincentjoseph.kl,Chemical Engineering,CH
+vincentjoseph.kl@rajalakshmi.edu.in,vincentjoseph.kl,Chemical Engineering,MC
+vincentjoseph.kl@rajalakshmi.edu.in,vincentjoseph.kl,Chemical Engineering,GE
+vijayaraghavan.g@rajalakshmi.edu.in,vijayaraghavan.g,Chemical Engineering,CH
+vijayaraghavan.g@rajalakshmi.edu.in,vijayaraghavan.g,Chemical Engineering,MC
+kalaiarasi.n@rajalakshmi.edu.in,kalaiarasi.n,Chemical Engineering,CH
+kalaiarasi.n@rajalakshmi.edu.in,kalaiarasi.n,Chemical Engineering,GE
+rajkumar.v@rajalakshmi.edu.in,rajkumar.v,Mathematics,MA
+narasimhareddy.s@rajalakshmi.edu.in,narasimhareddy.s,Chemical Engineering,CH
+abhilasha.krishnamurthy@rajalakshmi.edu.in,abhilasha.krishnamurthy,Chemical Engineering,CH
+ambigadevi.j@rajalakshmi.edu.in,ambigadevi.j,Chemical Engineering,CH
+nathiya.r@rajalakshmi.edu.in,nathiya.r,Mathematics,MA
+sivamani.s@rajalakshmi.edu.in,sivamani.s,Chemical Engineering,CH
+mangaleswari.s@rajalakshmi.edu.in,mangaleswari.s,Chemical Engineering,CH
+maryrosana.nt@rajalakshmi.edu.in,maryrosana.nt,Chemical Engineering,CH
+sundararaman.tr@rajalakshmi.edu.in,sundararaman.tr,Chemical Engineering,CH
+umamaguesvari.m@rajalakshmi.edu.in,umamaguesvari.m,Civil Engineering,CE
+umamaguesvari.m@rajalakshmi.edu.in,umamaguesvari.m,Civil Engineering,CS
+umamaguesvari.m@rajalakshmi.edu.in,umamaguesvari.m,Civil Engineering,GE
+yugasini.s@rajalakshmi.edu.in,yugasini.s,Civil Engineering,FT
+yugasini.s@rajalakshmi.edu.in,yugasini.s,Civil Engineering,CE
+yugasini.s@rajalakshmi.edu.in,yugasini.s,Civil Engineering,GE
+sriram.s@rajalakshmi.edu.in,sriram.s,Mathematics,MA
+selvakumar.m@rajalakshmi.edu.in;,selvakumar.m,Civil Engineering,CE
+eswarydevi.t@rajalakshmi.edu.in,eswarydevi.t,Civil Engineering,FT
+eswarydevi.t@rajalakshmi.edu.in,eswarydevi.t,Civil Engineering,GE
+eswarydevi.t@rajalakshmi.edu.in,eswarydevi.t,Civil Engineering,CE
+ammaiappan.m@rajalakshmi.edu.in,ammaiappan.m,Civil Engineering,GE
+ammaiappan.m@rajalakshmi.edu.in,ammaiappan.m,Civil Engineering,CE
+jeyaarthi.aj@rajalakshmi.edu.in,jeyaarthi.aj,Civil Engineering,GE
+jeyaarthi.aj@rajalakshmi.edu.in,jeyaarthi.aj,Civil Engineering,CS
+jeyaarthi.aj@rajalakshmi.edu.in,jeyaarthi.aj,Civil Engineering,CE
+renuga.c@rajalakshmi.edu.in,renuga.c,Mathematics,MA
+madhavaperumal.r@rajalakshmi.edu.in,madhavaperumal.r,Civil Engineering,CE
+madhavaperumal.r@rajalakshmi.edu.in,madhavaperumal.r,Civil Engineering,GE
+vijay.m@rajalakshmi.edu.in,vijay.m,English,HS
+manoharan.m@rajalakshmi.edu.in,manoharan.m,Civil Engineering,MC
+manoharan.m@rajalakshmi.edu.in,manoharan.m,Civil Engineering,CE
+mahamoodulhasan.n@rajalakshmi.edu.in,mahamoodulhasan.n,Civil Engineering,MC
+mahamoodulhasan.n@rajalakshmi.edu.in,mahamoodulhasan.n,Civil Engineering,CE
+muthulakshmi.s@rajalakshmi.edu.in,muthulakshmi.s,Civil Engineering,GE
+muthulakshmi.s@rajalakshmi.edu.in,muthulakshmi.s,Civil Engineering,CE
+geetha.s@rajalakshmi.edu.in,geetha.s,Civil Engineering,GE
+geetha.s@rajalakshmi.edu.in,geetha.s,Civil Engineering,CE
+kavitha.r@rajalakshmi.edu.in,kavitha.r,Physics,PH
+chandrasekar.p@rajalakshmi.edu.in,chandrasekar.p,Mechanical Engineering,GE
+anandraj.m@rajalakshmi.edu.in,anandraj.m,Physics,PH
+raghavi.kk@rajalakshmi.edu.in,raghavi.kk,English,HS
+raghavi.kk@rajalakshmi.edu.in,raghavi.kk,English,MC
+jasminefrancis.s@rajalakshmi.edu.in,jasminefrancis.s,Chemistry,MC
+shanthini.c@rajalakshmi.edu.in,shanthini.c,Mathematics,MA
+james.v@rajalakshmi.edu.in,james.v,Mathematics,MA
+bharathi.v@rajalakshmi.edu.in,bharathi.v,Mathematics,MA
+dhanaraj.r@rajalakshmi.edu.in,dhanaraj.r,Mechanical Engineering,ME
+dhanaraj.r@rajalakshmi.edu.in,dhanaraj.r,Mechanical Engineering,GE
+vinodkumar.r@rajalakshmi.edu.in,vinodkumar.r,Mathematics,MA
+santhanakrishnan.m@rajalakshmi.edu.in,santhanakrishnan.m,Mechanical Engineering,ME
+santhanakrishnan.m@rajalakshmi.edu.in,santhanakrishnan.m,Mechanical Engineering,GE
+paramasivam.a@rajalakshmi.edu.in,paramasivam.a,Mechanical Engineering,ME
+paramasivam.a@rajalakshmi.edu.in,paramasivam.a,Mechanical Engineering,GE
+thilagavathi.r@rajalakshmi.edu.in,thilagavathi.r,Mathematics,MA
+ragavendran.v@rajalakshmi.edu.in,ragavendran.v,Physics,PH
+saviermutjabraj.a@rajalakshmi.edu.in,saviermutjabraj.a,English,HS
+alamelu.g@rajalakshmi.edu.in,alamelu.g,English,HS
+senthilmurugan.s@rajalakshmi.edu.in,senthilmurugan.s,Mechanical Engineering,ME
+senthilmurugan.s@rajalakshmi.edu.in,senthilmurugan.s,Mechanical Engineering,GE
+pugazhvadivu.ks@rajalakshmi.edu.in,pugazhvadivu.ks,Physics,PH
+anumanthakannan.g@rajalakshmi.edu.in,anumanthakannan.g,Physics,PH
+rajeshkumar.b@rajalakshmi.edu.in,rajeshkumar.b,Mechanical Engineering,ME
+rajeshkumar.b@rajalakshmi.edu.in,rajeshkumar.b,Mechanical Engineering,GE
+hastin.fernandez@rajalakshmi.edu.in,hastin.fernandez,English,HS
+rubarani.p.gangadharan@rajalakshmi.edu.in,rubarani.p.gangadharan,Physics,PH
+srinivasan.sp@rajalakshmi.edu.in,srinivasan.sp,Mechanical Engineering,GE
+lakshmi.v@rajalakshmi.edu.in,lakshmi.v,Mathematics,MA
+rajkumar.a@rajalakshmi.edu.in,rajkumar.a,Mechanical Engineering,GE
+panneerselvan.s@rajalakshmi.edu.in,panneerselvan.s,Mechanical Engineering,ME
+panneerselvan.s@rajalakshmi.edu.in,panneerselvan.s,Mechanical Engineering,GE
+priyadarshini.sr@rajalakshmi.edu.in,priyadarshini.sr,Food Technology,FT
+priyadarshini.sr@rajalakshmi.edu.in,priyadarshini.sr,Food Technology,GE
+bharathi.p@rajalakshmi.edu.in,bharathi.p,Food Technology,FT
+bharathi.p@rajalakshmi.edu.in,bharathi.p,Food Technology,MC
+bharathi.p@rajalakshmi.edu.in,bharathi.p,Food Technology,GE
+bharathi.d.maths@rajalakshmi.edu.in,bharathi.d.maths,Mathematics,MA
+vasudevan.p@rajalakshmi.edu.in,vasudevan.p,Physics,PH
+manonmani.k@rajalakshmi.edu.in,manonmani.k,Food Technology,FT
+manonmani.k@rajalakshmi.edu.in,manonmani.k,Food Technology,CR
+manonmani.k@rajalakshmi.edu.in,manonmani.k,Food Technology,MC
+manonmani.k@rajalakshmi.edu.in,manonmani.k,Food Technology,GE
+divyashree.js@rajalakshmi.edu.in,divyashree.js,Food Technology,FT
+divyashree.js@rajalakshmi.edu.in,divyashree.js,Food Technology,CR
+divyashree.js@rajalakshmi.edu.in,divyashree.js,Food Technology,MC
+divyashree.js@rajalakshmi.edu.in,divyashree.js,Food Technology,GE
+aruthradevi.g@rajalakshmi.edu.in,aruthradevi.g,Food Technology,FT
+aruthradevi.g@rajalakshmi.edu.in,aruthradevi.g,Food Technology,GE
+nithyabalasundari.s@rajalakshmi.edu.in,nithyabalasundari.s,Food Technology,FT
+sudhakar.v@rajalakshmi.edu.in,sudhakar.v,Food Technology,FT
+anand.r@rajalakshmi.edu.in,anand.r,Food Technology,FT
+kulasticjassy.a@rajalakshmi.edu.in,kulasticjassy.a,Food Technology,FT
+srimagal.a@rajalakshmi.edu.in,srimagal.a,Food Technology,FT
+niveadhitha.s@rajalakshmi.edu.in,niveadhitha.s,Food Technology,FT
+niveadhitha.s@rajalakshmi.edu.in,niveadhitha.s,Food Technology,GE
+baskar.s@rajalakshmi.edu.in,baskar.s,Mechanical Engineering,FT
+shunmuganathan.kl@rajalakshmi.edu.in,shunmuganathan.kl,Information Technology,CS
+shunmuganathan.kl@rajalakshmi.edu.in,shunmuganathan.kl,Information Technology,GE
+janani.m@rajalakshmi.edu.in,janani.m,Information Technology,CS
+janani.m@rajalakshmi.edu.in,janani.m,Information Technology,IT
+jebarajkabriel@rajalakshmi.edu.in,jebarajkabriel,English,HS
+vinothbabu.n@rajalakshmi.edu.in,vinothbabu.n,Mechanical Engineering,ME
+vinothbabu.n@rajalakshmi.edu.in,vinothbabu.n,Mechanical Engineering,GE
+valarmathie.dinakaran@rajalakshmi.edu.in,valarmathie.dinakaran,Information Technology,GE
+arunajameela.ap@rajalakshmi.edu.in,arunajameela.ap,Information Technology,AI
+arunajameela.ap@rajalakshmi.edu.in,arunajameela.ap,Information Technology,CS
+arunajameela.ap@rajalakshmi.edu.in,arunajameela.ap,Information Technology,MC
+arunajameela.ap@rajalakshmi.edu.in,arunajameela.ap,Information Technology,GE
+deivanai.k@rajalakshmi.edu.in,deivanai.k,Information Technology,GE
+kalaivani.s@rajalakshmi.edu.in,kalaivani.s,Information Technology,IT
+kalaivani.s@rajalakshmi.edu.in,kalaivani.s,Information Technology,GE
+premalatha.pn@rajalakshmi.edu.in,premalatha.pn,Information Technology,CS
+premalatha.pn@rajalakshmi.edu.in,premalatha.pn,Information Technology,GE
+sangeetha.tupili@rajalakshmi.edu.in,sangeetha.tupili,Information Technology,CS
+muthukumar.b@rajalakshmi.edu.in,muthukumar.b,Information Technology,CS
+indumathik@rajalakshmi.edu.in,indumathik,Information Technology,CS
+indumathik@rajalakshmi.edu.in,indumathik,Information Technology,IT
+priya.l@rajalakshmi.edu.in,priya.l,Information Technology,AI
+priya.l@rajalakshmi.edu.in,priya.l,Information Technology,CS
+priya.l@rajalakshmi.edu.in,priya.l,Information Technology,MC
+babu.m@rajalakshmi.edu.in,babu.m,Information Technology,CS
+babu.m@rajalakshmi.edu.in,babu.m,Information Technology,IT
+Priya.vijay@rajalakshmi.edu.in,Priya.vijay,Information Technology,CS
+Priya.vijay@rajalakshmi.edu.in,Priya.vijay,Information Technology,IT
+kalaivani.a@rajalakshmi.edu.in,kalaivani.a,Information Technology,CS
+sandhiya.m@rajalakshmi.edu.in,sandhiya.m,Information Technology,CS
+sandhiya.m@rajalakshmi.edu.in,sandhiya.m,Information Technology,IT
+usha.s@rajalakshmi.edu.in,usha.s,Information Technology,IT
+leenajeniferl@rajalakshmi.edu.in,leenajeniferl,Information Technology,GE
+bhuvaneshwari.m@rajalakshmi.edu.in,bhuvaneshwari.m,Information Technology,CS
+bhuvaneshwari.m@rajalakshmi.edu.in,bhuvaneshwari.m,Information Technology,GE
+padmini.s@rajalakshmi.edu.in,padmini.s,Information Technology,CS
+padmini.s@rajalakshmi.edu.in,padmini.s,Information Technology,IT
+neelaveni.p@rajalakshmi.edu.in,neelaveni.p,Information Technology,AI
+neelaveni.p@rajalakshmi.edu.in,neelaveni.p,Information Technology,CS
+subbiah.s@rajalakshmi.edu.in,subbiah.s,Information Technology,IT
+sathish.m1@rajalakshmi.edu.in,sathish.m1,Information Technology,CS
+narayana.ke@rajalakshmi.edu.in,narayana.ke,Information Technology,AI
+narayana.ke@rajalakshmi.edu.in,narayana.ke,Information Technology,CS
+nalini.s@rajalakshmi.edu.in,nalini.s,Information Technology,IT
+prasannakumari.v@rajalakshmi.edu.in,prasannakumari.v,Information Technology,IT
+priyanka.d@rajalakshmi.edu.in,priyanka.d,Information Technology,IT
+principal@rajalakshmi.edu.in,principal,Mechanical Engineering,ME
+principal@rajalakshmi.edu.in,principal,Mechanical Engineering,GE
+muthaimanoj.p@rajalakshmi.edu.in,muthaimanoj.p,Mechanical Engineering,GE
+muthiah.ct@rajalakshmi.edu.in,muthiah.ct,Mechanical Engineering,ME
+muthiah.ct@rajalakshmi.edu.in,muthiah.ct,Mechanical Engineering,GE
+Loganathan.k@rajalakshmi.edu.in,Loganathan.k,Mechanical Engineering,ME
+Loganathan.k@rajalakshmi.edu.in,Loganathan.k,Mechanical Engineering,GE
+ramkumar.s.aiml@rajalakshmi.edu.in,ramkumar.s.aiml,Mechanical Engineering,GE
+hariram.s@rajalakshmi.edu.in,hariram.s,Mechanical Engineering,ME
+vigneswaran.k@rajalakshmi.edu.in,vigneswaran.k,Mechanical Engineering,ME
+vigneswaran.k@rajalakshmi.edu.in,vigneswaran.k,Mechanical Engineering,CS
+sekar.s@rajalakshmi.edu.in,sekar.s,Mechanical Engineering,ME
+ramesh.g@rajalakshmi.edu.in,ramesh.g,Mechanical Engineering,ME
+parthiban.n@rajalakshmi.edu.in,parthiban.n,Mechanical Engineering,ME
+devanathan.c@rajalakshmi.edu.in,devanathan.c,Mechanical Engineering,ME
+devanathan.c@rajalakshmi.edu.in,devanathan.c,Mechanical Engineering,GE
+sudharsan.nm@rajalakshmi.edu.in,sudharsan.nm,Mechanical Engineering,ME
+aruna.r@rajalakshmi.edu.in,aruna.r,Mechanical Engineering,ME
+shanthi.r@rajalakshmi.edu.in,shanthi.r,Mechanical Engineering,ME
+akshaya.a@rajalakshmi.edu.in,akshaya.a,Mathematics,MA

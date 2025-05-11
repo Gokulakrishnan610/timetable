@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,4,10:40 - 11:30,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A304
+Monday,4,10:40 - 11:30,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B210
+Monday,4,10:40 - 11:30,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B212
+Monday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A103
+Monday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A110
+Tuesday,3,09:50 - 10:40,AE23531,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Tuesday,4,10:40 - 11:30,AE23332,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Tuesday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A102
+Tuesday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A110
+Tuesday,7,01:10 - 02:00,AE23511,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B210
+Wednesday,3,09:50 - 10:40,AE23531,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B327
+Wednesday,4,10:40 - 11:30,AE23332,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Wednesday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A102
+Wednesday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A110
+Wednesday,7,01:10 - 02:00,AE23511,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B210
+Thursday,2,09:00 - 09:50,AE23531,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B First Floor
+Thursday,5,11:30 - 12:20,AE23511,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A103
+Thursday,5,11:30 - 12:20,AE23531,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B206
+Thursday,6,12:20 - 01:10,AE23411,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,A205
+Thursday,6,12:20 - 01:10,AE23531,balaji.rajendran@rajalakshmi.edu.in,Aeronautical Engineering,B203

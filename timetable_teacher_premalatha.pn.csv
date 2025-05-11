@@ -1,0 +1,19 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,2,09:00 - 09:50,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B116
+Monday,3,09:50 - 10:40,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B Third Floor
+Monday,4,10:40 - 11:30,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B310
+Monday,5,11:30 - 12:20,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B305
+Monday,6,12:20 - 01:10,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B Ground Floor
+Tuesday,2,09:00 - 09:50,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B Ground Floor
+Tuesday,3,09:50 - 10:40,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B Third Floor
+Tuesday,4,10:40 - 11:30,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B318
+Tuesday,5,11:30 - 12:20,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B311
+Tuesday,6,12:20 - 01:10,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B328
+Wednesday,5,11:30 - 12:20,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B First Floor
+Wednesday,7,01:10 - 02:00,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B Second Floor
+Wednesday,8,02:00 - 02:50,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B204
+Thursday,2,09:00 - 09:50,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B205
+Thursday,3,09:50 - 10:40,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B205
+Thursday,4,10:40 - 11:30,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B202
+Thursday,5,11:30 - 12:20,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B202
+Thursday,6,12:20 - 01:10,AI23331,premalatha.pn@rajalakshmi.edu.in,Information Technology,B310

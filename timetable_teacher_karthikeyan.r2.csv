@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,4,10:40 - 11:30,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A103
+Monday,4,10:40 - 11:30,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A105
+Monday,4,10:40 - 11:30,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A109
+Monday,4,10:40 - 11:30,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A110
+Monday,7,01:10 - 02:00,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A311
+Tuesday,2,09:00 - 09:50,AT23521,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,B120
+Tuesday,4,10:40 - 11:30,AT23521,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Tuesday,4,10:40 - 11:30,AT23712,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A108
+Tuesday,6,12:20 - 01:10,AT23713,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A104
+Tuesday,7,01:10 - 02:00,AT23713,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A202
+Wednesday,2,09:00 - 09:50,AT23521,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,B120
+Wednesday,4,10:40 - 11:30,AT23521,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,B Second Floor
+Wednesday,4,10:40 - 11:30,AT23712,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A108
+Wednesday,6,12:20 - 01:10,AT23713,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A104
+Wednesday,7,01:10 - 02:00,AT23713,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A202
+Thursday,4,10:40 - 11:30,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A304
+Thursday,5,11:30 - 12:20,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A204
+Thursday,5,11:30 - 12:20,AT23411,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A308
+Thursday,5,11:30 - 12:20,AT23412,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,A203
+Thursday,6,12:20 - 01:10,AT23521,karthikeyan.r2@rajalakshmi.edu.in,Automobile Engineering,B204

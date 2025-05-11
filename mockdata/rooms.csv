@@ -1,0 +1,21 @@
+room_number,block,description,is_lab,room_type,room_min_cap,room_max_cap,has_projector,has_ac,tech_level,maintained_by_id
+A101,A Block,Classroom,False,Room,40,50,True,True,High,Administration
+A102,A Block,Classroom,False,Room,40,50,True,True,High,Administration
+A103,A Block,Classroom,False,Room,40,50,True,True,High,Administration
+A104,A Block,Classroom,False,Room,80,100,True,True,High,Administration
+A105,A Block,Classroom,False,Room,80,100,True,True,High,Administration
+A201,A Block,Classroom,False,Room,40,50,True,True,High,Administration
+A202,A Block,Classroom,False,Room,40,50,True,True,High,Administration
+B101,B Block,Computer Lab,True,Lab,30,40,True,True,High,Computer Science
+B102,B Block,Computer Lab,True,Lab,30,40,True,True,High,Computer Science
+B103,B Block,Computer Lab,True,Lab,30,40,True,True,High,Computer Science
+B201,B Block,Electronics Lab,True,NTL,20,30,True,True,High,Electrical Engineering
+B202,B Block,Digital Lab,True,NTL,20,30,True,True,High,Electrical Engineering
+B203,B Block,Circuits Lab,True,NTL,20,30,True,True,High,Electrical Engineering
+C101,C Block,Fluid Mechanics Lab,True,NTL,20,30,True,False,Medium,Mechanical Engineering
+C102,C Block,Materials Lab,True,NTL,20,30,True,False,Medium,Mechanical Engineering
+C201,C Block,Structures Lab,True,NTL,20,30,True,False,Medium,Civil Engineering
+C202,C Block,Surveying Lab,True,NTL,20,30,True,False,Medium,Civil Engineering
+D101,D Block,Physics Lab,True,NTL,30,40,True,True,High,Physics
+D102,D Block,Chemistry Lab,True,NTL,30,40,True,True,High,Physics
+D201,D Block,Computer Centre,True,Lab,50,60,True,True,High,Computer Science 

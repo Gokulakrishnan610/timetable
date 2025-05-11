@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,6,12:20 - 01:10,BM23321,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B Ground Floor
+Monday,6,12:20 - 01:10,BM23422,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B205
+Monday,6,12:20 - 01:10,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A108
+Monday,6,12:20 - 01:10,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A303
+Monday,6,12:20 - 01:10,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A304
+Tuesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A205
+Tuesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A303
+Tuesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A304
+Tuesday,5,11:30 - 12:20,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A109
+Tuesday,7,01:10 - 02:00,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B107
+Wednesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A205
+Wednesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A303
+Wednesday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A304
+Wednesday,5,11:30 - 12:20,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A109
+Wednesday,7,01:10 - 02:00,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B107
+Thursday,1,08:00 - 09:00,BM23521,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B Second Floor
+Thursday,2,09:00 - 09:50,BM23422,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B118
+Thursday,3,09:50 - 10:40,BM23521,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B204
+Thursday,4,10:40 - 11:30,BM23422,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,B Third Floor
+Thursday,4,10:40 - 11:30,BM23512,sudha.singaram@rajalakshmi.edu.in,Biomedical Engineering,A203

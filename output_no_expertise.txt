@@ -1,0 +1,758 @@
+
+Starting CP-SAT solver v9.12.4544
+Parameters: max_time_in_seconds: 300 log_search_progress: true search_branching: AUTOMATIC_SEARCH cp_model_presolve: true linearization_level: 2 num_search_workers: 8
+
+Initial optimization model '': (model_fingerprint: 0xfaa33b1ef54a3781)
+#Variables: 93'761 (#bools: 93'760 in floating point objective)
+  - 93'760 Booleans in [0,1]
+  - 1 constants in {1} 
+#kBoolOr: 1'440 (#literals: 1'440)
+#kLinearN: 1'963 (#terms: 294'480)
+
+Starting presolve at 0.02s
+[Scaling] Floating point objective has 93760 terms with magnitude in [1, 1.3] average = 1.12253
+[Scaling] Objective coefficient relative error: 0
+[Scaling] Objective worst-case absolute error: 0
+[Scaling] Objective scaling factor: 10
+  6.28e-02s  0.00e+00d  [DetectDominanceRelations] 
+  1.30e-01s  0.00e+00d  [PresolveToFixPoint] #num_loops=2 #num_dual_strengthening=1 
+  7.70e-04s  0.00e+00d  [ExtractEncodingFromLinear] #potential_supersets=1'696 
+  1.11e-02s  0.00e+00d  [DetectDuplicateColumns] 
+  6.21e-02s  0.00e+00d  [DetectDuplicateConstraints] 
+[Symmetry] Graph for symmetry has 95'724 nodes and 294'480 arcs.
+[Symmetry] GraphSymmetryFinder error: Some automorphisms were found, but probably not all.
+[Symmetry] Symmetry computation done. time: 0.508245 dtime: 1.00006
+[Symmetry] #generators: 708, average support size: 253.328
+[Symmetry] 3948 orbits on 62960 variables with sizes: 480,480,480,480,240,240,240,240,160,160,...
+[Symmetry] Num fixable by binary propagation in orbit: 5 / 480
+[Symmetry] Num fixable by intersecting at_most_one with orbits: 39 largest_orbit: 480
+[Symmetry] Found orbitope of size 85 x 2
+[SAT presolve] num removable Booleans: 0 / 93760
+[SAT presolve] num trivial clauses: 0
+[SAT presolve] [0s] clauses:199 literals:104601 vars:93721 one_side_vars:93601 simple_definition:120 singleton_clauses:0
+[SAT presolve] [0.000873s] clauses:188 literals:92321 vars:92201 one_side_vars:92201 simple_definition:0 singleton_clauses:0
+[SAT presolve] [0.003096s] clauses:188 literals:92321 vars:92201 one_side_vars:92201 simple_definition:0 singleton_clauses:0
+  6.50e-02s  0.00e+00d  [DetectDuplicateConstraintsWithDifferentEnforcements] 
+  1.11e+00s  1.85e+00d *[Probe] #probed=187'442 
+  1.63e-02s  5.15e-03d  [MaxClique] Merged 1'816(96'560 literals) into 1'632(95'043 literals) at_most_ones. 
+  7.12e-02s  0.00e+00d  [DetectDominanceRelations] 
+  6.10e-02s  0.00e+00d  [DetectDominanceRelations] 
+  1.78e-01s  0.00e+00d  [PresolveToFixPoint] #num_loops=2 #num_dual_strengthening=2 
+  1.98e-02s  0.00e+00d  [ProcessAtMostOneAndLinear] 
+  6.90e-02s  0.00e+00d  [DetectDuplicateConstraints] 
+  6.31e-02s  0.00e+00d  [DetectDuplicateConstraintsWithDifferentEnforcements] 
+  2.30e-03s  2.78e-04d  [DetectDominatedLinearConstraints] #relevant_constraints=188 
+  5.72e-04s  0.00e+00d  [DetectDifferentVariables] 
+  1.98e-02s  9.68e-04d  [ProcessSetPPC] #relevant_constraints=1'887 #num_inclusions=28 
+  5.12e-04s  0.00e+00d  [FindAlmostIdenticalLinearConstraints] 
+  4.11e-01s  7.92e-01d  [FindBigAtMostOneAndLinearOverlap] 
+  4.95e-02s  3.21e-01d  [FindBigVerticalLinearOverlap] 
+  3.37e-02s  8.70e-02d  [FindBigHorizontalLinearOverlap] #linears=188 
+  4.06e-03s  4.60e-04d  [MergeClauses] 
+  5.98e-02s  0.00e+00d  [DetectDominanceRelations] 
+  8.35e-02s  0.00e+00d  [PresolveToFixPoint] #num_loops=1 #num_dual_strengthening=1 
+  5.93e-02s  0.00e+00d  [DetectDominanceRelations] 
+  8.24e-02s  0.00e+00d  [PresolveToFixPoint] #num_loops=1 #num_dual_strengthening=1 
+  9.21e-03s  0.00e+00d  [DetectDuplicateColumns] 
+  6.37e-02s  0.00e+00d  [DetectDuplicateConstraints] 
+[Symmetry] Graph for symmetry has 95'649 nodes and 278'527 arcs.
+[Symmetry] GraphSymmetryFinder error: Some automorphisms were found, but probably not all.
+[Symmetry] Symmetry computation done. time: 0.516989 dtime: 1
+[Symmetry] #generators: 749, average support size: 236.264
+[Symmetry] 3846 orbits on 63232 variables with sizes: 480,480,480,360,240,240,240,240,186,186,...
+[Symmetry] Num fixable by binary propagation in orbit: 5 / 480
+[Symmetry] Num fixable by intersecting at_most_one with orbits: 39 largest_orbit: 480
+[Symmetry] Found orbitope of size 85 x 2
+[SAT presolve] num removable Booleans: 0 / 92601
+[SAT presolve] num trivial clauses: 0
+[SAT presolve] [0s] clauses:188 literals:92282 vars:92042 one_side_vars:91922 simple_definition:120 singleton_clauses:0
+[SAT presolve] [0.000625s] clauses:188 literals:92162 vars:92042 one_side_vars:92042 simple_definition:0 singleton_clauses:0
+[SAT presolve] [0.002857s] clauses:188 literals:92162 vars:92042 one_side_vars:92042 simple_definition:0 singleton_clauses:0
+  6.18e-02s  0.00e+00d  [DetectDuplicateConstraintsWithDifferentEnforcements] 
+  1.07e+00s  1.78e+00d *[Probe] #probed=185'124 
+  1.39e-02s  5.39e-03d  [MaxClique] Merged 1'751(94'084 literals) into 1'631(93'847 literals) at_most_ones. 
+  6.01e-02s  0.00e+00d  [DetectDominanceRelations] 
+  8.43e-02s  0.00e+00d  [PresolveToFixPoint] #num_loops=1 #num_dual_strengthening=1 
+  1.82e-02s  0.00e+00d  [ProcessAtMostOneAndLinear] 
+  6.28e-02s  0.00e+00d  [DetectDuplicateConstraints] 
+  6.24e-02s  0.00e+00d  [DetectDuplicateConstraintsWithDifferentEnforcements] 
+  1.92e-03s  2.78e-04d  [DetectDominatedLinearConstraints] #relevant_constraints=188 
+  4.78e-04s  0.00e+00d  [DetectDifferentVariables] 
+  1.14e-02s  9.58e-04d  [ProcessSetPPC] #relevant_constraints=1'886 #num_inclusions=24 
+  2.59e-04s  0.00e+00d  [FindAlmostIdenticalLinearConstraints] 
+  4.09e-01s  7.92e-01d  [FindBigAtMostOneAndLinearOverlap] 
+  4.97e-02s  3.21e-01d  [FindBigVerticalLinearOverlap] 
+  3.37e-02s  8.70e-02d  [FindBigHorizontalLinearOverlap] #linears=188 
+  4.32e-03s  4.60e-04d  [MergeClauses] 
+  5.96e-02s  0.00e+00d  [DetectDominanceRelations] 
+  8.34e-02s  0.00e+00d  [PresolveToFixPoint] #num_loops=1 #num_dual_strengthening=1 
+  5.98e-02s  0.00e+00d  [DetectDominanceRelations] 
+  8.29e-02s  0.00e+00d  [PresolveToFixPoint] #num_loops=1 #num_dual_strengthening=1 
+  9.22e-03s  0.00e+00d  [DetectDuplicateColumns] 
+  6.17e-02s  0.00e+00d  [DetectDuplicateConstraints] 
+[Symmetry] Graph for symmetry has 95'649 nodes and 278'254 arcs.
+[Symmetry] GraphSymmetryFinder error: Some automorphisms were found, but probably not all.
+[Symmetry] Symmetry computation done. time: 0.52261 dtime: 1.00017
+[Symmetry] #generators: 761, average support size: 229.064
+[Symmetry] 3887 orbits on 63609 variables with sizes: 480,480,360,360,240,240,240,240,214,214,...
+[Symmetry] Num fixable by binary propagation in orbit: 5 / 480
+[Symmetry] Num fixable by intersecting at_most_one with orbits: 39 largest_orbit: 480
+[Symmetry] Found orbitope of size 85 x 2
+[SAT presolve] num removable Booleans: 0 / 92562
+[SAT presolve] num trivial clauses: 0
+[SAT presolve] [0s] clauses:188 literals:92123 vars:91883 one_side_vars:91763 simple_definition:120 singleton_clauses:0
+[SAT presolve] [0.000617s] clauses:188 literals:92003 vars:91883 one_side_vars:91883 simple_definition:0 singleton_clauses:0
+[SAT presolve] [0.003072s] clauses:188 literals:92003 vars:91883 one_side_vars:91883 simple_definition:0 singleton_clauses:0
+  6.06e-02s  0.00e+00d  [DetectDuplicateConstraintsWithDifferentEnforcements] 
+  1.07e+00s  1.78e+00d *[Probe] #probed=185'046 
+  1.34e-02s  5.72e-03d  [MaxClique] Merged 1'750(94'008 literals) into 1'630(93'771 literals) at_most_ones. 
+  5.96e-02s  0.00e+00d  [DetectDominanceRelations] 
+  8.39e-02s  0.00e+00d  [PresolveToFixPoint] #num_loops=1 #num_dual_strengthening=1 
+  1.90e-02s  0.00e+00d  [ProcessAtMostOneAndLinear] 
+  6.39e-02s  0.00e+00d  [DetectDuplicateConstraints] 
+  6.14e-02s  0.00e+00d  [DetectDuplicateConstraintsWithDifferentEnforcements] 
+  1.75e-03s  2.78e-04d  [DetectDominatedLinearConstraints] #relevant_constraints=188 
+  4.83e-04s  0.00e+00d  [DetectDifferentVariables] 
+  1.17e-02s  9.50e-04d  [ProcessSetPPC] #relevant_constraints=1'885 #num_inclusions=20 
+  2.73e-04s  0.00e+00d  [FindAlmostIdenticalLinearConstraints] 
+  4.12e-01s  7.92e-01d  [FindBigAtMostOneAndLinearOverlap] 
+  4.93e-02s  3.21e-01d  [FindBigVerticalLinearOverlap] 
+  3.37e-02s  8.70e-02d  [FindBigHorizontalLinearOverlap] #linears=188 
+  4.30e-03s  4.59e-04d  [MergeClauses] 
+  6.03e-02s  0.00e+00d  [DetectDominanceRelations] 
+  8.40e-02s  0.00e+00d  [PresolveToFixPoint] #num_loops=1 #num_dual_strengthening=1 
+  5.38e-02s  0.00e+00d  [ExpandObjective] 
+
+Presolve summary:
+  - 0 affine relations were detected.
+  - rule 'TODO dual: only one unspecified blocking constraint?' was applied 6'640 times.
+  - rule 'at_most_one: removed literals' was applied 143 times.
+  - rule 'at_most_one: size one' was applied 3 times.
+  - rule 'at_most_one: transformed into max clique.' was applied 3 times.
+  - rule 'bool_or: always true' was applied 1'440 times.
+  - rule 'domination: in at most one' was applied 1'120 times.
+  - rule 'linear: fixed or dup variables' was applied 34 times.
+  - rule 'linear: positive at most one' was applied 1'696 times.
+  - rule 'linear: positive clause' was applied 79 times.
+  - rule 'presolve: 1238 unused variables removed.' was applied 1 time.
+  - rule 'presolve: iteration' was applied 3 times.
+  - rule 'symmetry: added orbit symmetry breaking implications' was applied 3 times.
+  - rule 'symmetry: fixed to false in general orbit' was applied 117 times.
+
+Presolved optimization model '': (model_fingerprint: 0xc3172b67c4dd8cd3)
+#Variables: 92'523 (#bools: 92'523 in objective)
+  - 92'523 Booleans in [0,1]
+#kAtMostOne: 1'629 (#literals: 93'692)
+#kBoolOr: 68 (#literals: 91'763)
+#kLinearN: 188 (#terms: 92'523)
+[Symmetry] Graph for symmetry has 94'411 nodes and 277'981 arcs.
+[Symmetry] GraphSymmetryFinder error: Some automorphisms were found, but probably not all.
+[Symmetry] Symmetry computation done. time: 0.51792 dtime: 1.00025
+[Symmetry] #generators: 771, average support size: 222.451
+[Symmetry] 3934 orbits on 63916 variables with sizes: 480,360,360,360,240,240,240,240,238,238,...
+[Symmetry] Found orbitope of size 85 x 2
+
+Preloading model.
+#Bound   9.33s best:-inf  next:[-0,103975.9] initial_domain
+#Model   9.36s var:92523/92523 constraints:1885/1885
+
+Starting search at 9.38s with 8 workers.
+6 full problem subsolvers: [core, default_lp, max_lp_sym, no_lp, quick_restart, reduced_costs]
+2 first solution subsolvers: [fj, fs_random_no_lp]
+9 interleaved subsolvers: [feasibility_pump, graph_arc_lns, graph_cst_lns, graph_dec_lns, graph_var_lns, ls, rins/rens, rnd_cst_lns, rnd_var_lns]
+3 helper subsolvers: [neighborhood_helper, synchronization_agent, update_gap_integral]
+
+#1       9.75s best:1055.2 next:[1055.3,103975.9] fj_restart(batch:1 lin{mvs:916 evals:92'523} #w_updates:0 #perturb:0)
+#Bound  10.91s best:1055.2 next:[1055.3,1760] am1_presolve (num_literals=92523 num_am1=1600 increase=1022159 work_done=12298589)
+#Bound  11.24s best:1055.2 next:[1055.3,1198] default_lp (initial_propagation)
+#Bound  11.76s best:1055.2 next:[1055.3,1110.9] max_lp_sym
+#Bound  12.25s best:1055.2 next:[1055.3,1101.6] max_lp_sym
+#Bound  12.80s best:1055.2 next:[1055.3,1088.4] max_lp_sym
+#2      18.92s best:1088.3 next:[1088.4,1088.4] default_lp
+#Model  21.43s var:60431/92523 constraints:1401/1885
+#3      21.47s best:1088.4 next:[]         ls_restart_decay_perturb(batch:1 lin{mvs:5 evals:59'514} #w_updates:8 #perturb:0)
+
+Task timing                   n [     min,      max]      avg      dev     time         n [     min,      max]      avg      dev    dtime
+              'core':         1 [  12.16s,   12.16s]   12.16s   0.00ns   12.16s         1 [  13.64s,   13.64s]   13.64s   0.00ns   13.64s
+        'default_lp':         1 [  12.16s,   12.16s]   12.16s   0.00ns   12.16s         1 [   3.01s,    3.01s]    3.01s   0.00ns    3.01s
+  'feasibility_pump':         3 [264.28ms, 461.37ms] 389.47ms  88.85ms    1.17s         2 [ 43.54ms, 166.70ms] 105.12ms  61.58ms 210.24ms
+                'fj':         1 [107.51ms, 107.51ms] 107.51ms   0.00ns 107.51ms         1 [ 22.26ms,  22.26ms]  22.26ms   0.00ns  22.26ms
+   'fs_random_no_lp':         1 [417.19ms, 417.19ms] 417.19ms   0.00ns 417.19ms         0 [  0.00ns,   0.00ns]   0.00ns   0.00ns   0.00ns
+     'graph_arc_lns':         1 [   3.80s,    3.80s]    3.80s   0.00ns    3.80s         1 [100.72ms, 100.72ms] 100.72ms   0.00ns 100.72ms
+     'graph_cst_lns':         1 [   3.32s,    3.32s]    3.32s   0.00ns    3.32s         1 [100.00ms, 100.00ms] 100.00ms   0.00ns 100.00ms
+     'graph_dec_lns':         2 [   2.13s,    3.73s]    2.93s 800.74ms    5.85s         2 [ 32.23ms, 102.62ms]  67.42ms  35.19ms 134.85ms
+     'graph_var_lns':         1 [   3.47s,    3.47s]    3.47s   0.00ns    3.47s         1 [101.70ms, 101.70ms] 101.70ms   0.00ns 101.70ms
+                'ls':         5 [ 32.07ms, 314.46ms] 225.78ms  99.88ms    1.13s         5 [ 19.68ms, 105.73ms]  85.82ms  33.12ms 429.11ms
+        'max_lp_sym':         1 [  12.16s,   12.16s]   12.16s   0.00ns   12.16s         1 [   1.75s,    1.75s]    1.75s   0.00ns    1.75s
+             'no_lp':         1 [  12.16s,   12.16s]   12.16s   0.00ns   12.16s         1 [   1.29s,    1.29s]    1.29s   0.00ns    1.29s
+     'quick_restart':         1 [  12.16s,   12.16s]   12.16s   0.00ns   12.16s         1 [598.31ms, 598.31ms] 598.31ms   0.00ns 598.31ms
+     'reduced_costs':         1 [  12.16s,   12.16s]   12.16s   0.00ns   12.16s         1 [   1.18s,    1.18s]    1.18s   0.00ns    1.18s
+         'rins/rens':         2 [595.83ms, 615.29ms] 605.56ms   9.73ms    1.21s         2 [ 10.00ns,  10.00ns]  10.00ns   0.00ns  20.00ns
+       'rnd_cst_lns':         1 [   1.32s,    1.32s]    1.32s   0.00ns    1.32s         1 [100.00ms, 100.00ms] 100.00ms   0.00ns 100.00ms
+       'rnd_var_lns':         1 [   2.27s,    2.27s]    2.27s   0.00ns    2.27s         1 [100.09ms, 100.09ms] 100.09ms   0.00ns 100.09ms
+
+Search stats           Bools  Conflicts  Branches  Restarts  BoolPropag  IntegerPropag
+             'core':  94'123     55'467   478'589   185'047  36'295'947      7'781'358
+       'default_lp':  92'523          1   227'086   187'270   6'142'511      6'523'209
+  'fs_random_no_lp':  92'523          0    14'054    14'054     461'889        475'944
+       'max_lp_sym':  92'523         69   376'272   302'824   7'721'036      9'181'467
+            'no_lp':  92'523         50   413'583   288'366   6'883'067      8'487'201
+    'quick_restart':  92'523          3   185'531   185'046   6'065'840      6'252'316
+    'reduced_costs':  92'523         50   286'853   286'765   6'750'457      7'830'523
+
+SAT stats             ClassicMinim  LitRemoved  LitLearned  LitForgotten  Subsumed  MClauses  MDecisions  MLitTrue  MSubsumed  MLitRemoved  MReused
+             'core':         3'935       7'798  10'703'897     7'882'968        72         0           0         0          0            0        0
+       'default_lp':             0           0       1'091             0         0         0           0         0          0            0        0
+  'fs_random_no_lp':             0           0           0             0         0         0           0         0          0            0        0
+       'max_lp_sym':            67       1'039     107'148             0         0        51      64'957         0          0            0        0
+            'no_lp':             2           5      65'512             0         0        95     124'583         0          0            0        0
+    'quick_restart':             3          12       1'974             0         0         0           0         0          0            0        0
+    'reduced_costs':            50         200      21'500             0         0         0           0         0          0            0        0
+
+Lp stats            Component  Iterations  AddedCuts  OPTIMAL  DUAL_F.  DUAL_U.
+     'default_lp':          4      46'461          0       30       19        0
+     'max_lp_sym':          1      10'091          0       88       34        0
+  'quick_restart':          1      14'970          0        1      489        0
+  'reduced_costs':          1      13'020          0        1       95        0
+
+Lp dimension              Final dimension of first component
+     'default_lp':    333 rows, 23121 columns, 30434 entries
+     'max_lp_sym':   1073 rows, 32541 columns, 97620 entries
+  'quick_restart':  1000 rows, 92523 columns, 152738 entries
+  'reduced_costs':  1000 rows, 92523 columns, 152738 entries
+
+Lp debug            CutPropag  CutEqPropag  Adjust  Overflow  Bad  BadScaling
+     'default_lp':          0            0      28         0  272           0
+     'max_lp_sym':          0            0      10         0    0           0
+  'quick_restart':          0            0     432         0    0           0
+  'reduced_costs':          0            0      89         0    0           0
+
+Lp pool             Constraints  Updates  Simplif  Merged  Shortened  Split  Strenghtened  Cuts/Call
+     'default_lp':        1'817        1    1'318       0        835      0             0        0/0
+     'max_lp_sym':        1'078        0        5       0          0      0             0        0/0
+  'quick_restart':        1'885        0        0       0          0      0             0        0/0
+  'reduced_costs':        1'885        0        0       0          0      0             0        0/0
+
+LNS stats           Improv/Calls  Closed  Difficulty  TimeLimit
+  'graph_arc_lns':           0/1      0%    2.93e-01       0.10
+  'graph_cst_lns':           0/1      0%    2.93e-01       0.10
+  'graph_dec_lns':           0/2      0%    1.86e-01       0.10
+  'graph_var_lns':           0/1      0%    2.93e-01       0.10
+      'rins/rens':           0/2    100%    8.14e-01       0.10
+    'rnd_cst_lns':           0/1      0%    2.93e-01       0.10
+    'rnd_var_lns':           0/1      0%    2.93e-01       0.10
+
+LS stats                                Batches  Restarts/Perturbs  LinMoves  GenMoves  CompoundMoves  Bactracks  WeightUpdates  ScoreComputed
+                         'fj_restart':        1                  1       916         0              0          0              0         92'523
+                'ls_restart_compound':        1                  1         0         0              0          0             99         91'591
+                   'ls_restart_decay':        2                  2        22         0              0          0            140        183'256
+  'ls_restart_decay_compound_perturb':        1                  1         0         0              0          0             99         91'591
+           'ls_restart_decay_perturb':        1                  1         5         0              0          0              8         59'514
+
+Solutions (3)                  Num   Rank
+                'default_lp':    1  [2,2]
+                'fj_restart':    1  [1,1]
+  'ls_restart_decay_perturb':    1  [3,3]
+
+Objective bounds     Num
+    'am1_presolve':    1
+      'default_lp':    1
+  'initial_domain':    1
+      'max_lp_sym':    3
+
+Solution repositories    Added  Queried  Synchro
+  'feasible solutions':     11       25       10
+   'fj solution hints':      0        0        0
+        'lp solutions':     89        2        9
+                'pump':      2        0
+
+Improving bounds shared       Num  Sym
+            'default_lp':  17'921    0
+
+CpSolverResponse summary:
+status: OPTIMAL
+objective: 1088.400000000002
+best_bound: 1088.4
+integers: 92828
+booleans: 92523
+conflicts: 0
+branches: 14054
+propagations: 461889
+integer_propagations: 475944
+restarts: 14054
+lp_iterations: 0
+walltime: 21.8413
+usertime: 21.8413
+deterministic_time: 31.8102
+gap_integral: 2.75759
+solution_fingerprint: 0x920b68aa7b68eecc
+
+Using relaxed constraints mode
+Loading data from data directory...
+Solver timeout set to 300 seconds (5.0 minutes)
+Loading data from data
+
+Loaded:
+- 562 teachers
+- 533 courses (326 lab, 202 theory)
+- 216 rooms (96 lab rooms)
+- 29 departments
+- 940 teacher-course assignments
+
+Sample teacher-course assignments:
+- rajasree.b (English): HS23111
+- muthumanikandan.m (English): HS23111, HS23222/HS23223, HS23221/HS23222
+- chitra.r (Mathematics): MA23112, MA23114
+- sivakumaran.v (Mathematics): MA23112, MA23311
+- pugazhvadivu.ks (Physics): PH23131, PH23132
+Expertise-based teacher assignments disabled
+Starting timetable generation...
+Using problem size reduction strategies...
+Solver timeout set to 300 seconds
+Setting up model with 47 teachers, 100 courses, 50 rooms
+Optimizing variable creation...
+Creating decision variables...
+Adding constraints...
+All constraints added. Solving...
+This may take several minutes due to the large dataset...
+Solution found!
+
+===== GENERATED TIMETABLE =====
+
+Monday:
+  Slot 1 (08:00 - 09:00):
+    - AE23433 by shebazahamed.jp (Aeronautical Engineering) in B206
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B310
+    - AT23522 by selvaraju.pn (Automobile Engineering) in B205
+    - AT23631 by anbalagan.r (Automobile Engineering) in B202
+    - AT23633 by anbalagan.r (Automobile Engineering) in B120
+    - AT23332 by mullaisudaroli.b (Automobile Engineering) in B116
+    - AT23531 by mohanraj.k (Automobile Engineering) in B117
+    - AT23521 by edwinjoseph.r (Automobile Engineering) in B Ground Floor
+    - AT23532 by karthikeyan.r2 (Automobile Engineering) in B Second Floor
+    - BM23331 by karuppathal.e (Biomedical Engineering) in B311
+    ... and 10 more
+  Slot 2 (09:00 - 09:50):
+    - AE23721 by muthusamy.n (Aeronautical Engineering) in B327
+    - AE23821 by harish.s.aero (Aeronautical Engineering) in B119
+    - AE23521 by nithiyaraj.m (Aeronautical Engineering) in B Second Floor
+    - AE23521 by pradesh.s (Aeronautical Engineering) in B305
+    - AE23431 by sureshchandrakhandai (Aeronautical Engineering) in B204
+    - AE23632 by nithiyanantham.kk (Aeronautical Engineering) in B311
+    - AT23633 by anbalagan.r (Automobile Engineering) in B310
+    - AT23433 by mohanraj.k (Automobile Engineering) in B Ground Floor
+    - BM23231 by muralidharan.c (Biomedical Engineering) in B Third Floor
+    - BM23231 by Ramachandran R <ramachandran.r (Biomedical Engineering) in B117
+    ... and 10 more
+  Slot 3 (09:50 - 10:40):
+    - AE23432 by harish.s.aero (Aeronautical Engineering) in B120
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B203
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B328
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B205
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B305
+    - AE23631 by nithiyanantham.kk (Aeronautical Engineering) in B311
+    - AE23632 by nithiyanantham.kk (Aeronautical Engineering) in B204
+    - AT23331 by karthikeyan.r2 (Automobile Engineering) in B327
+    - AT23532 by karthikeyan.r2 (Automobile Engineering) in B Third Floor
+    - BM23532 by krishnakumar.s (Biomedical Engineering) in B202
+    ... and 10 more
+  Slot 4 (10:40 - 11:30):
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A102
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A105
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A208
+    - AE23821 by harish.s.aero (Aeronautical Engineering) in B305
+    - AE23512 by shebazahamed.jp (Aeronautical Engineering) in A211
+    - AE23512 by shebazahamed.jp (Aeronautical Engineering) in A305
+    - AE23623 by shebazahamed.jp (Aeronautical Engineering) in B328
+    - AE23513 by nithiyaraj.m (Aeronautical Engineering) in A103
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B202
+    - AE23612 by surendrabogadi (Aeronautical Engineering) in A304
+    ... and 40 more
+  Slot 5 (11:30 - 12:20):
+    - AE23211 by muthusamy.n (Aeronautical Engineering) in A109
+    - AE23632 by harish.s.aero (Aeronautical Engineering) in B311
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B204
+    - AE23433 by surendrabogadi (Aeronautical Engineering) in B310
+    - AE23612 by surendrabogadi (Aeronautical Engineering) in A209
+    - AE23612 by surendrabogadi (Aeronautical Engineering) in B210
+    - AE23512 by sureshchandrakhandai (Aeronautical Engineering) in A202
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B203
+    - AE23632 by nithiyanantham.kk (Aeronautical Engineering) in B119
+    - AT23412 by selvaraju.pn (Automobile Engineering) in A303
+    ... and 36 more
+  Slot 6 (12:20 - 01:10):
+    - AE23511 by muthusamy.n (Aeronautical Engineering) in A203
+    - AE23511 by muthusamy.n (Aeronautical Engineering) in A305
+    - AE23511 by muthusamy.n (Aeronautical Engineering) in B211
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A211
+    - AE23332 by harish.s.aero (Aeronautical Engineering) in B Second Floor
+    - AE23512 by shebazahamed.jp (Aeronautical Engineering) in A204
+    - AE23411 by nithiyaraj.m (Aeronautical Engineering) in A205
+    - AE23513 by nithiyaraj.m (Aeronautical Engineering) in A309
+    - AE23333 by premanand.tp (Aeronautical Engineering) in B305
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A208
+    ... and 39 more
+  Slot 7 (01:10 - 02:00):
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in B106
+    - AE23411 by nithiyaraj.m (Aeronautical Engineering) in A310
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A205
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A311
+    - AT23111 by pavan.p (Automobile Engineering) in A203
+    - AT23111 by pavan.p (Automobile Engineering) in A210
+    - AT23111 by pavan.p (Automobile Engineering) in A211
+    - AT23111 by pavan.p (Automobile Engineering) in A305
+    - AT23411 by edwinjoseph.r (Automobile Engineering) in A108
+    - BM23611 by gloryprecious.j (Biomedical Engineering) in A208
+    ... and 17 more
+  Slot 8 (02:00 - 02:50):
+    - AI23331 by sandhiya.m (Information Technology) in B205
+  Slot 9 (02:50 - 03:40):
+    No classes scheduled
+  Slot 10 (03:40 - 04:30):
+    No classes scheduled
+  Slot 11 (04:30 - 05:20):
+    No classes scheduled
+  Slot 12 (05:20 - 06:10):
+    No classes scheduled
+  Slot 13 (06:10 - 07:00):
+    No classes scheduled
+
+Tuesday:
+  Slot 1 (08:00 - 09:00):
+    - AE23721 by muthusamy.n (Aeronautical Engineering) in B206
+    - AE23623 by shebazahamed.jp (Aeronautical Engineering) in B202
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B116
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B310
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B205
+    - AT23631 by anbalagan.r (Automobile Engineering) in B120
+    - AT23633 by mohanraj.k (Automobile Engineering) in B117
+    - AT23521 by edwinjoseph.r (Automobile Engineering) in B Ground Floor
+    - AT23532 by karthikeyan.r2 (Automobile Engineering) in B Second Floor
+    - BM23331 by karuppathal.e (Biomedical Engineering) in B311
+    ... and 10 more
+  Slot 2 (09:00 - 09:50):
+    - AE23721 by muthusamy.n (Aeronautical Engineering) in B327
+    - AE23521 by nithiyaraj.m (Aeronautical Engineering) in B Second Floor
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B119
+    - AE23333 by pradesh.s (Aeronautical Engineering) in B305
+    - AE23431 by sureshchandrakhandai (Aeronautical Engineering) in B204
+    - AE23632 by nithiyanantham.kk (Aeronautical Engineering) in B311
+    - AT23633 by anbalagan.r (Automobile Engineering) in B310
+    - AT23433 by mohanraj.k (Automobile Engineering) in B Ground Floor
+    - BM23231 by muralidharan.c (Biomedical Engineering) in B Third Floor
+    - BM23231 by Ramachandran R <ramachandran.r (Biomedical Engineering) in B117
+    ... and 10 more
+  Slot 3 (09:50 - 10:40):
+    - AE23621 by balaji.rajendran (Aeronautical Engineering) in B203
+    - AE23433 by shebazahamed.jp (Aeronautical Engineering) in B120
+    - AE23622 by sureshchandrakhandai (Aeronautical Engineering) in B328
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B205
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B305
+    - AE23631 by nithiyanantham.kk (Aeronautical Engineering) in B311
+    - AE23632 by nithiyanantham.kk (Aeronautical Engineering) in B204
+    - AT23331 by karthikeyan.r2 (Automobile Engineering) in B Third Floor
+    - AT23331 by karthikeyan.r2 (Automobile Engineering) in B327
+    - BM23532 by krishnakumar.s (Biomedical Engineering) in B202
+    ... and 10 more
+  Slot 4 (10:40 - 11:30):
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A102
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A105
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A208
+    - AE23821 by harish.s.aero (Aeronautical Engineering) in B305
+    - AE23512 by shebazahamed.jp (Aeronautical Engineering) in A211
+    - AE23512 by shebazahamed.jp (Aeronautical Engineering) in A305
+    - AE23623 by shebazahamed.jp (Aeronautical Engineering) in B328
+    - AE23513 by nithiyaraj.m (Aeronautical Engineering) in A103
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B202
+    - AE23611 by sureshchandrakhandai (Aeronautical Engineering) in A303
+    ... and 40 more
+  Slot 5 (11:30 - 12:20):
+    - AE23821 by harish.s.aero (Aeronautical Engineering) in B311
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B204
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A109
+    - AE23433 by surendrabogadi (Aeronautical Engineering) in B310
+    - AE23612 by surendrabogadi (Aeronautical Engineering) in A209
+    - AE23612 by surendrabogadi (Aeronautical Engineering) in B210
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B203
+    - AE23632 by nithiyanantham.kk (Aeronautical Engineering) in B119
+    - AT23412 by selvaraju.pn (Automobile Engineering) in A303
+    - AT23522 by selvaraju.pn (Automobile Engineering) in B305
+    ... and 36 more
+  Slot 6 (12:20 - 01:10):
+    - AE23511 by muthusamy.n (Aeronautical Engineering) in A203
+    - AE23511 by muthusamy.n (Aeronautical Engineering) in A305
+    - AE23511 by muthusamy.n (Aeronautical Engineering) in B211
+    - AE23332 by harish.s.aero (Aeronautical Engineering) in B Ground Floor
+    - AE23332 by harish.s.aero (Aeronautical Engineering) in B Second Floor
+    - AE23821 by harish.s.aero (Aeronautical Engineering) in B305
+    - AE23411 by nithiyaraj.m (Aeronautical Engineering) in A205
+    - AE23411 by nithiyaraj.m (Aeronautical Engineering) in A309
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A204
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A208
+    ... and 39 more
+  Slot 7 (01:10 - 02:00):
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in B106
+    - AE23511 by nithiyaraj.m (Aeronautical Engineering) in A310
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A311
+    - AT23111 by mullaisudaroli.b (Automobile Engineering) in A103
+    - AT23111 by pavan.p (Automobile Engineering) in A203
+    - AT23111 by pavan.p (Automobile Engineering) in A210
+    - AT23111 by pavan.p (Automobile Engineering) in A211
+    - AT23111 by pavan.p (Automobile Engineering) in A305
+    - AT23411 by edwinjoseph.r (Automobile Engineering) in A108
+    - BM23611 by gloryprecious.j (Biomedical Engineering) in A208
+    ... and 17 more
+  Slot 8 (02:00 - 02:50):
+    - AI23331 by sandhiya.m (Information Technology) in B205
+  Slot 9 (02:50 - 03:40):
+    No classes scheduled
+  Slot 10 (03:40 - 04:30):
+    No classes scheduled
+  Slot 11 (04:30 - 05:20):
+    No classes scheduled
+  Slot 12 (05:20 - 06:10):
+    No classes scheduled
+  Slot 13 (06:10 - 07:00):
+    No classes scheduled
+
+Wednesday:
+  Slot 1 (08:00 - 09:00):
+    - AE23721 by muthusamy.n (Aeronautical Engineering) in B206
+    - AE23623 by shebazahamed.jp (Aeronautical Engineering) in B202
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B116
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B310
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B205
+    - AT23631 by anbalagan.r (Automobile Engineering) in B120
+    - AT23531 by mohanraj.k (Automobile Engineering) in B117
+    - AT23621 by edwinjoseph.r (Automobile Engineering) in B Ground Floor
+    - AT23532 by karthikeyan.r2 (Automobile Engineering) in B Second Floor
+    - BM23331 by karuppathal.e (Biomedical Engineering) in B311
+    ... and 10 more
+  Slot 2 (09:00 - 09:50):
+    - AE23721 by muthusamy.n (Aeronautical Engineering) in B327
+    - AE23521 by nithiyaraj.m (Aeronautical Engineering) in B Second Floor
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B119
+    - AE23331 by pradesh.s (Aeronautical Engineering) in B305
+    - AE23622 by sureshchandrakhandai (Aeronautical Engineering) in B204
+    - AE23632 by nithiyanantham.kk (Aeronautical Engineering) in B311
+    - AT23633 by anbalagan.r (Automobile Engineering) in B310
+    - AT23433 by mohanraj.k (Automobile Engineering) in B Ground Floor
+    - BM23231 by muralidharan.c (Biomedical Engineering) in B Third Floor
+    - BM23231 by Ramachandran R <ramachandran.r (Biomedical Engineering) in B117
+    ... and 10 more
+  Slot 3 (09:50 - 10:40):
+    - AE23621 by balaji.rajendran (Aeronautical Engineering) in B203
+    - AE23433 by shebazahamed.jp (Aeronautical Engineering) in B120
+    - AE23731 by sureshchandrakhandai (Aeronautical Engineering) in B328
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B205
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B305
+    - AE23631 by nithiyanantham.kk (Aeronautical Engineering) in B311
+    - AE23632 by nithiyanantham.kk (Aeronautical Engineering) in B204
+    - AT23331 by karthikeyan.r2 (Automobile Engineering) in B Third Floor
+    - AT23331 by karthikeyan.r2 (Automobile Engineering) in B327
+    - BM23532 by krishnakumar.s (Biomedical Engineering) in B202
+    ... and 10 more
+  Slot 4 (10:40 - 11:30):
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A102
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A105
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A208
+    - AE23821 by harish.s.aero (Aeronautical Engineering) in B305
+    - AE23512 by shebazahamed.jp (Aeronautical Engineering) in A211
+    - AE23512 by shebazahamed.jp (Aeronautical Engineering) in A305
+    - AE23623 by shebazahamed.jp (Aeronautical Engineering) in B328
+    - AE23513 by nithiyaraj.m (Aeronautical Engineering) in A103
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B202
+    - AE23611 by sureshchandrakhandai (Aeronautical Engineering) in A303
+    ... and 40 more
+  Slot 5 (11:30 - 12:20):
+    - AE23821 by harish.s.aero (Aeronautical Engineering) in B311
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B204
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A109
+    - AE23433 by surendrabogadi (Aeronautical Engineering) in B310
+    - AE23612 by surendrabogadi (Aeronautical Engineering) in A209
+    - AE23612 by surendrabogadi (Aeronautical Engineering) in B210
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B203
+    - AE23632 by nithiyanantham.kk (Aeronautical Engineering) in B119
+    - AT23412 by selvaraju.pn (Automobile Engineering) in A303
+    - AT23432 by selvaraju.pn (Automobile Engineering) in B305
+    ... and 36 more
+  Slot 6 (12:20 - 01:10):
+    - AE23511 by muthusamy.n (Aeronautical Engineering) in A203
+    - AE23511 by muthusamy.n (Aeronautical Engineering) in A305
+    - AE23511 by muthusamy.n (Aeronautical Engineering) in B211
+    - AE23332 by harish.s.aero (Aeronautical Engineering) in B Ground Floor
+    - AE23332 by harish.s.aero (Aeronautical Engineering) in B Second Floor
+    - AE23821 by harish.s.aero (Aeronautical Engineering) in B305
+    - AE23411 by nithiyaraj.m (Aeronautical Engineering) in A309
+    - AE23511 by nithiyaraj.m (Aeronautical Engineering) in A205
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A204
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A208
+    ... and 39 more
+  Slot 7 (01:10 - 02:00):
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in B106
+    - AE23411 by nithiyaraj.m (Aeronautical Engineering) in A310
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A311
+    - AT23111 by mullaisudaroli.b (Automobile Engineering) in A103
+    - AT23111 by pavan.p (Automobile Engineering) in A203
+    - AT23111 by pavan.p (Automobile Engineering) in A210
+    - AT23111 by pavan.p (Automobile Engineering) in A211
+    - AT23111 by pavan.p (Automobile Engineering) in A305
+    - AT23411 by edwinjoseph.r (Automobile Engineering) in A108
+    - BM23611 by gloryprecious.j (Biomedical Engineering) in A208
+    ... and 17 more
+  Slot 8 (02:00 - 02:50):
+    - AI23331 by sandhiya.m (Information Technology) in B205
+  Slot 9 (02:50 - 03:40):
+    No classes scheduled
+  Slot 10 (03:40 - 04:30):
+    No classes scheduled
+  Slot 11 (04:30 - 05:20):
+    No classes scheduled
+  Slot 12 (05:20 - 06:10):
+    No classes scheduled
+  Slot 13 (06:10 - 07:00):
+    No classes scheduled
+
+Thursday:
+  Slot 1 (08:00 - 09:00):
+    - AE23721 by muthusamy.n (Aeronautical Engineering) in B327
+    - AE23632 by harish.s.aero (Aeronautical Engineering) in B120
+    - AE23623 by shebazahamed.jp (Aeronautical Engineering) in B311
+    - AE23521 by nithiyaraj.m (Aeronautical Engineering) in B119
+    - AE23731 by sureshchandrakhandai (Aeronautical Engineering) in B206
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B117
+    - AE23631 by nithiyanantham.kk (Aeronautical Engineering) in B Ground Floor
+    - AT23432 by selvaraju.pn (Automobile Engineering) in B First Floor
+    - AT23432 by selvaraju.pn (Automobile Engineering) in B118
+    - AT23632 by mullaisudaroli.b (Automobile Engineering) in B204
+    ... and 10 more
+  Slot 2 (09:00 - 09:50):
+    - AE23321 by muthusamy.n (Aeronautical Engineering) in B202
+    - AE23821 by harish.s.aero (Aeronautical Engineering) in B120
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B First Floor
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B Ground Floor
+    - AE23433 by surendrabogadi (Aeronautical Engineering) in B116
+    - AE23632 by nithiyanantham.kk (Aeronautical Engineering) in B328
+    - AT23521 by edwinjoseph.r (Automobile Engineering) in B Second Floor
+    - AT23522 by edwinjoseph.r (Automobile Engineering) in B117
+    - AT23331 by karthikeyan.r2 (Automobile Engineering) in B203
+    - BM23331 by karuppathal.e (Biomedical Engineering) in B318
+    ... and 10 more
+  Slot 3 (09:50 - 10:40):
+    - AE23433 by surendrabogadi (Aeronautical Engineering) in B118
+    - AT23334 by selvaraju.pn (Automobile Engineering) in B120
+    - AT23432 by selvaraju.pn (Automobile Engineering) in B First Floor
+    - AT23433 by mohanraj.k (Automobile Engineering) in B328
+    - BM23231 by muralidharan.c (Biomedical Engineering) in B117
+    - BM23422 by padmasini.n (Biomedical Engineering) in B Second Floor
+    - BM23331 by karuppathal.e (Biomedical Engineering) in B204
+    - BM23331 by subathra.y (Biomedical Engineering) in B Third Floor
+    - BM23331 by subathra.y (Biomedical Engineering) in B202
+    - BM23321 by jeminaasnothsylvia.j (Biomedical Engineering) in B Ground Floor
+    ... and 10 more
+  Slot 4 (10:40 - 11:30):
+    - AE23321 by muthusamy.n (Aeronautical Engineering) in B119
+    - AE23511 by muthusamy.n (Aeronautical Engineering) in A103
+    - AE23821 by harish.s.aero (Aeronautical Engineering) in B118
+    - AE23512 by shebazahamed.jp (Aeronautical Engineering) in A211
+    - AE23623 by shebazahamed.jp (Aeronautical Engineering) in B Third Floor
+    - AE23211 by nithiyaraj.m (Aeronautical Engineering) in A102
+    - AE23513 by nithiyaraj.m (Aeronautical Engineering) in A305
+    - AE23513 by nithiyaraj.m (Aeronautical Engineering) in B212
+    - AE23521 by nithiyaraj.m (Aeronautical Engineering) in B327
+    - AE23432 by kathiravan.b (Aeronautical Engineering) in B206
+    ... and 40 more
+  Slot 5 (11:30 - 12:20):
+    - AE23211 by muthusamy.n (Aeronautical Engineering) in B218
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A108
+    - AE23411 by balaji.rajendran (Aeronautical Engineering) in A311
+    - AE23721 by balaji.rajendran (Aeronautical Engineering) in B311
+    - AE23512 by shebazahamed.jp (Aeronautical Engineering) in B212
+    - AE23612 by pradesh.s (Aeronautical Engineering) in A109
+    - AE23612 by pradesh.s (Aeronautical Engineering) in A110
+    - AE23612 by pradesh.s (Aeronautical Engineering) in A202
+    - AE23612 by pradesh.s (Aeronautical Engineering) in A211
+    - AE23612 by pradesh.s (Aeronautical Engineering) in A302
+    ... and 40 more
+  Slot 6 (12:20 - 01:10):
+    - AE23821 by balaji.rajendran (Aeronautical Engineering) in B206
+    - AE23821 by balaji.rajendran (Aeronautical Engineering) in B310
+    - AE23332 by harish.s.aero (Aeronautical Engineering) in B Second Floor
+    - AE23332 by harish.s.aero (Aeronautical Engineering) in B318
+    - AE23512 by shebazahamed.jp (Aeronautical Engineering) in A102
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A103
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A108
+    - AE23431 by sureshchandrakhandai (Aeronautical Engineering) in B202
+    - AE23611 by sureshchandrakhandai (Aeronautical Engineering) in A208
+    - AE23531 by vasthaduvasukannah.dl (Aeronautical Engineering) in B117
+    ... and 37 more
+  Slot 7 (01:10 - 02:00):
+    - AE23513 by premanand.tp (Aeronautical Engineering) in A208
+    - AT23412 by anbalagan.r (Automobile Engineering) in A305
+    - AT23711 by anbalagan.r (Automobile Engineering) in A102
+    - AT23711 by anbalagan.r (Automobile Engineering) in A104
+    - AT23711 by anbalagan.r (Automobile Engineering) in A105
+    - AT23111 by mullaisudaroli.b (Automobile Engineering) in B210
+    - BM23611 by gloryprecious.j (Biomedical Engineering) in A210
+    - BM23612 by krishnakumar.s (Biomedical Engineering) in B106
+    - BM23511 by muralidharan.c (Biomedical Engineering) in A109
+    - BM23311 by revathy.p.bme (Biomedical Engineering) in A211
+    ... and 15 more
+  Slot 8 (02:00 - 02:50):
+    - AI23331 by sandhiya.m (Information Technology) in B305
+  Slot 9 (02:50 - 03:40):
+    No classes scheduled
+  Slot 10 (03:40 - 04:30):
+    No classes scheduled
+  Slot 11 (04:30 - 05:20):
+    No classes scheduled
+  Slot 12 (05:20 - 06:10):
+    No classes scheduled
+  Slot 13 (06:10 - 07:00):
+    No classes scheduled
+
+Friday:
+  Slot 1 (08:00 - 09:00):
+    No classes scheduled
+  Slot 2 (09:00 - 09:50):
+    No classes scheduled
+  Slot 3 (09:50 - 10:40):
+    No classes scheduled
+  Slot 4 (10:40 - 11:30):
+    No classes scheduled
+  Slot 5 (11:30 - 12:20):
+    No classes scheduled
+  Slot 6 (12:20 - 01:10):
+    No classes scheduled
+  Slot 7 (01:10 - 02:00):
+    No classes scheduled
+  Slot 8 (02:00 - 02:50):
+    No classes scheduled
+  Slot 9 (02:50 - 03:40):
+    No classes scheduled
+  Slot 10 (03:40 - 04:30):
+    No classes scheduled
+  Slot 11 (04:30 - 05:20):
+    No classes scheduled
+  Slot 12 (05:20 - 06:10):
+    No classes scheduled
+  Slot 13 (06:10 - 07:00):
+    No classes scheduled
+Master timetable saved to master_timetable.csv
+Individual timetables generated for 47 teachers
+Individual timetables generated for 4 departments
+Timetable generation completed in 24.20 seconds!
+Creating visualizations...
+Using saved CSV file for visualization (direct timetable parameter not yet supported)
+Creating timetable heatmap...
+Creating teacher load chart...
+Creating room usage chart...
+Creating course distribution chart...
+Creating department load chart...
+Creating teacher schedules...
+Creating department schedules...
+Error in visualization: Unknown format code 'd' for object of type 'float'
+Error creating visualizations: Unknown format code 'd' for object of type 'float'
+
+Output files:
+- master_timetable.csv: Master timetable with all classes

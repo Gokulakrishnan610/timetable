@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,1,08:00 - 09:00,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B Third Floor
+Monday,1,08:00 - 09:00,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B203
+Monday,1,08:00 - 09:00,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B328
+Monday,2,09:00 - 09:50,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B120
+Monday,4,10:40 - 11:30,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B119
+Tuesday,1,08:00 - 09:00,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B Ground Floor
+Tuesday,1,08:00 - 09:00,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B327
+Tuesday,4,10:40 - 11:30,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B328
+Tuesday,6,12:20 - 01:10,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B Third Floor
+Tuesday,6,12:20 - 01:10,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B203
+Wednesday,2,09:00 - 09:50,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B203
+Wednesday,3,09:50 - 10:40,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B116
+Wednesday,5,11:30 - 12:20,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B310
+Wednesday,6,12:20 - 01:10,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B206
+Wednesday,6,12:20 - 01:10,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B328
+Thursday,1,08:00 - 09:00,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B119
+Thursday,2,09:00 - 09:50,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B327
+Thursday,3,09:50 - 10:40,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B120
+Thursday,3,09:50 - 10:40,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B204
+Thursday,6,12:20 - 01:10,AI23231,sathish.m1@rajalakshmi.edu.in,Information Technology,B305

@@ -1,0 +1,21 @@
+id,teacher_id__email,teacher_id__first_name,teacher_id__last_name,dept_id,staff_code,teacher_role,is_industry_professional,resignation_status
+1,john.doe@mock.edu,John,Doe,1,CS101,Professor,0,active
+2,jane.smith@mock.edu,Jane,Smith,1,CS102,Associate Professor,0,active
+3,bob.johnson@mock.edu,Bob,Johnson,1,CS103,Assistant Professor,0,active
+4,alice.williams@mock.edu,Alice,Williams,2,EE101,Professor,0,active
+5,michael.brown@mock.edu,Michael,Brown,2,EE102,Associate Professor,0,active
+6,susan.miller@mock.edu,Susan,Miller,2,EE103,Assistant Professor,0,active
+7,david.davis@mock.edu,David,Davis,3,ME101,Professor,0,active
+8,linda.wilson@mock.edu,Linda,Wilson,3,ME102,Associate Professor,0,active
+9,james.taylor@mock.edu,James,Taylor,3,ME103,Assistant Professor,0,active
+10,mary.anderson@mock.edu,Mary,Anderson,4,CE101,Professor,0,active
+11,robert.thomas@mock.edu,Robert,Thomas,4,CE102,Associate Professor,0,active
+12,patricia.jackson@mock.edu,Patricia,Jackson,4,CE103,Assistant Professor,0,active
+13,richard.white@mock.edu,Richard,White,5,PH101,Professor,0,active
+14,jennifer.harris@mock.edu,Jennifer,Harris,5,PH102,Associate Professor,0,active
+15,charles.martin@mock.edu,Charles,Martin,5,PH103,Assistant Professor,0,active
+16,sarah.thompson@mock.edu,Sarah,Thompson,6,MA101,Professor,0,active
+17,joseph.garcia@mock.edu,Joseph,Garcia,6,MA102,Associate Professor,0,active
+18,elizabeth.martinez@mock.edu,Elizabeth,Martinez,6,MA103,Assistant Professor,0,active
+19,thomas.robinson@mock.edu,Thomas,Robinson,7,AD101,Director,0,active
+20,karen.clark@mock.edu,Karen,Clark,7,AD102,Administrator,0,active 

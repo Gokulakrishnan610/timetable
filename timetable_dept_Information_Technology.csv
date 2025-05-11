@@ -1,0 +1,73 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,1,08:00 - 09:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B Third Floor
+Monday,2,09:00 - 09:50,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B119
+Monday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B117
+Monday,3,09:50 - 10:40,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B327
+Monday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B Second Floor
+Monday,3,09:50 - 10:40,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B204
+Monday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B204
+Monday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B305
+Monday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B311
+Monday,4,10:40 - 11:30,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B203
+Monday,4,10:40 - 11:30,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B119
+Monday,5,11:30 - 12:20,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B Ground Floor
+Monday,5,11:30 - 12:20,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B119
+Monday,5,11:30 - 12:20,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B205
+Monday,5,11:30 - 12:20,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B328
+Monday,6,12:20 - 01:10,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B120
+Monday,7,01:10 - 02:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B Second Floor
+Monday,8,02:00 - 02:50,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B206
+Tuesday,1,08:00 - 09:00,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B First Floor
+Tuesday,1,08:00 - 09:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B311
+Tuesday,2,09:00 - 09:50,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B206
+Tuesday,2,09:00 - 09:50,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B310
+Tuesday,2,09:00 - 09:50,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B305
+Tuesday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B204
+Tuesday,3,09:50 - 10:40,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B117
+Tuesday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B Third Floor
+Tuesday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B305
+Tuesday,3,09:50 - 10:40,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B First Floor
+Tuesday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B Third Floor
+Tuesday,4,10:40 - 11:30,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B328
+Tuesday,4,10:40 - 11:30,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B117
+Tuesday,5,11:30 - 12:20,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B311
+Tuesday,5,11:30 - 12:20,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B120
+Tuesday,6,12:20 - 01:10,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B Third Floor
+Tuesday,7,01:10 - 02:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B Second Floor
+Tuesday,8,02:00 - 02:50,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B206
+Wednesday,1,08:00 - 09:00,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B First Floor
+Wednesday,1,08:00 - 09:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B311
+Wednesday,2,09:00 - 09:50,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B206
+Wednesday,2,09:00 - 09:50,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B310
+Wednesday,2,09:00 - 09:50,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B305
+Wednesday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B204
+Wednesday,3,09:50 - 10:40,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B117
+Wednesday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B Third Floor
+Wednesday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B305
+Wednesday,3,09:50 - 10:40,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B First Floor
+Wednesday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B Third Floor
+Wednesday,4,10:40 - 11:30,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B328
+Wednesday,4,10:40 - 11:30,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B117
+Wednesday,5,11:30 - 12:20,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B311
+Wednesday,5,11:30 - 12:20,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B120
+Wednesday,6,12:20 - 01:10,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B Third Floor
+Wednesday,7,01:10 - 02:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B Second Floor
+Wednesday,8,02:00 - 02:50,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B206
+Thursday,1,08:00 - 09:00,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B202
+Thursday,1,08:00 - 09:00,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B327
+Thursday,1,08:00 - 09:00,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B328
+Thursday,2,09:00 - 09:50,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B311
+Thursday,2,09:00 - 09:50,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B206
+Thursday,3,09:50 - 10:40,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B318
+Thursday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B120
+Thursday,3,09:50 - 10:40,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B311
+Thursday,3,09:50 - 10:40,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B310
+Thursday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B120
+Thursday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B305
+Thursday,4,10:40 - 11:30,AI23231,arunajameela.ap@rajalakshmi.edu.in,Information Technology,B310
+Thursday,4,10:40 - 11:30,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B119
+Thursday,5,11:30 - 12:20,AI23231,priya.l@rajalakshmi.edu.in,Information Technology,B311
+Thursday,5,11:30 - 12:20,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B Ground Floor
+Thursday,6,12:20 - 01:10,AI23331,narayana.ke@rajalakshmi.edu.in,Information Technology,B311
+Thursday,7,01:10 - 02:00,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B116
+Thursday,8,02:00 - 02:50,AI23331,neelaveni.p@rajalakshmi.edu.in,Information Technology,B205

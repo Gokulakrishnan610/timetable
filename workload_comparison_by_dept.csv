@@ -1,0 +1,5 @@
+Department,count_expertise,min_expertise,max_expertise,mean_expertise,median_expertise,std_expertise,count_non_expertise,min_non_expertise,max_non_expertise,mean_non_expertise,median_non_expertise,std_non_expertise
+Aeronautical Engineering,13,20,20,20.0,20.0,0.0,12,20,20,20.0,20.0,0.0
+Automobile Engineering,8,20,20,20.0,20.0,0.0,8,20,20,20.0,20.0,0.0
+Biomedical Engineering,19,20,20,20.0,20.0,0.0,23,20,20,20.0,20.0,0.0
+Information Technology,4,14,20,18.0,19.0,2.82842712474619,4,14,20,18.0,19.0,2.82842712474619

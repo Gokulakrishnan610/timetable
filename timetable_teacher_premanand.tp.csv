@@ -1,0 +1,21 @@
+Day,Slot,Time,Course,Teacher,Department,Room
+Monday,3,09:50 - 10:40,AE23623,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Monday,5,11:30 - 12:20,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A204
+Monday,5,11:30 - 12:20,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A211
+Monday,6,12:20 - 01:10,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A104
+Monday,6,12:20 - 01:10,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A202
+Tuesday,3,09:50 - 10:40,AE23623,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Tuesday,3,09:50 - 10:40,AE23623,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B206
+Tuesday,4,10:40 - 11:30,AE23433,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Tuesday,6,12:20 - 01:10,AE23433,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Second Floor
+Tuesday,6,12:20 - 01:10,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A309
+Wednesday,3,09:50 - 10:40,AE23623,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Wednesday,3,09:50 - 10:40,AE23623,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B206
+Wednesday,4,10:40 - 11:30,AE23433,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Wednesday,6,12:20 - 01:10,AE23433,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Second Floor
+Wednesday,6,12:20 - 01:10,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A309
+Thursday,1,08:00 - 09:00,AE23721,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B Ground Floor
+Thursday,2,09:00 - 09:50,AE23531,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B203
+Thursday,4,10:40 - 11:30,AE23721,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B318
+Thursday,6,12:20 - 01:10,AE23433,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,B119
+Thursday,6,12:20 - 01:10,AE23512,premanand.tp@rajalakshmi.edu.in,Aeronautical Engineering,A105
